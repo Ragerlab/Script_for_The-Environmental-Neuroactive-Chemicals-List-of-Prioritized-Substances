@@ -1,1 +1,43 @@
+### The Environmental Neuroactive Chemicals List of Prioritized Substances for Human Biomonitoring and Neurotoxicity Testing: A Database and High-Throughput Toxicokinetics Approach 
+
+#### Experiment 1 Goal
+This analysis set out to investigate the chemical landscape of substances that have evidence of neuroactivity, realistic exposure potential, and feasibility of detection in urine. In total 1,827 substances with data coverage across these domains were identified and ranked with the top 250 selected as a high-priority chemicals entitled the “Environmental NeuRoactIve CHemicals (ENRICH) list”
+
+
+
+#### Experiment 1 Summary
+
+Chemicals were acquired from the following lists and databases:
+
+
+| DATABASE NAME                   | CATEOGRY                               | PART OF PRIORITIZATION ALGORITHM | \# of DTXSIDs BEFORE FILTERING | PARENT COMPOUND, METABOLITES, OR BOTH? | ORIGINAL SOURCE                                                                                                                                                                                                           | DATE ACCESSED | SPECIFIC WEBSITE FOR DATA DOWNLOAD                                                                                                                 |
+| ------------------------------- | -------------------------------------- | -------------------------------- | ------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| In Vitro Neuroactivity          | Neuroactivity                          | List Presence Score              | 233                            | Parent                                 | Kosnik et al. 2019                                                                                                                                                                                                        |  10/31/22     | [https://link.springer.com/article/10.1007/s00204-019-02636-x](https://link.springer.com/article/10.1007/s00204-019-02636-x)                       |
+| In Vivo Neuroactivity           | Neuroactivity                          | List Presence Score              | 1,482                          | Parent                                 | EPA Developmental Neurotox Reference List                                                                                                                                                                                 | 10/31/22      | [https://comptox.epa.gov/dashboard/chemical-lists/DNTREF](https://comptox.epa.gov/dashboard/chemical-lists/DNTREF)                                 |
+| PubMed Litarature Neuroactivity | Neuroactivity                          | List Presence Score              | 1,243                          | Parent                                 | EPA Neurotoxicants from PubMed List                                                                                                                                                                                       | 10/31/22      | [https://comptox.epa.gov/dashboard/chemical-lists/LITMINEDNEURO](https://comptox.epa.gov/dashboard/chemical-lists/LITMINEDNEURO)                   |
+| CPDat Child Products            | Exposure                               | List Presence Score              | 86                             | Parent                                 | EPA CompTox Dashboard search for Product Use Categories "baby lotion", "baby oil", "baby powder", "baby shampoo", "baby wash", "baby wipes", "diaper cream", and "child specific" from the Chemical and Products Database | 11/8/22       | [https://comptox.epa.gov/dashboard/batch-search](https://comptox.epa.gov/dashboard/batch-search)                                                   |
+| ECHO Pregnancy Cohort           | Exposure                               | List Presence Score              | 35                             | Parent                                 | EPA CompTox Dashboard search for Table 4 from  <br>Pellizzari et al. 2019                                                                                                                                                 | 12/9/22       | [https://comptox.epa.gov/dashboard/batch-search](https://comptox.epa.gov/dashboard/batch-search)                                                   |
+| ExpoCast Exposure               | Exposure                               | Exposure Score                   | 71,464                         | Parent                                 | EPA CompTox Dashboard batch search                                                                                                                                                                                        | 12/9/22       | [https://comptox.epa.gov/dashboard/batch-search](https://comptox.epa.gov/dashboard/batch-search)                                                   |
+| Blood Exposome                  | Detection in Biological Matrices       | List Presence Score              | 22,689                         | Both                                   | EPA Blood Exposome: Chemicals identified as part of the blood exposome in Barupal and Fiehn 2019                                                                                                                          | 12/9/22       | [https://comptox.epa.gov/dashboard/chemical-lists/BLOODEXPOSOME](https://comptox.epa.gov/dashboard/chemical-lists/BLOODEXPOSOME)                   |
+| Emerging Concern Bioscreen      | Detection in Biological Matrices       | List Presence Score              | 56,375                         | Parent                                 | EPA Chemicals of Emerging Concern from Meijer et al. 2021                                                                                                                                                                 | 10/31/22      | [https://comptox.epa.gov/dashboard/chemical-lists/CECSCREEN](https://comptox.epa.gov/dashboard/chemical-lists/CECSCREEN)                           |
+| DMSO Insolubles                 | Additional Experimental Considerations | Chemical Filtering               | 558                            | Both                                   | EPA ToxCast ChemInventory DMSO Insolubles                                                                                                                                                                                 | 11/8/22       | [https://comptox.epa.gov/dashboard/chemical-lists/CHEMINV_dmsoinsolubles](https://comptox.epa.gov/dashboard/chemical-lists/CHEMINV_dmsoinsolubles) |
+| Boiling Point                   | Additional Experimental Considerations | Chemical Filtering               | \-                             | Both                                   | EPA CompTox Dashboard bioling point predictions captured through the ECOTOX Database package                                                                                                                              | 9/14/23       | [https://cran.r-project.org/web/packages/ECOTOXr/index.html](https://cran.r-project.org/web/packages/ECOTOXr/index.html)                           |
+| Too Volatile to Test            | Additional Experimental Considerations | Chemical Filtering               | 130                            | Both                                   | EPA ToxCast CHEMINV list of volatiles                                                                                                                                                                                     | 11/8/22       | [https://comptox.epa.gov/dashboard/chemical-lists/CHEMINV_volatiles](https://comptox.epa.gov/dashboard/chemical-lists/CHEMINV_volatiles)           |
+
+
+Chemicals were then filtered to retain substances that indicated realistic potential for neuroactivity, human exposure, and detection in biological media. After an expertly driven manual curation and filtering step, a ranking schema was developed to further prioritize these chemicals. 250 chemicals were selected as the ENRICH set.
+
+
+
+
+
+
+
+
+
+#### Experiment 1 Results
+
+Dataset aggregation and filtering occurs within in the scipt **dataset_aggregation.R** and the results are output in the file **ranked_chemicals_092323.xlsx**
+
+
 
