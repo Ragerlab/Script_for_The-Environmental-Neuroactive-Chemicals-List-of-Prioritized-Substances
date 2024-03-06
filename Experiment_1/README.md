@@ -1,7 +1,7 @@
 ### The Environmental Neuroactive Chemicals List of Prioritized Substances for Human Biomonitoring and Neurotoxicity Testing: A Database and High-Throughput Toxicokinetics Approach 
 
 #### Experiment 1 Goal
-This analysis set out to investigate the chemical landscape of substances that have evidence of neuroactivity, realistic exposure potential, and feasibility of detection in urine. In total 1,827 substances with data coverage across these domains were identified and ranked with the top 250 selected as a high-priority chemicals entitled the “Environmental NeuRoactIve CHemicals (ENRICH) list”
+This analysis set out to investigate the chemical landscape of substances that have evidence of neuroactivity, realistic exposure potential, and feasibility of detection in urine. In total, 1,827 substances with data coverage across these domains were identified and ranked with 250 selected as a high-priority chemicals entitled the “Environmental NeuRoactIve CHemicals (ENRICH) list”.
 
 
 
@@ -27,17 +27,13 @@ Chemicals were acquired from the following lists and databases:
 
 Chemicals were then filtered to retain substances that indicated realistic potential for neuroactivity, human exposure, and detection in biological media. After an expertly driven manual curation and filtering step, a ranking schema was developed to further prioritize these chemicals. 250 chemicals were selected as the ENRICH set.
 
-
-
-
-
-
+<img src="https://github.com/Ragerlab/Script_for_The-Environmental-Neuroactive-Chemicals-List-of-Prioritized-Substances/blob/main/Experiment_1/figures/Fig1_Prioritization_022624.png" alt="drawing" width="650"/>
 
 
 
 #### Experiment 1 Results
 
-Dataset aggregation and filtering occurs within in the scipt **dataset_aggregation.R** and the results are output in the file **ranked_chemicals_092323.xlsx**
+Dataset aggregation and filtering occurs within in the scipt **dataset_aggregation.R** and the results are output in the file **ranked_chemicals_092323.xlsx**.
 
 
 
