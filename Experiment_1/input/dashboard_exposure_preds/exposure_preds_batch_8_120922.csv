@@ -1,0 +1,1465 @@
+INPUT,FOUND_BY,DTXSID,PREFERRED_NAME,CASRN,EXPOCAST,EXPOCAST_MEDIAN_EXPOSURE_PREDICTION_MG/KG-BW/DAY,NHANES
+DTXSID90884199,DSSTox_Substance_Id,DTXSID90884199,"7-Benzothiazolesulfonic acid, 2-[4-[2-[2,4-dihydroxy-3-(2-phenyldiazenyl)phenyl]diazenyl]phenyl]-6-methyl-, sodium salt (1:1)",5915-59-3,N/A,N/A,N/A
+DTXSID90884250,DSSTox_Substance_Id,DTXSID90884250,"5,7,12-Trioxa-6-stannaoctadeca-2,9-dienoic acid, 14-ethyl-6,6-dioctyl-4,8,11-trioxo-, 2-ethylhexyl ester",10039-33-5,N/A,N/A,N/A
+DTXSID90884255,DSSTox_Substance_Id,DTXSID90884255,"1-Naphthalenesulfonic acid, 4-amino-3-[2-(4-nitrophenyl)diazenyl]-, sodium salt (1:1)",6300-18-1,N/A,N/A,N/A
+DTXSID90884270,DSSTox_Substance_Id,DTXSID90884270,"Benzenesulfonic acid, 4-[2-(4,5-dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol-4-yl)diazenyl]-, sodium salt (1:1)",6359-74-6,N/A,N/A,N/A
+DTXSID90884295,DSSTox_Substance_Id,DTXSID90884295,"Benzenemethanamine, 4-amino-N,N-dimethyl-",6406-74-2,Y,1.44E-06,N/A
+DTXSID90884311,DSSTox_Substance_Id,DTXSID90884311,"3H-Indolium, 2-[2-[4-[(2-chloroethyl)ethylamino]-2-methylphenyl]ethenyl]-1,3,3-trimethyl-, chloride (1:1)",6441-82-3,Y,2.41E-07,N/A
+DTXSID90884316,DSSTox_Substance_Id,DTXSID90884316,"Benzenepropanal, .alpha.-methyl-2-(1-methylethyl)-",6502-20-1,N/A,N/A,N/A
+DTXSID90884336,DSSTox_Substance_Id,DTXSID90884336,C.I. Pigment Orange 14,6837-37-2,N/A,N/A,N/A
+DTXSID90884371,DSSTox_Substance_Id,DTXSID90884371,"2,4-Decadienoic acid, ethyl ester, (2E,4E)-",7328-34-9,Y,3.32E-06,N/A
+DTXSID90884376,DSSTox_Substance_Id,DTXSID90884376,DL-alpha-Methyltyrosine methyl ester hydrochloride,7361-31-1,N/A,N/A,N/A
+DTXSID90884391,DSSTox_Substance_Id,DTXSID90884391,"Allyl (2E,4E)-2,4-hexadienoate",7493-75-6,N/A,N/A,N/A
+DTXSID90884412,DSSTox_Substance_Id,DTXSID90884412,"L-Tyrosine, hydrazide",7662-51-3,N/A,N/A,N/A
+DTXSID90884452,DSSTox_Substance_Id,DTXSID90884452,"Silane, tris(2-chloroethoxy)-",10138-79-1,N/A,N/A,N/A
+DTXSID90884477,DSSTox_Substance_Id,DTXSID90884477,"Benzeneacetic acid, (3S)-3,7-dimethyl-7-octen-1-yl ester",10486-14-3,Y,1.78E-06,N/A
+DTXSID90884492,DSSTox_Substance_Id,DTXSID90884492,"2-Propenoic acid, 2-methyl-, (tetrahydro-2H-pyran-2-yl)methyl ester",10535-52-1,N/A,N/A,N/A
+DTXSID90884497,DSSTox_Substance_Id,DTXSID90884497,"1-Propanaminium, N,N,N-trimethyl-3-[(1-oxododecyl)amino]-, methyl sulfate (1:1)",10595-49-0,Y,3.73E-07,N/A
+DTXSID90884553,DSSTox_Substance_Id,DTXSID90884553,"Cyclohexene, 4,4'-(1,2-ethenediyl)bis-",17527-28-5,N/A,N/A,N/A
+DTXSID90884593,DSSTox_Substance_Id,DTXSID90884593,"3,6-Dimethyl-5,6,7,7a-tetrahydrobenzofuran-2(4H)-one",13341-72-5,Y,2.41E-06,N/A
+DTXSID90884614,DSSTox_Substance_Id,DTXSID90884614,Chlorosilane,13465-78-6,N/A,N/A,N/A
+DTXSID90884634,DSSTox_Substance_Id,DTXSID90884634,"L-Phenylalanine, N-[(1,1-dimethylethoxy)carbonyl]-",13734-34-4,N/A,N/A,N/A
+DTXSID90884639,DSSTox_Substance_Id,DTXSID90884639,"Phenol, 2-methoxy-5-[(1R,2S,4R,6S)-5,5,6-trimethylbicyclo[2.2.1]hept-2-yl]-, rel-",13746-57-1,N/A,N/A,N/A
+DTXSID90884679,DSSTox_Substance_Id,DTXSID90884679,"Acetamide, 2-cyano-N-[(ethylamino)carbonyl]-",41078-06-2,N/A,N/A,N/A
+DTXSID90884699,DSSTox_Substance_Id,DTXSID90884699,"3-Hepten-1-ol, 6-methyl-, (3Z)-",56095-68-2,N/A,N/A,N/A
+DTXSID90884710,DSSTox_Substance_Id,DTXSID90884710,"7H,11H-Benz[de]imidazo[4',5':5,6]benzimidazo[2,1-a]isoquinoline-7,11-dione, 10,12-dihydro-",56279-27-7,Y,1.99E-07,N/A
+DTXSID90884750,DSSTox_Substance_Id,DTXSID90884750,"Pyridinium, 1-[2-[[4-[2-(2,6-dichloro-4-nitrophenyl)diazenyl]phenyl]ethylamino]ethyl]-, chloride (1:1)",14408-20-9,N/A,N/A,N/A
+DTXSID90884775,DSSTox_Substance_Id,DTXSID90884775,"2-Undecanol, 2-acetate",14936-67-5,N/A,N/A,N/A
+DTXSID90884795,DSSTox_Substance_Id,DTXSID90884795,"Silanamine, N,N-bis(dimethylsilyl)-1,1-dimethyl-",21331-86-2,Y,1.13E-06,N/A
+DTXSID90884816,DSSTox_Substance_Id,DTXSID90884816,"9-Dodecenoic acid, methyl ester",39202-17-0,Y,6.47E-05,N/A
+DTXSID90884831,DSSTox_Substance_Id,DTXSID90884831,"2,4-Imidazolidinedione, 5,5-dimethyl-1,3-bis(2-oxiranylmethyl)-",15336-81-9,N/A,N/A,N/A
+DTXSID90884851,DSSTox_Substance_Id,DTXSID90884851,"2-Naphthalenecarboxylic acid, 4-[2-(5-chloro-4-methyl-2-sulfophenyl)diazenyl]-3-hydroxy-, strontium salt (1:1)",15782-05-5,Y,3.35E-07,N/A
+DTXSID90884856,DSSTox_Substance_Id,DTXSID90884856,"2-Cyclopentene-1-acetic acid, ethyl ester",15848-49-4,Y,3.07E-06,N/A
+DTXSID90884912,DSSTox_Substance_Id,DTXSID90884912,"1,2-Benzenedicarboxylic acid, 1-(2-methoxyethyl) ester",16501-01-2,N/A,N/A,N/A
+DTXSID90884932,DSSTox_Substance_Id,DTXSID90884932,"2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R,6S)-rel-",16721-38-3,N/A,N/A,N/A
+DTXSID90884957,DSSTox_Substance_Id,DTXSID90884957,"9-Octadecenamide, N-[3-[(9Z)-9-octadecen-1-ylamino]propyl]-, (9Z)-",17081-40-2,N/A,N/A,N/A
+DTXSID90884992,DSSTox_Substance_Id,DTXSID90884992,"4,6-Dimethyl-8-(2-methyl-2-propanyl)-2H-chromen-2-one",17874-34-9,N/A,N/A,N/A
+DTXSID90884997,DSSTox_Substance_Id,DTXSID90884997,"2,6,9,11-Dodecatetraenal, 2,6,10-trimethyl-, (2E,6E,9E)-",17909-77-2,Y,2.78E-06,N/A
+DTXSID90885025,DSSTox_Substance_Id,DTXSID90885025,"2-Hexene, 1,1-dimethoxy-, (2E)-",18318-83-7,Y,2.52E-06,N/A
+DTXSID90885080,DSSTox_Substance_Id,DTXSID90885080,"Acetamide, N-[4-[[(aminoiminomethyl)amino]sulfonyl]phenyl]-",19077-97-5,N/A,N/A,N/A
+DTXSID90885085,DSSTox_Substance_Id,DTXSID90885085,"Benzene, 1,1',1''-(1,3,5,5-tetramethyl-1-pentene-1,3,5-triyl)tris-",19303-34-5,Y,3.23E-07,N/A
+DTXSID90885101,DSSTox_Substance_Id,DTXSID90885101,"2-Hexadecanol, 1-[bis(2-hydroxyethyl)amino]-",19845-37-5,N/A,N/A,N/A
+DTXSID90885121,DSSTox_Substance_Id,DTXSID90885121,"Phenol, 2-methoxy-4-(5,6,6-trimethylbicyclo[2.2.1]hept-2-yl)-",20201-60-9,N/A,N/A,N/A
+DTXSID90885161,DSSTox_Substance_Id,DTXSID90885161,"Spiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, 2'-chloro-6'-(diethylamino)-3'-methyl-",21121-62-0,N/A,N/A,N/A
+DTXSID90885181,DSSTox_Substance_Id,DTXSID90885181,"Butanamide, 2-[2-[2-hydroxy-5-[(methylamino)sulfonyl]phenyl]diazenyl]-3-oxo-N-phenyl-",21811-94-9,N/A,N/A,N/A
+DTXSID90885186,DSSTox_Substance_Id,DTXSID90885186,"2-Butene, 1,1-dimethoxy-",21962-24-3,N/A,N/A,N/A
+DTXSID90885202,DSSTox_Substance_Id,DTXSID90885202,"Eicosanoic acid, (9Z)-9-octadecen-1-yl ester",22393-96-0,N/A,N/A,N/A
+DTXSID90885207,DSSTox_Substance_Id,DTXSID90885207,"1,7-Octadien-3-ol, 2,6-dimethyl-",22460-59-9,N/A,N/A,N/A
+DTXSID90885262,DSSTox_Substance_Id,DTXSID90885262,"2-Propen-1-one, 1-[4-[[6-O-(6-deoxy-.alpha.-L-mannopyranosyl)-.beta.-D-glucopyranosyl]oxy]-2-hydroxy-6-methoxyphenyl]-3-(3-hydroxy-4-methoxyphenyl)-, (2E)-",24292-52-2,Y,7.94E-07,N/A
+DTXSID90885267,DSSTox_Substance_Id,DTXSID90885267,"2-Anthracenesulfonic acid, 1-amino-4-[[4-[(2-chloroacetyl)amino]phenyl]amino]-9,10-dihydro-9,10-dioxo-, sodium salt (1:1)",24448-60-0,N/A,N/A,N/A
+DTXSID90885282,DSSTox_Substance_Id,DTXSID90885282,"Benzenesulfonic acid, 3-[2-[2-hydroxy-3-[[(4-methoxy-2-methylphenyl)amino]carbonyl]-1-naphthalenyl]diazenyl]-4-methoxy-, sodium salt (1:1)",25047-71-6,N/A,N/A,N/A
+DTXSID90885308,DSSTox_Substance_Id,DTXSID90885308,"1,3-Dioxolane, 2,4-dimethyl-2-phenyl-, (2R,4S)-rel-",25687-77-8,N/A,N/A,N/A
+DTXSID90885323,DSSTox_Substance_Id,DTXSID90885323,"Ethanesulfonic acid, 2-[(aminoiminomethyl)thio]-",25985-57-3,N/A,N/A,N/A
+DTXSID90885328,DSSTox_Substance_Id,DTXSID90885328,"Carbamic acid, N-[(1S)-3-chloro-2-oxo-1-(phenylmethyl)propyl]-, phenylmethyl ester",26049-94-5,N/A,N/A,N/A
+DTXSID90885363,DSSTox_Substance_Id,DTXSID90885363,"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris(3-isocyanatomethylphenyl)-",26603-40-7,Y,2.71E-07,N/A
+DTXSID90885368,DSSTox_Substance_Id,DTXSID90885368,"Guanidine, benzoate (1:1)",26739-54-8,N/A,N/A,N/A
+DTXSID90885383,DSSTox_Substance_Id,DTXSID90885383,"Acetamide, N-[5-[bis(2-hydroxyethyl)amino]-2-[2-(2-bromo-4,6-dinitrophenyl)diazenyl]-4-ethoxyphenyl]-",27189-31-7,N/A,N/A,N/A
+DTXSID90885388,DSSTox_Substance_Id,DTXSID90885388,"Acetamide, N-[5-[(2-hydroxyethyl)sulfonyl]-2-methoxyphenyl]-",27375-53-7,N/A,N/A,N/A
+DTXSID90885404,DSSTox_Substance_Id,DTXSID90885404,"6,9-Octadecadienamide, N,N-bis(2-hydroxyethyl)-, (6Z,9Z)-",27883-12-1,N/A,N/A,N/A
+DTXSID90885409,DSSTox_Substance_Id,DTXSID90885409,"Propanenitrile, 3-[[4-[2-(5,6-dichloro-2-benzothiazolyl)diazenyl]-3-methylphenyl]ethylamino]-",28080-90-2,Y,2.70E-07,N/A
+DTXSID90885444,DSSTox_Substance_Id,DTXSID90885444,"1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrabromo-, 1-ethyl ester",29092-13-5,N/A,N/A,N/A
+DTXSID90885449,DSSTox_Substance_Id,DTXSID90885449,"2-Propen-1-aminium, N,N,N-triethyl-, bromide (1:1)",29443-23-0,Y,2.52E-07,N/A
+DTXSID90885464,DSSTox_Substance_Id,DTXSID90885464,"L-Glutamic acid, N-(1-oxododecyl)-, sodium salt (1:1)",29923-31-7,Y,1.11E-06,N/A
+DTXSID90885489,DSSTox_Substance_Id,DTXSID90885489,"Benzoic acid, 4-[2-(4,5-dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol-4-yl)diazenyl]-",30926-22-8,Y,2.49E-07,N/A
+DTXSID90885520,DSSTox_Substance_Id,DTXSID90885520,"Cyclopropanemethanol, 2-ethyl-, (1R,2S)-rel-",31915-75-0,N/A,N/A,N/A
+DTXSID90885525,DSSTox_Substance_Id,DTXSID90885525,"Benzaldehyde, 4-[ethyl[3-phenoxy-2-[[(phenylamino)carbonyl]oxy]propyl]amino]-2-methyl-",32089-69-3,N/A,N/A,N/A
+DTXSID90885585,DSSTox_Substance_Id,DTXSID90885585,"Hexanedioic acid, 1,6-bis(2-acetylhydrazide)",34375-39-8,N/A,N/A,N/A
+DTXSID90885601,DSSTox_Substance_Id,DTXSID90885601,"Urea, N-[bis[4-(dimethylamino)phenyl]methylene]-N'-butyl-",34851-48-4,N/A,N/A,N/A
+DTXSID90885621,DSSTox_Substance_Id,DTXSID90885621,"Ethanesulfonic acid, 2-[[4-[3-(4,5-dichloro-2-methylphenyl)-4,5-dihydro-1H-pyrazol-1-yl]phenyl]sulfonyl]-, sodium salt (1:1)",35441-13-5,Y,1.88E-07,N/A
+DTXSID90885626,DSSTox_Substance_Id,DTXSID90885626,"Octadecanamide, N-(2-hydroxypropyl)-",35627-96-4,Y,1.09E-06,N/A
+DTXSID90885641,DSSTox_Substance_Id,DTXSID90885641,"1,4-Benzenedicarboxamide, N1,N4-bis(1-methyl-2-oxo-2-phenylethyl)-",36018-09-4,N/A,N/A,N/A
+DTXSID90885646,DSSTox_Substance_Id,DTXSID90885646,"Bicyclo[2.2.2]oct-5-ene-2-carboxaldehyde, 4-methyl-1-(1-methylethyl)-, (1.alpha.,2.alpha.,4.beta.)-",36208-34-1,N/A,N/A,N/A
+DTXSID90885681,DSSTox_Substance_Id,DTXSID90885681,"1,3-Benzodioxole-5-methanesulfonic acid, .alpha.-hydroxy-, sodium salt (1:1)",37589-10-9,N/A,N/A,N/A
+DTXSID90885707,DSSTox_Substance_Id,DTXSID90885707,"2-Propenal, 3-bicyclo[2.2.1]hept-5-en-2-yl-2-methyl-",38284-42-3,N/A,N/A,N/A
+DTXSID90885742,DSSTox_Substance_Id,DTXSID90885742,"Benzenesulfonic acid, 4-[2-[4-[2-(2-phenyl-1H-indol-3-yl)diazenyl]phenyl]diazenyl]-, sodium salt (1:1)",50814-28-3,Y,2.47E-07,N/A
+DTXSID90885747,DSSTox_Substance_Id,DTXSID90885747,"3H-Indolium, 5-methoxy-1,3,3-trimethyl-2-[2-(1-methyl-2-phenyl-1H-indol-3-yl)ethenyl]-, chloride (1:1)",54060-93-4,N/A,N/A,N/A
+DTXSID90885767,DSSTox_Substance_Id,DTXSID90885767,"3H-Indolium, 2-[[2-(4-methoxyphenyl)-2-methylhydrazinylidene]methyl]-1,3,3-trimethyl-, chloride (1:1)",38936-35-5,Y,2.62E-07,N/A
+DTXSID90885782,DSSTox_Substance_Id,DTXSID90885782,"1,6-Octadiene-3-thiol, 3,7-dimethyl-",39707-47-6,N/A,N/A,N/A
+DTXSID90885828,DSSTox_Substance_Id,DTXSID90885828,"3H-Indolium, 3-[2-(2,4-dihydro-2,4-dimethyl-3H-1,2,4-triazol-3-ylidene)hydrazinylidene]-1-methyl-2-phenyl-, chloride (1:1)",41025-67-6,Y,3.04E-07,N/A
+DTXSID90885848,DSSTox_Substance_Id,DTXSID90885848,"1-Naphthalenol, 2-amino-, hydrochloride (1:1)",41772-23-0,N/A,N/A,N/A
+DTXSID90885863,DSSTox_Substance_Id,DTXSID90885863,"2-Oxiranecarboxylic acid, 3-(4-methoxyphenyl)-, methyl ester",42245-42-1,N/A,N/A,N/A
+DTXSID90885868,DSSTox_Substance_Id,DTXSID90885868,"3-Cyclohexene-1-carboxaldehyde, 4,5-dimethyl-2-(2-methyl-1-propen-1-yl)-, (1R,2S,5S)-rel-",42507-58-4,N/A,N/A,N/A
+DTXSID90885924,DSSTox_Substance_Id,DTXSID90885924,"2-Octene, 8-methoxy-2,6-dimethyl-",55915-70-3,N/A,N/A,N/A
+DTXSID90885929,DSSTox_Substance_Id,DTXSID90885929,"Dodecanedioic acid, 1,12-bis[2-(2-hydroxybenzoyl)hydrazide]",63245-38-5,Y,3.68E-07,N/A
+DTXSID90885949,DSSTox_Substance_Id,DTXSID90885949,"1-Propanaminium, N,N,N-trimethyl-3-[(1-oxohexadecyl)amino]-, chloride (1:1)",51277-96-4,Y,1.73E-05,N/A
+DTXSID90885964,DSSTox_Substance_Id,DTXSID90885964,"2H-Pyran, 2-(5-decyn-1-yloxy)tetrahydro-",51652-45-0,N/A,N/A,N/A
+DTXSID90885969,DSSTox_Substance_Id,DTXSID90885969,"Ethane(dithioic) acid, 2-(3-methyl-2(3H)-benzothiazolylidene)-, methyl ester",51741-78-7,N/A,N/A,N/A
+DTXSID90885984,DSSTox_Substance_Id,DTXSID90885984,"4,6(1H,5H)-Pyrimidinedione, 5-bromo-",52176-13-3,N/A,N/A,N/A
+DTXSID90886012,DSSTox_Substance_Id,DTXSID90886012,"Benzothiazolium, 3-(2-hydroxyethyl)-2-[3-[3-(2-hydroxyethyl)-2(3H)-benzothiazolylidene]-2-methyl-1-propen-1-yl]-, bromide (1:1)",52686-09-6,N/A,N/A,N/A
+DTXSID90886017,DSSTox_Substance_Id,DTXSID90886017,"1(3H)-Isobenzofuranone, 3-[2,4-bis(dimethylamino)phenyl]-3-[4-(diethylamino)-2-methylphenyl]-",52830-80-5,N/A,N/A,N/A
+DTXSID90886032,DSSTox_Substance_Id,DTXSID90886032,"2-Butenoic acid, 2-methyl-, 3-methylpentyl ester, (2Z)-",53082-58-9,Y,2.49E-06,N/A
+DTXSID90886052,DSSTox_Substance_Id,DTXSID90886052,"Butanoic acid, (2E)-2-hexen-1-yl ester",53398-83-7,Y,3.55E-06,N/A
+DTXSID90886072,DSSTox_Substance_Id,DTXSID90886072,"1(2H)-Quinolineethanol, 3,4-dihydro-2,2,4,7-tetramethyl-",53817-44-0,N/A,N/A,N/A
+DTXSID90886077,DSSTox_Substance_Id,DTXSID90886077,"Phenol, 2-methoxy-4-(2-oxiranylmethyl)-",53940-49-1,N/A,N/A,N/A
+DTXSID90886092,DSSTox_Substance_Id,DTXSID90886092,"Benzenamine, N,N-diethyl-4-[2-(5-nitro-2-thiazolyl)diazenyl]-",54289-46-2,N/A,N/A,N/A
+DTXSID90886097,DSSTox_Substance_Id,DTXSID90886097,"Hexane, 1-(1-methoxyethoxy)-",54340-90-8,N/A,N/A,N/A
+DTXSID90886113,DSSTox_Substance_Id,DTXSID90886113,"Ethanone, 1-[4-(1R,2S,4S)-bicyclo[2.2.1]hept-2-ylphenyl]-, rel-",54762-86-6,N/A,N/A,N/A
+DTXSID90886138,DSSTox_Substance_Id,DTXSID90886138,"Acetamide, 2-bromo-2-[(4-methylphenyl)sulfonyl]-",55490-03-4,N/A,N/A,N/A
+DTXSID90886158,DSSTox_Substance_Id,DTXSID90886158,"1H-Pyrazole-4-methanesulfonic acid, 3-(4,5-dichloro-2-methylphenyl)-1-(1,3-dihydro-1-oxo-5-isobenzofuranyl)-4,5-dihydro-, sodium salt (1:1)",58953-08-5,N/A,N/A,N/A
+DTXSID90886198,DSSTox_Substance_Id,DTXSID90886198,"Benzene, 4-(1,3-diphenylbutyl)-1,2-dimethyl-",56525-86-1,Y,3.81E-07,N/A
+DTXSID90886214,DSSTox_Substance_Id,DTXSID90886214,"2-Butanone, 1-chloro-1-(4-chlorophenoxy)-3,3-dimethyl-",57000-78-9,N/A,N/A,N/A
+DTXSID90886234,DSSTox_Substance_Id,DTXSID90886234,"2H-Pyran, tetrahydro-2-[(11E)-11-tetradecen-1-yloxy]-",57586-92-2,Y,9.36E-07,N/A
+DTXSID90886239,DSSTox_Substance_Id,DTXSID90886239,"3,6-Dimethyl-3alpha,4,5,7alpha-tetrahydro-1-benzofuran-2(3H)-one",57743-63-2,Y,2.97E-06,N/A
+DTXSID90886315,DSSTox_Substance_Id,DTXSID90886315,"Naphtho[1,2-d]thiazolium, 2-[3-(3-ethyl-6-methoxy-5-methyl-2(3H)-benzothiazolylidene)-2-(2-thienyl)-1-propen-1-yl]-1-methyl-, iodide (1:1)",63815-83-8,N/A,N/A,N/A
+DTXSID90886330,DSSTox_Substance_Id,DTXSID90886330,"Acetaldehyde, 2-[[(2E)-3,7-dimethyl-2,6-octadien-1-yl]oxy]-",65405-73-4,Y,3.04E-06,N/A
+DTXSID90886335,DSSTox_Substance_Id,DTXSID90886335,"Bicyclo[2.2.2]octane-2-carboxaldehyde, 6-(1-methylethyl)-",67662-97-9,N/A,N/A,N/A
+DTXSID90886390,DSSTox_Substance_Id,DTXSID90886390,"2-Octenoic acid, 4-ethyl-, (2Z)-",60308-75-0,Y,3.08E-06,N/A
+DTXSID90886395,DSSTox_Substance_Id,DTXSID90886395,"Benzenamine, 2,5-dimethyl-N-(1-methylpropyl)-",60388-37-6,N/A,N/A,N/A
+DTXSID90886411,DSSTox_Substance_Id,DTXSID90886411,"2H-Pyran, tetrahydro-4-methylene-2-(2-methyl-1-propen-1-yl)-",60857-05-8,Y,2.06E-06,N/A
+DTXSID90886436,DSSTox_Substance_Id,DTXSID90886436,"Bicyclo[3.1.1]heptane-3-methanamine, 2,6,6-trimethyl-",61299-72-7,Y,1.24E-06,N/A
+DTXSID90886451,DSSTox_Substance_Id,DTXSID90886451,"Oxirane, 2-[[4-(1-methyl-1-phenylethyl)phenoxy]methyl]-",61578-04-9,N/A,N/A,N/A
+DTXSID90886456,DSSTox_Substance_Id,DTXSID90886456,"2-Butenoic acid, 2-methyl-, 2-methylpropyl ester, (2E)-",61692-84-0,Y,2.34E-06,N/A
+DTXSID90886471,DSSTox_Substance_Id,DTXSID90886471,"Ethanol, 2-[ethyl[3-methyl-4-[2-(4-nitrophenyl)diazenyl]phenyl]amino]-",61994-66-9,N/A,N/A,N/A
+DTXSID90886476,DSSTox_Substance_Id,DTXSID90886476,"1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 2-ethylhexanoate (1:1)",62314-22-1,N/A,N/A,N/A
+DTXSID90886491,DSSTox_Substance_Id,DTXSID90886491,"Pentanamide, 2-chloro-N-(2,4-dichlorophenyl)-4,4-dimethyl-3-oxo-",62609-85-2,N/A,N/A,N/A
+DTXSID90886532,DSSTox_Substance_Id,DTXSID90886532,"Hexanoyl chloride, 2-[2,4-bis(1,1-dimethylpropyl)phenoxy]-",63059-55-2,Y,4.91E-07,N/A
+DTXSID90886537,DSSTox_Substance_Id,DTXSID90886537,"Quinolinium, 1-ethyl-2-[(3-ethyl-2(3H)-benzoxazolylidene)methyl]-, iodide (1:1)",63123-27-3,N/A,N/A,N/A
+DTXSID90886592,DSSTox_Substance_Id,DTXSID90886592,"Cyclohexanepropanol, .alpha.,.beta.-dimethyl-",63450-10-2,N/A,N/A,N/A
+DTXSID90886597,DSSTox_Substance_Id,DTXSID90886597,"Disulfoxide, dioctyl",63450-71-5,N/A,N/A,N/A
+DTXSID90886613,DSSTox_Substance_Id,DTXSID90886613,"Benzoic acid, 3-[(4-hydroxy-3-sulfophenyl)(4-oxo-3-sulfo-2,5-cyclohexadien-1-ylidene)methyl]-, calcium salt (1:1)",63494-80-4,N/A,N/A,N/A
+DTXSID90886618,DSSTox_Substance_Id,DTXSID90886618,"Quinolinium, 1-(3-hydroxypropyl)-2-methyl-, iodide (1:1)",63512-61-8,N/A,N/A,N/A
+DTXSID90886633,DSSTox_Substance_Id,DTXSID90886633,"3-Cyclohexene-1-methanol, .alpha.,4,6,6-tetramethyl-, 1-formate",63649-51-4,N/A,N/A,N/A
+DTXSID90886638,DSSTox_Substance_Id,DTXSID90886638,"Propanoic acid, 2-hydroxy-, 1-methylethyl ester, (2S)-",63697-00-7,Y,1.85E-06,N/A
+DTXSID90886673,DSSTox_Substance_Id,DTXSID90886673,"Benzenecarbothioic acid, 4-(2-methylbutoxy)-, S-(4-cyanophenyl) ester",64240-66-0,N/A,N/A,N/A
+DTXSID90886693,DSSTox_Substance_Id,DTXSID90886693,"1,6-Dodecadien-3-ol, 3,7,11-trimethyl-",64611-88-7,Y,2.82E-06,N/A
+DTXSID90886714,DSSTox_Substance_Id,DTXSID90886714,"Benzenemethanaminium, N,N-bis(2-hydroxypropyl)-N-tetradecyl-, chloride (1:1)",65059-94-1,N/A,N/A,N/A
+DTXSID90886759,DSSTox_Substance_Id,DTXSID90886759,"2-Butenoic acid, (3Z)-3-hexen-1-yl ester, (2E)-",65405-80-3,Y,3.41E-06,N/A
+DTXSID90886779,DSSTox_Substance_Id,DTXSID90886779,"3-Cyclohexene-1-carboxylic acid, 1-methyl-3-(4-methyl-3-penten-1-yl)-",65652-27-9,N/A,N/A,N/A
+DTXSID90886794,DSSTox_Substance_Id,DTXSID90886794,"3H-Pyrazol-3-one, 4,4'-[(phenylmethylene)bis[(2-methyl-4,1-phenylene)-2,1-diazenediyl]]bis[2,4-dihydro-5-methyl-2-phenyl-",66085-69-6,Y,2.64E-07,N/A
+DTXSID90886830,DSSTox_Substance_Id,DTXSID90886830,"1-Butanol, 2,2-bis[(2-propen-1-yloxy)methyl]-, 1-acetate",67385-21-1,N/A,N/A,N/A
+DTXSID90886875,DSSTox_Substance_Id,DTXSID90886875,"2H-Pyran-2-one, 5-butyl-5-ethyltetrahydro-",67770-79-0,N/A,N/A,N/A
+DTXSID90886890,DSSTox_Substance_Id,DTXSID90886890,"2(3H)-Furanone, 5-(1,3-dimethyl-1-buten-1-yl)dihydro-",67800-85-5,N/A,N/A,N/A
+DTXSID90886895,DSSTox_Substance_Id,DTXSID90886895,"2-Propenoic acid, 3-[3-(trifluoromethyl)phenyl]-, (2E)-",67801-07-4,N/A,N/A,N/A
+DTXSID90886916,DSSTox_Substance_Id,DTXSID90886916,C.I. Pigment Yellow 124,67828-22-2,N/A,N/A,N/A
+DTXSID90886931,DSSTox_Substance_Id,DTXSID90886931,"Bicyclo[2.2.1]hept-5-ene-2-carboxylic acid, 3-methyl-, ethyl ester",67845-29-8,N/A,N/A,N/A
+DTXSID90886951,DSSTox_Substance_Id,DTXSID90886951,"Methanone, [4-[(3,5-dimethylhexyl)oxy]-2-hydroxyphenyl]phenyl-",67845-91-4,N/A,N/A,N/A
+DTXSID90886971,DSSTox_Substance_Id,DTXSID90886971,"Oxirane, 2-heptadecyl-",67860-04-2,N/A,N/A,N/A
+DTXSID90886991,DSSTox_Substance_Id,DTXSID90886991,"Phenol, 5-(1,1-dimethylethyl)-2-methoxy-4-(2-propen-1-yl)-",67874-75-3,N/A,N/A,N/A
+DTXSID90886996,DSSTox_Substance_Id,DTXSID90886996,"1H-3a,7-Methanoazulene, octahydro-6-methoxy-3,6,8,8-tetramethyl-, (3R,3aS,6R,7R,8aS)-",67874-81-1,Y,2.25E-06,N/A
+DTXSID90887004,DSSTox_Substance_Id,DTXSID90887004,"1-Naphthalenediazonium, 4-[2-(3-sulfophenyl)diazenyl]-, chloride (1:1)",67875-15-4,N/A,N/A,N/A
+DTXSID90887009,DSSTox_Substance_Id,DTXSID90887009,"1-Naphthalenediazonium, 4-(2-phenyldiazenyl)-, chloride (1:1)",67875-31-4,N/A,N/A,N/A
+DTXSID90887029,DSSTox_Substance_Id,DTXSID90887029,"2-Propenoic acid, 2-methyl-, 2-methylnonyl ester",67905-49-1,Y,2.28E-06,N/A
+DTXSID90887044,DSSTox_Substance_Id,DTXSID90887044,"Benzene, [1-(1-methoxy-2-phenylethoxy)ethyl]-",67923-57-3,N/A,N/A,N/A
+DTXSID90887049,DSSTox_Substance_Id,DTXSID90887049,"Benzenediazonium, 4-[ethyl(2-hydroxyethyl)amino]-2-methyl-, tetrafluoroborate(1-) (1:1)",67952-27-6,N/A,N/A,N/A
+DTXSID90887089,DSSTox_Substance_Id,DTXSID90887089,"Benzoxazolium, 3-ethyl-5,6-dimethyl-2-[2-(phenylamino)ethenyl]-, iodide (1:1)",67990-11-8,N/A,N/A,N/A
+DTXSID90887105,DSSTox_Substance_Id,DTXSID90887105,"Nonanoic acid, (2E)-3,7-dimethyl-2,6-octadien-1-yl ester",68039-29-2,N/A,N/A,N/A
+DTXSID90887120,DSSTox_Substance_Id,DTXSID90887120,"Benzene, 2-(chloromethyl)-1-(1-methylpropyl)-4-nitro-",68015-95-2,N/A,N/A,N/A
+DTXSID90887125,DSSTox_Substance_Id,DTXSID90887125,"2-Dodecenenitrile, 4-methyl-",68039-75-8,N/A,N/A,N/A
+DTXSID90887145,DSSTox_Substance_Id,DTXSID90887145,"Benzenebutanenitrile, .beta.-oxo-.alpha.-[3-(trifluoromethyl)phenyl]-",68084-26-4,N/A,N/A,N/A
+DTXSID90887180,DSSTox_Substance_Id,DTXSID90887180,"Benzeneacetic acid, (2E)-2-hexen-1-yl ester",68133-78-8,Y,3.17E-06,N/A
+DTXSID90887206,DSSTox_Substance_Id,DTXSID90887206,"Benzene, 1,1'-[(3,7-dimethyl-6-octen-1-ylidene)bis(oxy-2,1-ethanediyl)]bis-",68140-52-3,N/A,N/A,N/A
+DTXSID90887221,DSSTox_Substance_Id,DTXSID90887221,"Ethanaminium, N-[4-[(2-chlorophenyl)[4-[(2-cyanoethyl)ethylamino]phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-2-cyano-N-ethyl-, chloride (1:1)",68156-17-2,N/A,N/A,N/A
+DTXSID90887226,DSSTox_Substance_Id,DTXSID90887226,"Phosphoric acid, butyl 2-ethoxyethyl ester",68186-39-0,Y,1.36E-06,N/A
+DTXSID90887246,DSSTox_Substance_Id,DTXSID90887246,"Spiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, 6'-(ethylhexylamino)-3'-methyl-2'-(phenylamino)-",70516-51-7,N/A,N/A,N/A
+DTXSID90887281,DSSTox_Substance_Id,DTXSID90887281,"Octadecanamide, N-[2-[(3-amino-3-oxopropyl)[2-[bis(3-amino-3-oxopropyl)amino]ethyl]amino]ethyl]-, acetate (1:1)",68214-48-2,N/A,N/A,N/A
+DTXSID90887286,DSSTox_Substance_Id,DTXSID90887286,"Benzenesulfonic acid, 2-[[4-(cyclohexylamino)-9,10-dihydro-9,10-dioxo-1-anthracenyl]amino]-5-ethoxy-, sodium salt (1:1)",68214-62-0,Y,2.34E-07,N/A
+DTXSID90887302,DSSTox_Substance_Id,DTXSID90887302,"Phenoxazin-5-ium, 3,7-bis(diethylamino)-1-ethoxy-, nitrate (1:1)",68239-07-6,N/A,N/A,N/A
+DTXSID90887307,DSSTox_Substance_Id,DTXSID90887307,"Butanamide, N-[4-chloro-3-[[4,5-dihydro-5-oxo-1-(2,4,6-trichlorophenyl)-1H-pyrazol-3-yl]amino]phenyl]-2-(3-pentadecylphenoxy)-",68239-71-4,N/A,N/A,N/A
+DTXSID90887327,DSSTox_Substance_Id,DTXSID90887327,Perfluoroeicosanoic acid,68310-12-3,N/A,N/A,N/A
+DTXSID90887342,DSSTox_Substance_Id,DTXSID90887342,"8-[2-(4-Amino-3-nitrophenyl)diazenyl]-7-hydroxy-N,N,N-trimethyl-2-naphthalenaminium chloride (1:1)",68391-32-2,Y,2.60E-07,N/A
+DTXSID90887367,DSSTox_Substance_Id,DTXSID90887367,"1-Propanaminium, 3-(4-dodecylphenoxy)-2-hydroxy-N,N,N-trimethyl-, chloride (1:1)",68413-50-3,N/A,N/A,N/A
+DTXSID90887387,DSSTox_Substance_Id,DTXSID90887387,"Benzenepropanol, .alpha.-(1-methylethyl)-",68426-07-3,N/A,N/A,N/A
+DTXSID90887463,DSSTox_Substance_Id,DTXSID90887463,"4H-Pyran-4-one, 2-methyl-3-(1-oxopropoxy)-",68555-63-5,Y,2.03E-06,N/A
+DTXSID90887468,DSSTox_Substance_Id,DTXSID90887468,"1,3-Dioxane-2-propanol, 4,4,6-trimethyl-.alpha.-propyl-",68568-80-9,N/A,N/A,N/A
+DTXSID90887483,DSSTox_Substance_Id,DTXSID90887483,"2,5-Furandione, dihydro-3-(4,6,8-trimethyl-2-nonen-1-yl)-",68683-38-5,N/A,N/A,N/A
+DTXSID90887488,DSSTox_Substance_Id,DTXSID90887488,"9-Octadecenoic acid, 18-sulfo-, (9Z)-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)",68698-78-2,N/A,N/A,N/A
+DTXSID90887504,DSSTox_Substance_Id,DTXSID90887504,"Octanenitrile, 7-hydroxy-3,7-dimethyl-",68797-68-2,N/A,N/A,N/A
+DTXSID90887524,DSSTox_Substance_Id,DTXSID90887524,"5-Isobenzofurancarboxylic acid, 1-[4-(diethylamino)-2-ethoxyphenyl]-1-(1-ethyl-2-methyl-1H-indol-3-yl)-1,3-dihydro-3-oxo-, tetradecyl ester",69898-64-2,N/A,N/A,N/A
+DTXSID90887529,DSSTox_Substance_Id,DTXSID90887529,"2(1H)-Naphthalenone, octahydro-3,5,5,8,8-pentamethyl-",68856-21-3,N/A,N/A,N/A
+DTXSID90887589,DSSTox_Substance_Id,DTXSID90887589,"D-Glucitol, 1,6-bis(3-mercaptopropanoate)",68928-46-1,N/A,N/A,N/A
+DTXSID90887600,DSSTox_Substance_Id,DTXSID90887600,"Ethanol, 2-[[3-chloro-4-[2-(4-nitrophenyl)diazenyl]phenyl]ethylamino]-",68938-63-6,N/A,N/A,N/A
+DTXSID90887620,DSSTox_Substance_Id,DTXSID90887620,"Benzenesulfonic acid, 2-[[4-[2-[3-methyl-4-[[(4-methylphenyl)sulfonyl]oxy]phenyl]diazenyl]phenyl]amino]-5-nitro-, potassium salt (1:1)",68959-04-6,N/A,N/A,N/A
+DTXSID90887625,DSSTox_Substance_Id,DTXSID90887625,"Ethanesulfonic acid, 2-[[[2,5-dichloro-4-[2-(2-methyl-1H-indol-3-yl)diazenyl]phenyl]sulfonyl]amino]-, sodium salt (1:1)",68959-19-3,Y,2.03E-07,N/A
+DTXSID90887665,DSSTox_Substance_Id,DTXSID90887665,"2-Anthracenesulfonic acid, 4-[[3-(acetylamino)-4-methylphenyl]amino]-1-amino-9,10-dihydro-9,10-dioxo-, sodium salt (1:1)",69658-24-8,Y,1.69E-07,N/A
+DTXSID90887680,DSSTox_Substance_Id,DTXSID90887680,"Tridecanoic acid, 2-ethyl-",69868-07-1,N/A,N/A,N/A
+DTXSID90887701,DSSTox_Substance_Id,DTXSID90887701,"2H-Azepin-2-one, 3-(dimethylamino)hexahydro-",70394-23-9,N/A,N/A,N/A
+DTXSID90887721,DSSTox_Substance_Id,DTXSID90887721,"1-Propanaminium, 3-chloro-2-hydroxy-N,N-dimethyl-N-[3-[(2-methyl-1-oxo-2-propen-1-yl)amino]propyl]-, chloride (1:1)",70729-70-3,Y,3.23E-07,N/A
+DTXSID90887726,DSSTox_Substance_Id,DTXSID90887726,"Phosphorous acid, methyl bis[(1,2,3,4,4a,5,8,8a-octahydro-1,4:5,8-dimethanonaphthalen-2-yl)methyl] ester",70766-50-6,N/A,N/A,N/A
+DTXSID90887802,DSSTox_Substance_Id,DTXSID90887802,"3H-Carbazolium, 3-[2-(1,3-dihydro-1,3,3-trimethyl-2H-indol-2-ylidene)ethylidene]-9-ethyl-, chloride (1:1)",72828-91-2,N/A,N/A,N/A
+DTXSID90887867,DSSTox_Substance_Id,DTXSID90887867,"1(3H)-Isobenzofuranone, 3-(1-butyl-2-methyl-1H-indol-3-yl)-3-(1-ethyl-2-methyl-1H-indol-3-yl)-",71215-85-5,N/A,N/A,N/A
+DTXSID90887948,DSSTox_Substance_Id,DTXSID90887948,"Benzeneethanol, .alpha.,.alpha.,4-trimethyl-, 1-acetate",71617-15-7,N/A,N/A,N/A
+DTXSID90887983,DSSTox_Substance_Id,DTXSID90887983,"3-Pyridinecarbonitrile, 5-[[(9,10-dihydro-9,10-dioxo-1-anthracenyl)imino]methyl]-1,6-dihydro-2-hydroxy-4-methyl-6-oxo-",71786-65-7,N/A,N/A,N/A
+DTXSID90888036,DSSTox_Substance_Id,DTXSID90888036,"L-Asparagine, N,N2-bis[3-[(9Z)-9-octadecen-1-ylamino]propyl]-",72050-94-3,N/A,N/A,N/A
+DTXSID90888172,DSSTox_Substance_Id,DTXSID90888172,"1,3-Dioxolane-2-acetic acid, 2-methyl-.alpha.-pentyl-, ethyl ester",72727-57-2,N/A,N/A,N/A
+DTXSID90888177,DSSTox_Substance_Id,DTXSID90888177,"2-Naphthalenemethanol, decahydro-.alpha.-methyl-",72727-65-2,N/A,N/A,N/A
+DTXSID90888192,DSSTox_Substance_Id,DTXSID90888192,"5-Cyclohexadecen-1-one, 3-methyl-",72785-14-9,N/A,N/A,N/A
+DTXSID90888233,DSSTox_Substance_Id,DTXSID90888233,"1H-Benz[de]isoquinoline-1,3(2H)-dione, 6-ethoxy-7-methoxy-2-(phenylmethyl)-",72894-21-4,N/A,N/A,N/A
+DTXSID90888273,DSSTox_Substance_Id,DTXSID90888273,"Benzenesulfonic acid, 4-[4,5-dihydro-3-methyl-4-[2-[4-methyl-3-[[(4-methylphenyl)amino]sulfonyl]phenyl]diazenyl]-5-oxo-1H-pyrazol-1-yl]-, sodium salt (1:1)",72828-87-6,N/A,N/A,N/A
+DTXSID90888293,DSSTox_Substance_Id,DTXSID90888293,"3H-Indolium, 2-[[2-(4-methoxyphenyl)-2-methylhydrazinylidene]methyl]-1,3,3-trimethyl-5-nitro-, chloride (1:1)",72906-18-4,N/A,N/A,N/A
+DTXSID90888314,DSSTox_Substance_Id,DTXSID90888314,"4,9-Decadien-1-ol, 4,8-dimethyl-",72928-27-9,N/A,N/A,N/A
+DTXSID90888334,DSSTox_Substance_Id,DTXSID90888334,"2-Anthracenesulfonic acid, 1-amino-4-[(2,6-diethyl-4-methylphenyl)amino]-9,10-dihydro-9,10-dioxo-, sodium salt (1:1)",72968-73-1,N/A,N/A,N/A
+DTXSID90888339,DSSTox_Substance_Id,DTXSID90888339,"Benzoic acid, 4-(trans-4-pentylcyclohexyl)-, trans-4-propylcyclohexyl ester",72983-70-1,Y,1.31E-06,N/A
+DTXSID90888359,DSSTox_Substance_Id,DTXSID90888359,"Butanoic acid, 2-ethyl-, (2E)-3,7-dimethyl-2,6-octadien-1-yl ester",73019-14-4,N/A,N/A,N/A
+DTXSID90888374,DSSTox_Substance_Id,DTXSID90888374,"7,10,13,16,19-Pentaoxapentacosane-9,17-diol, 11,15-dimethyl-",73179-35-8,N/A,N/A,N/A
+DTXSID90888379,DSSTox_Substance_Id,DTXSID90888379,"1H-Benz[de]isoquinoline-5-sulfonic acid, 2,3-dihydro-2-methyl-6-(methylamino)-1,3-dioxo-, sodium salt (1:1)",73263-39-5,N/A,N/A,N/A
+DTXSID90888410,DSSTox_Substance_Id,DTXSID90888410,"4-Decene, 1,1-diethoxy-, (4Z)-",73545-19-4,Y,2.64E-06,N/A
+DTXSID90888435,DSSTox_Substance_Id,DTXSID90888435,"9,10-Anthracenedione, 1-[2-(5,7-dichloro-1,9-dihydro-2-methyl-9-oxopyrazolo[5,1-b]quinazolin-3-yl)diazenyl]-",74336-60-0,Y,3.11E-07,N/A
+DTXSID90888470,DSSTox_Substance_Id,DTXSID90888470,"Acetamide, N-[5-[[2-(acetyloxy)ethyl](2-hydroxyethyl)amino]-2-[2-(2-bromo-4,6-dinitrophenyl)diazenyl]-4-ethoxyphenyl]-",75199-19-8,N/A,N/A,N/A
+DTXSID90888516,DSSTox_Substance_Id,DTXSID90888516,Ethyl (4E)-dec-4-enoate,76649-16-6,Y,3.22E-06,N/A
+DTXSID90888531,DSSTox_Substance_Id,DTXSID90888531,"Cyclododecane, (2-methoxyethoxy)-",77923-28-5,N/A,N/A,N/A
+DTXSID90888536,DSSTox_Substance_Id,DTXSID90888536,"1-Propanaminium, 3-hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-, chloride (1:1)",78182-00-0,Y,2.54E-07,N/A
+DTXSID90888576,DSSTox_Substance_Id,DTXSID90888576,"Ethanamine, 2-[[2,4,8,10-tetrakis(1,1-dimethylethyl)dibenzo[d,f][1,3,2]dioxaphosphepin-6-yl]oxy]-N,N-bis[2-[[2,4,8,10-tetrakis(1,1-dimethylethyl)dibenzo[d,f][1,3,2]dioxaphosphepin-6-yl]oxy]ethyl]-",80410-33-9,Y,9.37E-06,N/A
+DTXSID90888591,DSSTox_Substance_Id,DTXSID90888591,"3-Cyclopentene-1-acetic acid, 2,2,3-trimethyl-, ethyl ester",81907-73-5,N/A,N/A,N/A
+DTXSID90888612,DSSTox_Substance_Id,DTXSID90888612,"2-Oxetanone, 3-eicosyl-4-heneicosylidene-",83708-14-9,Y,1.69E-06,N/A
+DTXSID90888617,DSSTox_Substance_Id,DTXSID90888617,"Methanaminium, N-[4-[[4-[bis(2-hydroxyethyl)amino]-2-methylphenyl][4-(dimethylamino)phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-methyl-, chloride (1:1)",83950-33-8,N/A,N/A,N/A
+DTXSID90888657,DSSTox_Substance_Id,DTXSID90888657,"Benzothiazolium, 2-[2-(4-amino-2-methylphenyl)diazenyl]-3-methyl-, methyl sulfate (1:1)",85030-22-4,N/A,N/A,N/A
+DTXSID90888672,DSSTox_Substance_Id,DTXSID90888672,"2-Propenoic acid, 2-[2-(ethenyloxy)ethoxy]ethyl ester",86273-46-3,Y,3.47E-06,N/A
+DTXSID90888713,DSSTox_Substance_Id,DTXSID90888713,"2(3H)-Benzofuranone, hexahydro-3,6-dimethyl-",92015-65-1,Y,2.48E-06,N/A
+DTXSID90888733,DSSTox_Substance_Id,DTXSID90888733,"Benzenesulfonic acid, 4-(dodecyloxy)-, sodium salt (1:1)",94030-90-7,Y,2.73E-07,N/A
+DTXSID90888738,DSSTox_Substance_Id,DTXSID90888738,"Cyclohexanecarboxylic acid, 6-ethylidene-2,2,5-trimethyl-, ethyl ester",94333-51-4,N/A,N/A,N/A
+DTXSID90888773,DSSTox_Substance_Id,DTXSID90888773,"3-Hexene, 1-(1-methoxypropoxy)-, (3Z)-",97358-55-9,N/A,N/A,N/A
+DTXSID90888819,DSSTox_Substance_Id,DTXSID90888819,"Propanoic acid, 2,2-dimethyl-, 3-methyl-3-buten-1-yl ester",104468-21-5,Y,2.53E-06,N/A
+DTXSID90888854,DSSTox_Substance_Id,DTXSID90888854,"3-Pyridinecarboxamide, 2-(aminosulfonyl)-N,N-dimethyl-",112006-75-4,N/A,N/A,N/A
+DTXSID90888995,DSSTox_Substance_Id,DTXSID90888995,"3-Oxazolidineethanamine, .alpha.,.alpha.,4,4-tetramethyl-2-(1-methylethyl)-N-(2-methylpropylidene)-",148348-13-4,N/A,N/A,N/A
+DTXSID90889184,DSSTox_Substance_Id,DTXSID90889184,"2-[1-(3,3-Dimethylcyclohexyl)ethoxy]-2-methylpropyl cyclopropanecarboxylate",477218-42-1,Y,1.40E-06,N/A
+DTXSID90889200,DSSTox_Substance_Id,DTXSID90889200,"3-Pyridinecarbonitrile, 4-methyl-2,6-bis[(4-methylphenyl)amino]-5-[2-[2-(trifluoromethyl)phenyl]diazenyl]-",669005-94-1,Y,2.46E-07,N/A
+DTXSID90889280,DSSTox_Substance_Id,DTXSID90889280,"2-Heptanol, 3,6-dimethyl-",1247790-47-1,Y,3.21E-06,N/A
+DTXSID90889326,DSSTox_Substance_Id,DTXSID90889326,"Pentanoic acid, 1,1'-[2-ethyl-2-[[(1-oxopentyl)oxy]methyl]-1,3-propanediyl] ester",78-15-9,Y,8.07E-07,N/A
+DTXSID90889346,DSSTox_Substance_Id,DTXSID90889346,Chlorophyll a,479-61-8,N/A,N/A,N/A
+DTXSID90889361,DSSTox_Substance_Id,DTXSID90889361,"D-Fructose, 6-(dihydrogen phosphate)",643-13-0,Y,5.75E-07,N/A
+DTXSID90889366,DSSTox_Substance_Id,DTXSID90889366,C.I. Solvent Red 27,1320-06-5,Y,3.03E-07,N/A
+DTXSID90889386,DSSTox_Substance_Id,DTXSID90889386,Iron protoporphyrin IX,14875-96-8,N/A,N/A,N/A
+DTXSID90889402,DSSTox_Substance_Id,DTXSID90889402,"Cytidine, N-benzoyl-5'-O-[bis(4-methoxyphenyl)phenylmethyl]-2'-deoxy-",67219-55-0,Y,2.82E-07,N/A
+DTXSID90889422,DSSTox_Substance_Id,DTXSID90889422,"4,4'-Bis(2,4-dianilino-1,3,5-triazin-6-ylamino)-2,2'-stilbene disulfonic acid disodium salt",133-66-4,Y,1.93E-07,N/A
+DTXSID90889447,DSSTox_Substance_Id,DTXSID90889447,Pigment Red 60,1325-16-2,Y,2.85E-07,N/A
+DTXSID90889467,DSSTox_Substance_Id,DTXSID90889467,C.I. Fluorescent Brightener 213,3426-43-5,Y,1.65E-07,N/A
+DTXSID90889528,DSSTox_Substance_Id,DTXSID90889528,Trisodium 7-((((6-((o-anisyl)azo)-5-hydroxy-7-sulphonato-2-naphthyl)amino)carbonyl)amino)-4-hydroxy-3-((6-sulphonato-2-naphthyl)azo)naphthalene-2-sulphonate,10114-24-6,Y,2.57E-07,N/A
+DTXSID90889543,DSSTox_Substance_Id,DTXSID90889543,"C.I. Direct Red 24, trisodium salt",6420-44-6,Y,2.84E-07,N/A
+DTXSID90889548,DSSTox_Substance_Id,DTXSID90889548,"Disodium 4-hydroxy-3-((4-nitrophenyl)azo)-5-(((p-tolyl)sulphonyl)amino)naphthalene-2,7-disulphonate",6441-94-7,N/A,N/A,N/A
+DTXSID90889563,DSSTox_Substance_Id,DTXSID90889563,"Tetrasodium 5,5'-(iminobis((1-hydroxy-3-sulphonato-6,2-naphthylene)azo(2,5-dimethoxy-4,1-phenylene)azo))bis(salicylate)",6548-31-8,N/A,N/A,N/A
+DTXSID90889568,DSSTox_Substance_Id,DTXSID90889568,"Tetrasodium 2,2'-((4,4'-bis((1-hydroxy-6-((4-methoxyphenyl)amino)-3-sulphonato-2-naphthyl)azo)(1,1'-biphenyl)-3,3'-diyl)bis(oxy))diacetate",6655-95-4,N/A,N/A,N/A
+DTXSID90889583,DSSTox_Substance_Id,DTXSID90889583,"2-Naphthalenesulfonic acid, 8-[2-(7-amino-1-hydroxy-3-sulfo-2-naphthalenyl)diazenyl]-5-[2-[4-(2-phenyldiazenyl)-7-sulfo-1-naphthalenyl]diazenyl]-, sodium salt (1:3)",10134-33-5,N/A,N/A,N/A
+DTXSID90889604,DSSTox_Substance_Id,DTXSID90889604,"1,5-Naphthalenedisulfonic acid, 3-[4-[2-[5-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]-2-sulfophenyl]diazenyl]-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl]-, sodium salt (1:3)",13305-94-7,N/A,N/A,N/A
+DTXSID90889629,DSSTox_Substance_Id,DTXSID90889629,"1,4-Benzenedisulfonic acid, 2,2'-[1,2-ethenediylbis[(3-sulfo-4,1-phenylene)imino[6-[[3-(acetylamino)propyl]amino]-1,3,5-triazine-4,2-diyl]imino]]bis-, sodium salt (1:6)",56190-26-2,N/A,N/A,N/A
+DTXSID90889649,DSSTox_Substance_Id,DTXSID90889649,"[1,1'-Biphenyl]-3-sulfonic acid, 4'-[2-[4,5-dihydro-3-methyl-5-oxo-1-(4-sulfophenyl)-1H-pyrazol-4-yl]diazenyl]-4-[2-[4-[[(4-methylphenyl)sulfonyl]oxy]phenyl]diazenyl]-, sodium salt (1:2)",15792-50-4,N/A,N/A,N/A
+DTXSID90889664,DSSTox_Substance_Id,DTXSID90889664,"2,7-Naphthalenedisulfonic acid, 5-[(4,6-dichloro-1,3,5-triazin-2-yl)amino]-4-hydroxy-3-[2-(2-sulfophenyl)diazenyl]-, sodium salt (1:3)",17752-85-1,Y,2.00E-07,N/A
+DTXSID90889669,DSSTox_Substance_Id,DTXSID90889669,"Glycine, N-(carboxymethyl)-N-(1-oxododecyl)-, sodium salt (1:2)",18426-54-5,N/A,N/A,N/A
+DTXSID90889700,DSSTox_Substance_Id,DTXSID90889700,"1,3-Naphthalenedisulfonic acid, 7,7'-[iminobis[carbonyl(2-methyl-4,1-phenylene)-2,1-diazenediyl]]bis-, sodium salt (1:4)",28706-21-0,Y,2.22E-07,N/A
+DTXSID90889705,DSSTox_Substance_Id,DTXSID90889705,Methyl Blue,28983-56-4,Y,4.08E-07,N/A
+DTXSID90889720,DSSTox_Substance_Id,DTXSID90889720,"2-Naphthalenesulfonic acid, 5-[2-(4-ethoxyphenyl)diazenyl]-8-[2-(4-sulfophenyl)diazenyl]-, sodium salt (1:2)",36409-70-8,N/A,N/A,N/A
+DTXSID90889740,DSSTox_Substance_Id,DTXSID90889740,"Benzenemethanaminium, 3,3'-[(3,3'-dimethyl[1,1'-biphenyl]-4,4'-diyl)bis[imino(1-acetyl-2-oxo-2,1-ethanediyl)-2,1-diazenediyl]]bis[N,N-bis(3-aminopropyl)-4-methoxy-N-methyl-, chloride (1:2)",40948-42-3,N/A,N/A,N/A
+DTXSID90889841,DSSTox_Substance_Id,DTXSID90889841,"2,7-Naphthalenedisulfonic acid, 4,4'-[(3,3'-dimethoxy[1,1'-biphenyl]-4,4'-diyl)bis(2,1-diazenediyl)]bis[3-hydroxy-, sodium salt (1:4)",65151-33-9,N/A,N/A,N/A
+DTXSID90889866,DSSTox_Substance_Id,DTXSID90889866,"Benzenediazonium, 2,5-dimethoxy-4-[2-[2-oxo-1-[(phenylamino)carbonyl]propyl]diazenyl]-, chloride, hydrochloride (1:1:1)",67846-59-7,N/A,N/A,N/A
+DTXSID90889881,DSSTox_Substance_Id,DTXSID90889881,"2,7-Naphthalenedisulfonic acid, 4-[[(2,3-dichloro-6-quinoxalinyl)carbonyl]amino]-5-hydroxy-, sodium salt (1:2)",67905-53-7,N/A,N/A,N/A
+DTXSID90889886,DSSTox_Substance_Id,DTXSID90889886,"2-Naphthalenesulfonic acid, 5-[2-[4-[2-[4-(acetylamino)phenyl]diazenyl]-6-sulfo-1-naphthalenyl]diazenyl]-8-[2-(2-hydroxy-6-sulfo-1-naphthalenyl)diazenyl]-, sodium salt (1:3)",67906-47-2,N/A,N/A,N/A
+DTXSID90889907,DSSTox_Substance_Id,DTXSID90889907,"Benzoic acid, 5-[2-[4-[2-[8-amino-1-hydroxy-7-[2-(4-nitrophenyl)diazenyl]-3,6-disulfo-2-naphthalenyl]diazenyl]phenyl]diazenyl]-2-hydroxy-, sodium salt (1:3)",67990-22-1,N/A,N/A,N/A
+DTXSID90889922,DSSTox_Substance_Id,DTXSID90889922,"Acetic acid, 2-[[4-[2-[4-[2-(4-amino-7-sulfo-1-naphthalenyl)diazenyl]-7-sulfo-1-naphthalenyl]diazenyl]phenyl]amino]-2-oxo-, sodium salt (1:3)",68084-14-0,N/A,N/A,N/A
+DTXSID90889947,DSSTox_Substance_Id,DTXSID90889947,"1-Naphthalenesulfonic acid, 7-[(4-aminobenzoyl)amino]-4-[2-[2,5-dimethoxy-4-[2-[7-sulfo-4-[2-(3-sulfophenyl)diazenyl]-1-naphthalenyl]diazenyl]phenyl]diazenyl]-3-hydroxy-, sodium salt (1:3)",68214-03-9,N/A,N/A,N/A
+DTXSID90889962,DSSTox_Substance_Id,DTXSID90889962,"Butanedioic acid, 2-sulfo-, 4-[2-[2-[[(9Z)-1-oxo-9-octadecen-1-yl]amino]ethoxy]ethyl] ester, sodium salt (1:2)",68227-80-5,N/A,N/A,N/A
+DTXSID90889987,DSSTox_Substance_Id,DTXSID90889987,"Acetic acid, 2,2'-[iminobis[(1-hydroxy-3-sulfo-6,2-naphthalenediyl)-2,1-diazenediyl-3,1-phenyleneimino]]bis[2-oxo-, sodium salt (1:4)",68631-10-7,N/A,N/A,N/A
+DTXSID90890013,DSSTox_Substance_Id,DTXSID90890013,"Benzenesulfonic acid, 3-[2-[4-[2-[4-[ethyl[(4-sulfophenyl)methyl]amino]phenyl]diazenyl]-1-naphthalenyl]diazenyl]-, sodium salt (1:2)",72207-98-8,N/A,N/A,N/A
+DTXSID90890033,DSSTox_Substance_Id,DTXSID90890033,"2-Naphthalenesulfonic acid, 4-hydroxy-7-[[[[5-hydroxy-6-[2-(2-methoxyphenyl)diazenyl]-7-sulfo-2-naphthalenyl]amino]carbonyl]amino]-3-[2-(2-methylphenyl)diazenyl]-, sodium salt (1:2)",69205-10-3,Y,2.07E-07,N/A
+DTXSID90890053,DSSTox_Substance_Id,DTXSID90890053,"2-Naphthalenesulfonic acid, 7-[[4-chloro-6-[(3-sulfophenyl)amino]-1,3,5-triazin-2-yl]methylamino]-4-hydroxy-3-[2-(2-sulfophenyl)diazenyl]-, sodium salt (1:3)",70210-21-8,N/A,N/A,N/A
+DTXSID90890058,DSSTox_Substance_Id,DTXSID90890058,"Benzenesulfonic acid, 2,2'-[1,4-phenylenebis[carbonylimino[2-(acetylamino)-4,1-phenylene]-2,1-diazenediyl]]bis[5-[2-(4-sulfophenyl)diazenyl]-, sodium salt (1:4)",70210-30-9,Y,1.47E-07,N/A
+DTXSID90890073,DSSTox_Substance_Id,DTXSID90890073,"1,7-Naphthalenedisulfonic acid, 4-(acetylamino)-6-[2-[5-[(2-bromo-1-oxo-2-propen-1-yl)amino]-2-sulfophenyl]diazenyl]-5-hydroxy-, sodium salt (1:3)",70224-86-1,N/A,N/A,N/A
+DTXSID90890078,DSSTox_Substance_Id,DTXSID90890078,"2,7-Naphthalenedisulfonic acid, 4-amino-5-hydroxy-3-[2-[4'-[2-(4-hydroxyphenyl)diazenyl]-3,3'-dimethoxy[1,1'-biphenyl]-4-yl]diazenyl]-6-[2-(4-sulfophenyl)diazenyl]-, sodium salt (1:3)",70632-07-4,N/A,N/A,N/A
+DTXSID90890098,DSSTox_Substance_Id,DTXSID90890098,"Tetrasodium 2-((8-((4-(4-chloroanilino)-6-fluoro-1,3,5-triazin-2-yl)amino)-1-hydroxy-3,6-disulfonato-2-naphthyl)diazenyl)-1,5-naphthalenedisulfonate",70833-54-4,Y,1.61E-07,N/A
+DTXSID90890134,DSSTox_Substance_Id,DTXSID90890134,"Benzoic acid, 5-[2-[4'-[2-(2-amino-8-hydroxy-6-sulfo-1-naphthalenyl)diazenyl]-2,2'-dichloro[1,1'-biphenyl]-4-yl]diazenyl]-2-hydroxy-, sodium salt (1:2)",71215-83-3,N/A,N/A,N/A
+DTXSID90890154,DSSTox_Substance_Id,DTXSID90890154,"2-Naphthalenesulfonic acid, 5-[2-[4-(4-cyclohexylphenoxy)-2-sulfophenyl]diazenyl]-6-[(2,6-dimethylphenyl)amino]-4-hydroxy-, sodium salt (1:2)",71720-89-3,N/A,N/A,N/A
+DTXSID90890159,DSSTox_Substance_Id,DTXSID90890159,"[1,1'-Biphenyl]-2,2'-disulfonic acid, 4-[2-[4-[(2-chloroacetyl)amino]phenyl]diazenyl]-4'-[2-(1-hydroxy-4-sulfo-2-naphthalenyl)diazenyl]-5,5'-dimethyl-, sodium salt (1:3)",71720-94-0,N/A,N/A,N/A
+DTXSID90890179,DSSTox_Substance_Id,DTXSID90890179,"2,7-Naphthalenedisulfonic acid, 5-[[3-[(5-chloro-2,6-difluoro-4-pyrimidinyl)amino]benzoyl]amino]-3-[2-(2,5-disulfophenyl)diazenyl]-4-hydroxy-, sodium salt (1:4)",72139-13-0,N/A,N/A,N/A
+DTXSID90890194,DSSTox_Substance_Id,DTXSID90890194,"Benzoic acid, 2,4-dihydroxy-5-[2-(2-hydroxy-3-nitro-5-sulfophenyl)diazenyl]-, sodium salt (1:2)",72152-59-1,N/A,N/A,N/A
+DTXSID90890215,DSSTox_Substance_Id,DTXSID90890215,"Benzenesulfonic acid, 4-[[4-chloro-6-[(3-sulfophenyl)amino]-1,3,5-triazin-2-yl]amino]-2-[2-[1-(2,5-dichloro-4-sulfophenyl)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-4-yl]diazenyl]-, sodium salt (1:3)",72259-17-7,Y,2.58E-07,N/A
+DTXSID90890230,DSSTox_Substance_Id,DTXSID90890230,"Naphthalenesulfonic acid, 5-[2-[2,4-dihydroxy-5-[2-[4-[(4-nitro-2-sulfophenyl)amino]phenyl]diazenyl]phenyl]diazenyl]-8-[2-[4-[(4-nitro-2-sulfophenyl)amino]phenyl]diazenyl]-, sodium salt (1:3)",72496-92-5,Y,1.69E-07,N/A
+DTXSID90890235,DSSTox_Substance_Id,DTXSID90890235,"1,3-Benzenedisulfonic acid, 4-[(4-amino-9,10-dihydro-9,10-dioxo-3-sulfo-1-anthracenyl)amino]-6-[[5-chloro-6-methyl-2-(methylsulfonyl)-4-pyrimidinyl]amino]-, potassium salt (1:3)",72639-33-9,N/A,N/A,N/A
+DTXSID90890255,DSSTox_Substance_Id,DTXSID90890255,"[1,1'-Biphenyl]-2,2'-disulfonic acid, 4,4'-bis[2-[4,5-dihydro-3-methyl-5-oxo-1-(4-sulfophenyl)-1H-pyrazol-4-yl]diazenyl]-, sodium salt (1:4)",72927-70-9,Y,2.00E-07,N/A
+DTXSID90890391,DSSTox_Substance_Id,DTXSID90890391,"2,7-Naphthalenedisulfonic acid, 4-amino-5-hydroxy-3-[2-[4-[2-[2-oxo-1-[(phenylamino)carbonyl]propyl]diazenyl]phenyl]diazenyl]-6-[2-(4-sulfo-1-naphthalenyl)diazenyl]-, sodium salt (1:3)",79135-92-5,Y,1.96E-07,N/A
+DTXSID90890412,DSSTox_Substance_Id,DTXSID90890412,"Benzoic acid, 5-[2-[4'-[2-[6-amino-5-[2-(1H-benzotriazol-7-yl)diazenyl]-1-hydroxy-3-sulfo-2-naphthalenyl]diazenyl]-3,3'-dimethoxy[1,1'-biphenyl]-4-yl]diazenyl]-2-hydroxy-4-methyl-, sodium salt (1:2)",85153-20-4,N/A,N/A,N/A
+DTXSID90890417,DSSTox_Substance_Id,DTXSID90890417,C.I. Direct Black 168,85631-88-5,Y,2.12E-07,N/A
+DTXSID90890513,DSSTox_Substance_Id,DTXSID90890513,Thiocyanic acid lead(2+) salt (2:1),592-87-0,N/A,N/A,N/A
+DTXSID90890917,DSSTox_Substance_Id,DTXSID90890917,"1(3H)-Isobenzofuranone, 3-[4-hydroxy-2-methyl-5-(1-methylethyl)phenyl]-3-[2-methyl-5-(1-methylethyl)-4-(phosphonooxy)phenyl]-, sodium salt (1:2)",62796-27-4,N/A,N/A,N/A
+DTXSID90890977,DSSTox_Substance_Id,DTXSID90890977,"Ethanaminium, N,N-bis(carboxymethyl)-N-(2-hydroxyethyl)-2-[(1-oxodecyl)amino]-, sodium salt (1:2)",68298-19-1,N/A,N/A,N/A
+DTXSID90890992,DSSTox_Substance_Id,DTXSID90890992,"Ethanol, 2-(2-butoxyethoxy)-, phosphate, potassium salt",68647-25-6,Y,1.95E-06,N/A
+DTXSID90891005,DSSTox_Substance_Id,DTXSID90891005,"9,10-Anthracenedione, 2,3-dihydro-1,4,5,8-tetrahydroxy-, sodium salt (1:4)",68929-10-2,N/A,N/A,N/A
+DTXSID90891020,DSSTox_Substance_Id,DTXSID90891020,"Benzene, 1,1'-oxybis[hexadecyl-",69834-21-5,Y,1.02E-06,N/A
+DTXSID90891025,DSSTox_Substance_Id,DTXSID90891025,"Pyridinium, 1-[2-[[4-[2-(2,6-dichloro-4-nitrophenyl)diazenyl]-3-methylphenyl]ethylamino]ethyl]-, sulfate (1:1)",70660-58-1,N/A,N/A,N/A
+DTXSID90891040,DSSTox_Substance_Id,DTXSID90891040,"Cyclohexanol, 2-methyl(1,7,7-trimethylbicyclo[2.2.1]heptyl)-",71965-26-9,N/A,N/A,N/A
+DTXSID90891101,DSSTox_Substance_Id,DTXSID90891101,"Carbamodithioic acid, N-ethyl-N-phenyl-, lead(2+) salt (2:1)",93892-65-0,N/A,N/A,N/A
+DTXSID90891207,DSSTox_Substance_Id,DTXSID90891207,"Arabinonic acid, monopotassium salt",36232-89-0,N/A,N/A,N/A
+DTXSID90891242,DSSTox_Substance_Id,DTXSID90891242,"Dodecahydro-4,7-methano-2,3,8-methenocyclopent[a]indene",51966-13-3,N/A,N/A,N/A
+DTXSID90891303,DSSTox_Substance_Id,DTXSID90891303,"Decyl alcohol, ethoxylated, dihydrogen phosphate",9004-80-2,N/A,N/A,N/A
+DTXSID90891343,DSSTox_Substance_Id,DTXSID90891343,Olivomycin,11006-70-5,N/A,N/A,N/A
+DTXSID90891348,DSSTox_Substance_Id,DTXSID90891348,Bambermycin,11015-37-5,N/A,N/A,N/A
+DTXSID90891409,DSSTox_Substance_Id,DTXSID90891409,Hyperforin,11079-53-1,N/A,N/A,N/A
+DTXSID90891424,DSSTox_Substance_Id,DTXSID90891424,Baquiloprim,102280-35-3,N/A,N/A,N/A
+DTXSID90891444,DSSTox_Substance_Id,DTXSID90891444,N4-Acetylsulfadimethoxine,24341-30-8,N/A,N/A,N/A
+DTXSID90891449,DSSTox_Substance_Id,DTXSID90891449,Isoproturon-monodemethyl,34123-57-4,N/A,N/A,N/A
+DTXSID90891464,DSSTox_Substance_Id,DTXSID90891464,Ranitidine-S-oxide,73851-70-4,N/A,N/A,N/A
+DTXSID90891484,DSSTox_Substance_Id,DTXSID90891484,Cetirizine N-oxide,1076199-80-8,N/A,N/A,N/A
+DTXSID90891489,DSSTox_Substance_Id,DTXSID90891489,Venlafaxine N-Oxide,1094598-37-4,N/A,N/A,N/A
+DTXSID90891505,DSSTox_Substance_Id,DTXSID90891505,2-(4-Morpholinyl)benzothiazole,4225-26-7,N/A,N/A,N/A
+DTXSID90891565,DSSTox_Substance_Id,DTXSID90891565,4:2 Fluorotelomer sulfonate,414911-30-1,N/A,N/A,N/A
+DTXSID90891580,DSSTox_Substance_Id,DTXSID90891580,N-Methyl-N-[3-phenyl-3-(2-pyridinyl)propyl]formamide,1881218-32-1,N/A,N/A,N/A
+DTXSID90891601,DSSTox_Substance_Id,DTXSID90891601,N-[2-(cyclohex-1-en-1-yl)-2-(4-methoxyphenyl)ethyl]acetamide,NOCAS_891601,N/A,N/A,N/A
+DTXSID90891606,DSSTox_Substance_Id,DTXSID90891606,"N-[2-(2,4,6-trichlorophenoxy)ethyl]propan-1-amine",67747-01-7,N/A,N/A,N/A
+DTXSID90891621,DSSTox_Substance_Id,DTXSID90891621,"1-[2-(4-chlorophenyl)-3-cyclopropyl-2-hydroxybutyl]-1H-1,2,4-triazol-5-ol",NOCAS_891621,N/A,N/A,N/A
+DTXSID90891626,DSSTox_Substance_Id,DTXSID90891626,"1-(4-chlorophenyl)-4,4-dimethyl-3-[(1H-1,2,4-triazol-1-yl)methyl]pentan-3-yl dihydrogen phosphate",NOCAS_891626,N/A,N/A,N/A
+DTXSID90891646,DSSTox_Substance_Id,DTXSID90891646,3-({2-[2-(2-hydroxyethoxy)ethoxy]ethoxy}methyl)heptanoic acid,NOCAS_891646,N/A,N/A,N/A
+DTXSID90891661,DSSTox_Substance_Id,DTXSID90891661,4-methyl-11-(4-sulfophenyl)tridecanoic acid,NOCAS_891661,N/A,N/A,N/A
+DTXSID90891707,DSSTox_Substance_Id,DTXSID90891707,Camphor-10-sulfonyl chloride,21286-54-4,N/A,N/A,N/A
+DTXSID90891787,DSSTox_Substance_Id,DTXSID90891787,"4,4'-Bis[[4-anilino-6-(methylamino)-1,3,5-triazin-2-yl]amino]-2,2'-stilbene disulfonic acid disodium",31900-04-6,N/A,N/A,N/A
+DTXSID90891863,DSSTox_Substance_Id,DTXSID90891863,Enniatin A,2503-13-1,N/A,N/A,N/A
+DTXSID90891888,DSSTox_Substance_Id,DTXSID90891888,Sodium 2-(1-carboxylatoethoxy)-1-methyl-2-oxoethyl laurate,13557-75-0,Y,6.59E-07,N/A
+DTXSID90891944,DSSTox_Substance_Id,DTXSID90891944,Thebacon,466-90-0,N/A,N/A,N/A
+DTXSID90891984,DSSTox_Substance_Id,DTXSID90891984,"Glycerides, C16-18 mono- and di-",85251-77-0,N/A,N/A,N/A
+DTXSID90892057,DSSTox_Substance_Id,DTXSID90892057,2-(2-Dodecen-1-yl)butanedioic acid,13877-83-3,Y,7.98E-07,N/A
+DTXSID90892097,DSSTox_Substance_Id,DTXSID90892097,"3,7-Dimethyl-6-octen-2-ol",14087-07-1,N/A,N/A,N/A
+DTXSID90892133,DSSTox_Substance_Id,DTXSID90892133,"ar-Methyl-1,2-benzenediamine",26966-75-6,N/A,N/A,N/A
+DTXSID90892193,DSSTox_Substance_Id,DTXSID90892193,1-(2-Hydroxy-5-tert-nonylphenyl)ethan-1-one oxime,68517-09-9,Y,1.89E-05,N/A
+DTXSID90892436,DSSTox_Substance_Id,DTXSID90892436,Embramine hydrochloride,13977-28-1,N/A,N/A,N/A
+DTXSID90892471,DSSTox_Substance_Id,DTXSID90892471,"2,2',4,4',5-Pentachlorodiphenyl ether",60123-64-0,N/A,N/A,N/A
+DTXSID90892512,DSSTox_Substance_Id,DTXSID90892512,"1,2-Epoxy-3-methylbutane",1438-14-8,N/A,N/A,N/A
+DTXSID90892956,DSSTox_Substance_Id,DTXSID90892956,Perfluorohexane sulfonamido amine oxide,30295-56-8,Y,1.79E-07,N/A
+DTXSID90893201,DSSTox_Substance_Id,DTXSID90893201,C.I. Acid Yellow 151,12715-61-6,N/A,N/A,N/A
+DTXSID90893241,DSSTox_Substance_Id,DTXSID90893241,Ergometrinine,479-00-5,N/A,N/A,N/A
+DTXSID90893261,DSSTox_Substance_Id,DTXSID90893261,Aurantiamide,58115-31-4,N/A,N/A,N/A
+DTXSID90893281,DSSTox_Substance_Id,DTXSID90893281,Perfluoro(7-methyl)octanesulfonate potassium salt,40365-28-4,N/A,N/A,N/A
+DTXSID90893286,DSSTox_Substance_Id,DTXSID90893286,(Z)-2-(8-Heptadecenyl)-2-imidazoline-1-ethanol,21652-27-7,Y,8.74E-07,N/A
+DTXSID90893327,DSSTox_Substance_Id,DTXSID90893327,"2-(3,4-Dimethoxyphenyl)-5-{[2-(4-hydroxy-3-methoxyphenyl)ethyl](methyl)amino}-2-(propan-2-yl)pentanenitrile",77326-93-3,N/A,N/A,N/A
+DTXSID90893367,DSSTox_Substance_Id,DTXSID90893367,"4,4''-Bis((perfluoropropyl)-1,3-dioxopropyl)-o-terphenyl-4'-sulfonyl chloride",200862-70-0,N/A,N/A,N/A
+DTXSID90893387,DSSTox_Substance_Id,DTXSID90893387,"N-(2-Methylsulfinyl-1,1-dimethyl-ethyl)-N'-{2-methyl-4-[perfluoroisopropyl]phenyl}phthalamide",371771-07-2,N/A,N/A,N/A
+DTXSID90893443,DSSTox_Substance_Id,DTXSID90893443,Methyldimethoxysilane,16881-77-9,Y,1.81E-06,N/A
+DTXSID90893468,DSSTox_Substance_Id,DTXSID90893468,2-Ethylhexanol oleic acid ester,26399-02-0,Y,2.16E-06,N/A
+DTXSID90893483,DSSTox_Substance_Id,DTXSID90893483,Methyl 2-(4-fluorobenzamido)benzoate,75541-83-2,N/A,N/A,N/A
+DTXSID90893488,DSSTox_Substance_Id,DTXSID90893488,Latrunculin A,76343-93-6,N/A,N/A,N/A
+DTXSID90893600,DSSTox_Substance_Id,DTXSID90893600,Terpinyl cinnamate,10024-56-3,N/A,N/A,N/A
+DTXSID90893620,DSSTox_Substance_Id,DTXSID90893620,3-Hexyloxypropylene glycol,10305-38-1,N/A,N/A,N/A
+DTXSID90893625,DSSTox_Substance_Id,DTXSID90893625,Mono[2-oleoylamido-1-methylethyl]maleate,67815-89-8,Y,5.17E-07,N/A
+DTXSID90893660,DSSTox_Substance_Id,DTXSID90893660,3-Hydroxyestran-17-one,65556-19-6,N/A,N/A,N/A
+DTXSID90893665,DSSTox_Substance_Id,DTXSID90893665,Butyl (3E)-3-hexenoate,118869-62-8,N/A,N/A,N/A
+DTXSID90893685,DSSTox_Substance_Id,DTXSID90893685,Disodium 6-hydroxy-5-((3-sulphonatophenyl)azo)naphthalene-2-sulphonate,2347-72-0,N/A,N/A,N/A
+DTXSID90893701,DSSTox_Substance_Id,DTXSID90893701,2-Amino-5-phosphopentanoic acid,76326-31-3,N/A,N/A,N/A
+DTXSID90893706,DSSTox_Substance_Id,DTXSID90893706,"4,4'-Methylenebis(N-butoxycarbonylcyclohexanamine)",99305-42-7,N/A,N/A,N/A
+DTXSID90893827,DSSTox_Substance_Id,DTXSID90893827,"rel-(1R,2S,5R)-2-Isopropyl-5-methylcyclohexyl 3-methylbutanoate",89-47-4,N/A,N/A,N/A
+DTXSID90893963,DSSTox_Substance_Id,DTXSID90893963,"(E,Z,E)-N-(2-Methylpropyl)-2,6,8-decatrienamide",25394-57-4,N/A,N/A,N/A
+DTXSID90894016,DSSTox_Substance_Id,DTXSID90894016,C.I. ACID YELLOW 129,41741-86-0,N/A,N/A,N/A
+DTXSID90894071,DSSTox_Substance_Id,DTXSID90894071,4-Methylsulfinylbutyl glucosinolate,21414-41-5,N/A,N/A,N/A
+DTXSID90894096,DSSTox_Substance_Id,DTXSID90894096,Hydroxyprogesterone acetate,302-23-8,N/A,N/A,N/A
+DTXSID90894319,DSSTox_Substance_Id,DTXSID90894319,"Dodecanedioic acid, di-C11-14-isoalkyl esters, C13-rich",143009-09-0,N/A,N/A,N/A
+DTXSID90894450,DSSTox_Substance_Id,DTXSID90894450,Pentaerythrityl tetraisostearate,62125-22-8,N/A,N/A,N/A
+DTXSID90894571,DSSTox_Substance_Id,DTXSID90894571,"Amines, C36-alkylenedi-",68955-56-6,N/A,N/A,N/A
+DTXSID90894591,DSSTox_Substance_Id,DTXSID90894591,"Decanoic acid, mixed esters with dipentaerythritol, heptanoic acid, octanoic acid and valeric acid",71010-75-8,N/A,N/A,N/A
+DTXSID90894596,DSSTox_Substance_Id,DTXSID90894596,"Ketones, C11",71808-49-6,N/A,N/A,N/A
+DTXSID90894692,DSSTox_Substance_Id,DTXSID90894692,"Benzene, tris(1-methylethyl)-",27322-34-5,N/A,N/A,N/A
+DTXSID90894697,DSSTox_Substance_Id,DTXSID90894697,"2,5-Furandione, dihydro-3-(nonen-1-yl)-",28928-97-4,N/A,N/A,N/A
+DTXSID90894713,DSSTox_Substance_Id,DTXSID90894713,"Titanium, tris(isooctadecanoato-.kappa.O)(2-propanolato)-",61417-49-0,N/A,N/A,N/A
+DTXSID90894718,DSSTox_Substance_Id,DTXSID90894718,"1-Naphthalenamine, N-phenyl-ar-(1,1,3,3-tetramethylbutyl)-",68259-36-9,N/A,N/A,N/A
+DTXSID90894753,DSSTox_Substance_Id,DTXSID90894753,S-Benzyl-N-acetyl-L-cysteine,19542-77-9,N/A,N/A,N/A
+DTXSID90894758,DSSTox_Substance_Id,DTXSID90894758,4-Fluoroamphetamine,459-02-9,N/A,N/A,N/A
+DTXSID90894773,DSSTox_Substance_Id,DTXSID90894773,EINECS No.: 276-684-1,72480-09-2,N/A,N/A,N/A
+DTXSID90894819,DSSTox_Substance_Id,DTXSID90894819,"Phenol, bis(1,1-dimethylethyl)-4-methyl-",25377-21-3,Y,1.28E-06,N/A
+DTXSID90894854,DSSTox_Substance_Id,DTXSID90894854,alpha-Methyl-p-(methylthio)phenethylamine,14116-06-4,N/A,N/A,N/A
+DTXSID90894859,DSSTox_Substance_Id,DTXSID90894859,Bis(tributyltin) dodecenylsuccinate,12379-54-3,N/A,N/A,N/A
+DTXSID90894915,DSSTox_Substance_Id,DTXSID90894915,Conduritol A,526-87-4,N/A,N/A,N/A
+DTXSID90894950,DSSTox_Substance_Id,DTXSID90894950,"2-Chloro-4,5-xylyl N-hydroxy-N-methylcarbamate",14357-82-5,N/A,N/A,N/A
+DTXSID90895028,DSSTox_Substance_Id,DTXSID90895028,Palmitoylcarnitine,1935-18-8,N/A,N/A,N/A
+DTXSID90895043,DSSTox_Substance_Id,DTXSID90895043,Sugammadex,343306-71-8,N/A,N/A,N/A
+DTXSID90895104,DSSTox_Substance_Id,DTXSID90895104,Tris(2-hydroxyethyl)(phenylmercurio)ammonium lactate,23319-66-6,N/A,N/A,N/A
+DTXSID90895109,DSSTox_Substance_Id,DTXSID90895109,"Methylmercury 2,3-dihydroxypropylmercaptide",2597-95-7,N/A,N/A,N/A
+DTXSID90895144,DSSTox_Substance_Id,DTXSID90895144,"1,1-(2-Butenylene)bis(3,5,7-triaza-1-azoniaadamantane chloride)",51350-84-6,N/A,N/A,N/A
+DTXSID90895765,DSSTox_Substance_Id,DTXSID90895765,(N-Phenyl-p-toluenesulfonamido)ethylmercury,517-16-8,N/A,N/A,N/A
+DTXSID90895821,DSSTox_Substance_Id,DTXSID90895821,Metasol J 26,53404-62-9,N/A,N/A,N/A
+DTXSID90895841,DSSTox_Substance_Id,DTXSID90895841,"Acetic acid, (2,​4,​5-​trichlorophenoxy)​-​, ester with 1(or 2)​-​(2-​methylpropoxy)​propanol",53466-86-7,N/A,N/A,N/A
+DTXSID90896616,DSSTox_Substance_Id,DTXSID90896616,"N-(2-Aminoethyl)-1,1,2,2-tetrafluoro-2-({1,1,1,2,3,3-hexafluoro-3-[(trifluoroethenyl)oxy]propan-2-yl}oxy)ethane-1-sulfonamide",64346-90-3,N/A,N/A,N/A
+DTXSID90896772,DSSTox_Substance_Id,DTXSID90896772,"(2,4,5-Trichlorophenoxy)acetic acid with (9Z,12Z)-N,N-dimethyl-9,12-octadecadien-1-amine (1:1)",53404-88-9,N/A,N/A,N/A
+DTXSID90896853,DSSTox_Substance_Id,DTXSID90896853,"(8E,10E)-Dodecadienyl acetate",53880-51-6,Y,2.89E-06,N/A
+DTXSID90896858,DSSTox_Substance_Id,DTXSID90896858,"Propanoic acid, 2-​(2,​4,​5-​trichlorophenoxy)​-​, methyl-​2-​[methyl-​2-​(2-​methylpropoxy)​ethoxy]​ethyl ester",53535-26-5,N/A,N/A,N/A
+DTXSID90896914,DSSTox_Substance_Id,DTXSID90896914,4-Bromo-alpha-methylbenzeneethanamine,13235-83-1,N/A,N/A,N/A
+DTXSID90896979,DSSTox_Substance_Id,DTXSID90896979,Uroporphyrin I,607-14-7,N/A,N/A,N/A
+DTXSID90896999,DSSTox_Substance_Id,DTXSID90896999,"Methyl 6,7-dimethoxy-4-ethyl-beta-carboline-3-carboxylate",82499-00-1,N/A,N/A,N/A
+DTXSID90897007,DSSTox_Substance_Id,DTXSID90897007,(+/-)-Mosher's acid,81655-41-6,N/A,N/A,N/A
+DTXSID90897062,DSSTox_Substance_Id,DTXSID90897062,"Poly(oxy-1,2-ethanediyl), .alpha.-[2,4-bis(1,1-dimethylpropyl)phenyl]-.omega.-hydroxy-",67906-07-4,N/A,N/A,N/A
+DTXSID90897163,DSSTox_Substance_Id,DTXSID90897163,Norbinaltorphimine,105618-26-6,N/A,N/A,N/A
+DTXSID90897204,DSSTox_Substance_Id,DTXSID90897204,Onchidal,67656-42-2,N/A,N/A,N/A
+DTXSID90897209,DSSTox_Substance_Id,DTXSID90897209,"N,N'-Bis(dimethylamino)thiuram disulfide",5834-94-6,N/A,N/A,N/A
+DTXSID90897229,DSSTox_Substance_Id,DTXSID90897229,p-Chloroamphetamine,64-12-0,N/A,N/A,N/A
+DTXSID90897360,DSSTox_Substance_Id,DTXSID90897360,"4,4'-(1-Methylpentylidene)bisphenol",14007-30-8,N/A,N/A,N/A
+DTXSID90897365,DSSTox_Substance_Id,DTXSID90897365,Phenoltetrachlorophthalein,639-44-1,N/A,N/A,N/A
+DTXSID90897401,DSSTox_Substance_Id,DTXSID90897401,Thymol blue sodium salt,62625-21-2,Y,1.90E-07,N/A
+DTXSID90897406,DSSTox_Substance_Id,DTXSID90897406,"2-(Bis(3,5-dibromo-4-hydroxyphenyl)hydroxymethyl)benzenesulphonic acid",71617-24-8,N/A,N/A,N/A
+DTXSID90897421,DSSTox_Substance_Id,DTXSID90897421,Acetylmuramyl-alanyl-isoglutamine,53678-77-6,N/A,N/A,N/A
+DTXSID90897441,DSSTox_Substance_Id,DTXSID90897441,Sodium monomethylnaphthalenesulfonate,26264-58-4,N/A,N/A,N/A
+DTXSID90897446,DSSTox_Substance_Id,DTXSID90897446,"2-​Butenedioic acid (2Z)​-​, 1-​(2-​ethylhexyl) ester",7423-42-9,Y,2.37E-06,N/A
+DTXSID90897461,DSSTox_Substance_Id,DTXSID90897461,"1-(1,3-benzodioxol-5-yl)-2-(1-pyrrolidinyl)-1-Pentanone",687603-66-3,N/A,N/A,N/A
+DTXSID90897481,DSSTox_Substance_Id,DTXSID90897481,n-Octylphenol,67554-50-1,N/A,N/A,N/A
+DTXSID90897502,DSSTox_Substance_Id,DTXSID90897502,2-(Diphenylmethyl)piperidine,519-74-4,N/A,N/A,N/A
+DTXSID90897527,DSSTox_Substance_Id,DTXSID90897527,Carbetocin,37025-55-1,N/A,N/A,N/A
+DTXSID90897547,DSSTox_Substance_Id,DTXSID90897547,Dichloro-3-(perfluoro-2-propoxy)propylmethylsilane,20006-68-2,Y,4.69E-07,N/A
+DTXSID90897603,DSSTox_Substance_Id,DTXSID90897603,"Fructose 2,6-diphosphate",79082-92-1,N/A,N/A,N/A
+DTXSID90897643,DSSTox_Substance_Id,DTXSID90897643,"Perfluoro-3,6-dioxa-4-methyl-7-octenesulfonic acid-tetrafluoroethylene polymer",31175-20-9,N/A,N/A,N/A
+DTXSID90897724,DSSTox_Substance_Id,DTXSID90897724,3-Ketopetromyzonol sulfate,435327-06-3,N/A,N/A,N/A
+DTXSID90901759,DSSTox_Substance_Id,DTXSID90901759,"3-Nitro-1,2-benzenediol",6665-98-1,N/A,N/A,N/A
+DTXSID90902382,DSSTox_Substance_Id,DTXSID90902382,1-Anthracenol,610-50-4,N/A,N/A,N/A
+DTXSID90903935,DSSTox_Substance_Id,DTXSID90903935,Tetralin 1-hydroperoxide,771-29-9,N/A,N/A,N/A
+DTXSID90903970,DSSTox_Substance_Id,DTXSID90903970,Beta-(Aminomethyl)-4-chlorobenzeneethanesulfonic acid,125464-42-8,N/A,N/A,N/A
+DTXSID90904205,DSSTox_Substance_Id,DTXSID90904205,Ginsenoside Rf,52286-58-5,N/A,N/A,N/A
+DTXSID90904260,DSSTox_Substance_Id,DTXSID90904260,Gamithromycin,145435-72-9,N/A,N/A,N/A
+DTXSID90904285,DSSTox_Substance_Id,DTXSID90904285,"4-Chloro-2-nitrobenzenediazonium, chloride, zinc chloride",14263-89-9,N/A,N/A,N/A
+DTXSID90904321,DSSTox_Substance_Id,DTXSID90904321,Levoglucosan,498-07-7,N/A,N/A,N/A
+DTXSID90904326,DSSTox_Substance_Id,DTXSID90904326,"9,10,13-Trihydroxy-11-octadecenoic acid",29907-57-1,N/A,N/A,N/A
+DTXSID90904341,DSSTox_Substance_Id,DTXSID90904341,Aerobactin,26198-65-2,N/A,N/A,N/A
+DTXSID90904366,DSSTox_Substance_Id,DTXSID90904366,"1H-Benzimidazolium, 2-(7-(diethylamino)-2-oxo-2H-1-benzopyran-3-yl)-1,3-dimethyl-, chloride",29556-33-0,N/A,N/A,N/A
+DTXSID90904381,DSSTox_Substance_Id,DTXSID90904381,(+)-1-p- Menthene,1195-31-9,N/A,N/A,N/A
+DTXSID90904386,DSSTox_Substance_Id,DTXSID90904386,"2-(3-Methoxypropyl)-9(or 10)-methylbenzimidazo(2,1-b)benzo(lmn)(3,8)phenanthroline-1,3,6(2H)-trione",52673-15-1,N/A,N/A,N/A
+DTXSID90904447,DSSTox_Substance_Id,DTXSID90904447,"2-Butenedioic acid (2Z)-, mono-C12-22-alkyl esters",70879-36-6,N/A,N/A,N/A
+DTXSID90904467,DSSTox_Substance_Id,DTXSID90904467,(2Z)-dec-2-enal,2497-25-8,N/A,N/A,N/A
+DTXSID90904508,DSSTox_Substance_Id,DTXSID90904508,Aprosulate sodium,123072-45-7,N/A,N/A,N/A
+DTXSID90904523,DSSTox_Substance_Id,DTXSID90904523,Bemarinone,92210-43-0,N/A,N/A,N/A
+DTXSID90904644,DSSTox_Substance_Id,DTXSID90904644,Esomeprazole sodium,161796-78-7,N/A,N/A,N/A
+DTXSID90904720,DSSTox_Substance_Id,DTXSID90904720,(2-Hydroxy-3-methacryloxypropyl)trimethylammonium chloride,13052-11-4,N/A,N/A,N/A
+DTXSID90904725,DSSTox_Substance_Id,DTXSID90904725,Haloxyfop-P,95977-29-0,N/A,N/A,N/A
+DTXSID90904740,DSSTox_Substance_Id,DTXSID90904740,(-)-Procyclidine hydrochloride,30953-82-3,N/A,N/A,N/A
+DTXSID90904841,DSSTox_Substance_Id,DTXSID90904841,Inulicin,681457-46-5,N/A,N/A,N/A
+DTXSID90904947,DSSTox_Substance_Id,DTXSID90904947,Bepotastine,125602-71-3,N/A,N/A,N/A
+DTXSID90904982,DSSTox_Substance_Id,DTXSID90904982,C.I. Pigment Red 48:4,5280-66-0,N/A,N/A,N/A
+DTXSID90905015,DSSTox_Substance_Id,DTXSID90905015,"(3E)-4,8-Dimethyl-3,7-nonadien-2-one",817-88-9,N/A,N/A,N/A
+DTXSID90905050,DSSTox_Substance_Id,DTXSID90905050,3beta-Androstenol,7148-51-8,N/A,N/A,N/A
+DTXSID90905075,DSSTox_Substance_Id,DTXSID90905075,Mafosfamide,88859-04-5,N/A,N/A,N/A
+DTXSID90905095,DSSTox_Substance_Id,DTXSID90905095,Crotylbarbital,1952-67-6,N/A,N/A,N/A
+DTXSID90905111,DSSTox_Substance_Id,DTXSID90905111,Tacalcitol,57333-96-7,N/A,N/A,N/A
+DTXSID90905277,DSSTox_Substance_Id,DTXSID90905277,Heptyl hexopyranoside,100231-64-9,N/A,N/A,N/A
+DTXSID90905333,DSSTox_Substance_Id,DTXSID90905333,3-Amino-1-hydroxy-2-pyrrolidinone,1003-51-6,N/A,N/A,N/A
+DTXSID90905575,DSSTox_Substance_Id,DTXSID90905575,1-Octadecyl-5-oxopyrrolidine-3-carboxylic acid,10054-20-3,N/A,N/A,N/A
+DTXSID90905595,DSSTox_Substance_Id,DTXSID90905595,1-(4-Methoxyphenyl)-1H-imidazole--hydrogen chloride (1/1),10058-11-4,N/A,N/A,N/A
+DTXSID90905717,DSSTox_Substance_Id,DTXSID90905717,Potassium 2-(2-ethoxyethoxy)propanoate,100743-68-8,N/A,N/A,N/A
+DTXSID90905813,DSSTox_Substance_Id,DTXSID90905813,"18-[2-Amino-3-(2,3-dihydroxyphenyl)propanoyl]-17,18,19-trihydroxypentatriacontane-16,20-dione",100858-16-0,N/A,N/A,N/A
+DTXSID90905833,DSSTox_Substance_Id,DTXSID90905833,"3,3'-Disulfanediylbis[2-amino-N-(naphthalen-2-yl)propanimidic acid]",100900-22-9,N/A,N/A,N/A
+DTXSID90905858,DSSTox_Substance_Id,DTXSID90905858,"2,3-Dihydroxypropyl prop-2-enoate",10095-20-2,N/A,N/A,N/A
+DTXSID90905898,DSSTox_Substance_Id,DTXSID90905898,Mecoprop-P-isobutyl ester,101012-85-5,N/A,N/A,N/A
+DTXSID90905939,DSSTox_Substance_Id,DTXSID90905939,"N,N,N-Trimethyloctan-1-aminium chloride",10108-86-8,N/A,N/A,N/A
+DTXSID90907190,DSSTox_Substance_Id,DTXSID90907190,4-Aminophenyl 2-(trimethylazaniumyl)ethyl phosphate,102185-28-4,N/A,N/A,N/A
+DTXSID90907296,DSSTox_Substance_Id,DTXSID90907296,"5-Hydroxy-3-methyl-5-(1,2,3,4-tetrahydroxybutyl)-1,3-thiazolidine-2-thione",10225-81-7,N/A,N/A,N/A
+DTXSID90907478,DSSTox_Substance_Id,DTXSID90907478,4-Hydroxy-5-iodo-1-pentofuranosylpyrimidin-2(1H)-one,1024-99-3,N/A,N/A,N/A
+DTXSID90907756,DSSTox_Substance_Id,DTXSID90907756,"N-Benzyl-N,N-bis(2-hydroxyethyl)undecan-1-aminium chloride",102571-39-1,N/A,N/A,N/A
+DTXSID90908066,DSSTox_Substance_Id,DTXSID90908066,"6-Chloro-2-(3,4-dichlorophenyl)-3,4-dihydro-2H-pyrano[2,3-b]pyridine",102830-65-9,N/A,N/A,N/A
+DTXSID90908086,DSSTox_Substance_Id,DTXSID90908086,"(2-{[Hydroxy(octadecylimino)methoxy]methyl}oxolan-2-yl)methyl 2-(4-hydroxy-1,3-thiazol-3-ium-3-yl)ethyl phosphate",102841-49-6,N/A,N/A,N/A
+DTXSID90908127,DSSTox_Substance_Id,DTXSID90908127,"2,4,6-Tribromophenyl acetate",102932-09-2,N/A,N/A,N/A
+DTXSID90908324,DSSTox_Substance_Id,DTXSID90908324,Methyl methioninate,10332-17-9,N/A,N/A,N/A
+DTXSID90908667,DSSTox_Substance_Id,DTXSID90908667,"2,7-Dihydroxy-11b-methyl-8-methylidenetetradecahydro-6a,9-methanocyclohepta[a]naphthalene-4-carboxylic acid",10391-47-6,N/A,N/A,N/A
+DTXSID90908783,DSSTox_Substance_Id,DTXSID90908783,Hydroxy(2-methoxyphenyl)acetic acid,10408-29-4,N/A,N/A,N/A
+DTXSID90909098,DSSTox_Substance_Id,DTXSID90909098,S-(1-Carboxyethyl)cysteine,104640-54-2,N/A,N/A,N/A
+DTXSID90909134,DSSTox_Substance_Id,DTXSID90909134,"2,3-Bis[(4-methylbenzoyl)oxy]butanedioic acid",104695-67-2,N/A,N/A,N/A
+DTXSID90909174,DSSTox_Substance_Id,DTXSID90909174,2-Hydroxy-3-[(naphthalen-1-yl)oxy]propanoic acid,10476-54-7,N/A,N/A,N/A
+DTXSID90909235,DSSTox_Substance_Id,DTXSID90909235,"5-Ethyl-6-phenyl-5,6-dihydrophenanthridine-3,8-diamine",104821-25-2,N/A,N/A,N/A
+DTXSID90909290,DSSTox_Substance_Id,DTXSID90909290,"3-(4-Methoxyphenyl)-3,4-dihydro-2H-1-benzopyran-7-ol",10499-17-9,N/A,N/A,N/A
+DTXSID90909331,DSSTox_Substance_Id,DTXSID90909331,Acetic acid--5-imino-5H-benzo[a]phenoxazin-9-amine (1/1),10510-54-0,N/A,N/A,N/A
+DTXSID90909336,DSSTox_Substance_Id,DTXSID90909336,2-Hydroxyethyl 12-hydroxyoctadecanoate,105109-85-1,N/A,N/A,N/A
+DTXSID90909356,DSSTox_Substance_Id,DTXSID90909356,Dolutegravir,1051375-16-6,N/A,N/A,N/A
+DTXSID90909417,DSSTox_Substance_Id,DTXSID90909417,"2-Amino-3-(2-chloroethyl)-1,3,2lambda~5~-oxazaphosphinan-2-one",105308-45-0,N/A,N/A,N/A
+DTXSID90909452,DSSTox_Substance_Id,DTXSID90909452,4-(4-Ethylcyclohexyl)-4-methylpentan-2-ol,10534-30-2,N/A,N/A,N/A
+DTXSID90909457,DSSTox_Substance_Id,DTXSID90909457,"Ethyl 3-(4-methoxy-5-oxo-3-phenyl-2,5-dihydrofuran-2-yl)propanoate",105346-34-7,N/A,N/A,N/A
+DTXSID90909472,DSSTox_Substance_Id,DTXSID90909472,"2-Ethyl-2-methyl-4-{[(oxiran-2-yl)methoxy]methyl}-1,3-dioxolane",10537-73-2,N/A,N/A,N/A
+DTXSID90909558,DSSTox_Substance_Id,DTXSID90909558,Benzyl pentopyranoside,10548-61-5,N/A,N/A,N/A
+DTXSID90909634,DSSTox_Substance_Id,DTXSID90909634,"7,12-Bis(cyclopropylmethyl)-20-methyl-5,6,7,8,9,10,11,12,13,14,20,20b-dodecahydro-19aH-4,8:11,15-dimethanobis[1]benzofuro[2,3-a:3',2'-i]dipyrido[4,3-b:3',4'-h]carbazole-1,8a,10a,18-tetrol",105618-27-7,N/A,N/A,N/A
+DTXSID90909750,DSSTox_Substance_Id,DTXSID90909750,(-)-Paroxol,105812-81-5,N/A,N/A,N/A
+DTXSID90909836,DSSTox_Substance_Id,DTXSID90909836,"3,3'-Sulfanediyldi(propan-1-ol)",10595-09-2,N/A,N/A,N/A
+DTXSID90909932,DSSTox_Substance_Id,DTXSID90909932,"2,2',2'',2'''-[(3-Phenylpropane-1,2-diyl)dinitrilo]tetraacetic acid",106145-38-4,N/A,N/A,N/A
+DTXSID90910003,DSSTox_Substance_Id,DTXSID90910003,7-Amino-8-oxo-3-(prop-1-en-1-yl)-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,106447-44-3,N/A,N/A,N/A
+DTXSID90910205,DSSTox_Substance_Id,DTXSID90910205,Choline phosphochloride,107-73-3,N/A,N/A,N/A
+DTXSID90910301,DSSTox_Substance_Id,DTXSID90910301,"5-{5-[2,6-Dichloro-4-(4,5-dihydro-1,3-oxazol-2-yl)phenoxy]pentyl}-3-methyl-1,2-oxazole",107355-45-3,N/A,N/A,N/A
+DTXSID90910780,DSSTox_Substance_Id,DTXSID90910780,6-(Ethylimino)-6-hydroxynorleucine,108589-72-6,N/A,N/A,N/A
+DTXSID90910886,DSSTox_Substance_Id,DTXSID90910886,"Ethyl 2-(piperidin-1-yl)ethyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate",108852-42-2,N/A,N/A,N/A
+DTXSID90910962,DSSTox_Substance_Id,DTXSID90910962,2-[(4-Carboxybutanoyl)oxy]-3-(trimethylazaniumyl)propanoate,109006-11-3,N/A,N/A,N/A
+DTXSID90911353,DSSTox_Substance_Id,DTXSID90911353,"Hexyl hydrogen N-(2,5-dichlorophenyl)phosphoramidate",109791-13-1,N/A,N/A,N/A
+DTXSID90911590,DSSTox_Substance_Id,DTXSID90911590,1-[5-(Furan-3-yl)-2-methyloxolan-2-yl]-4-methylpentan-2-one,11033-12-8,N/A,N/A,N/A
+DTXSID90912325,DSSTox_Substance_Id,DTXSID90912325,Hexadecene,26952-14-7,N/A,N/A,N/A
+DTXSID90912380,DSSTox_Substance_Id,DTXSID90912380,1-(Hexadecyloxy)-3-hydroxypropan-2-yl acetate,99945-82-1,N/A,N/A,N/A
+DTXSID90912481,DSSTox_Substance_Id,DTXSID90912481,"2,3-Bis(acetyloxy)-4-{[1-hydroxy-3-(octadecanoyloxy)propan-2-yl]oxy}-4-oxobutanoic acid",99769-59-2,N/A,N/A,N/A
+DTXSID90912840,DSSTox_Substance_Id,DTXSID90912840,"2-(3,7,11,15,19,23,27,31,35,39-Decamethyltetraconta-2,6,10,14,18,22,26,30,34,38-decaen-1-yl)-5,6-dimethoxy-3-methylbenzene-1,4-diol",992-78-9,N/A,N/A,N/A
+DTXSID90913473,DSSTox_Substance_Id,DTXSID90913473,[2-(4-Methylcyclohex-3-en-1-yl)propyl]phosphonic acid,98072-14-1,N/A,N/A,N/A
+DTXSID90913554,DSSTox_Substance_Id,DTXSID90913554,"2,2,4,8b-Tetramethyldodecahydrobiphenylen-1-ol",97890-10-3,N/A,N/A,N/A
+DTXSID90913559,DSSTox_Substance_Id,DTXSID90913559,"3,7-Dimethyloct-6-en-2-yl propanoate",97889-96-8,N/A,N/A,N/A
+DTXSID90913670,DSSTox_Substance_Id,DTXSID90913670,"1,6-Dimethyl-4-(propan-2-yl)-4,4a,5,6,7,8-hexahydronaphthalen-2(3H)-one",97752-22-2,N/A,N/A,N/A
+DTXSID90913736,DSSTox_Substance_Id,DTXSID90913736,Ethyl 4-formyl-2-methoxyphenyl carbonate,97692-56-3,N/A,N/A,N/A
+DTXSID90913751,DSSTox_Substance_Id,DTXSID90913751,Butyl 2-(4-chloro-2-methylphenoxy)propanoate,97659-37-5,N/A,N/A,N/A
+DTXSID90913776,DSSTox_Substance_Id,DTXSID90913776,"2-Methylbutyl (2,4,5-trichlorophenoxy)acetate",97635-44-4,N/A,N/A,N/A
+DTXSID90913817,DSSTox_Substance_Id,DTXSID90913817,1-[(2-Hydroxyethyl){4-[(2-hydroxyethyl)amino]butyl}amino]propan-2-ol,97574-44-2,N/A,N/A,N/A
+DTXSID90913958,DSSTox_Substance_Id,DTXSID90913958,N-Phenyl-4-(1-phenylpropan-2-yl)aniline,97375-16-1,N/A,N/A,N/A
+DTXSID90913973,DSSTox_Substance_Id,DTXSID90913973,"1,2-Hexacosanediol",97338-12-0,N/A,N/A,N/A
+DTXSID90914203,DSSTox_Substance_Id,DTXSID90914203,4-Amino-N-(1-phenylethyl)benzamide,97042-55-2,N/A,N/A,N/A
+DTXSID90914283,DSSTox_Substance_Id,DTXSID90914283,"2,6-Dimethyloctan-2-yl pentanoate",96846-73-0,N/A,N/A,N/A
+DTXSID90914480,DSSTox_Substance_Id,DTXSID90914480,"3-{[(5-Amino-1,3,3-trimethylcyclohexyl)methyl]amino}-2-hydroxypropyl 2-methyl-2-nonylundecanoate",96507-73-2,N/A,N/A,N/A
+DTXSID90914602,DSSTox_Substance_Id,DTXSID90914602,"7-Cyano-5-(hydroxymethyl)-4-methoxy-13-methyl-5,7,8,9,10,11,11a,12-octahydro-8,11-epiminoazepino[1,2-b]isoquinoline-10-carboxylic acid",96251-59-1,N/A,N/A,N/A
+DTXSID90914768,DSSTox_Substance_Id,DTXSID90914768,"N-{2-[(1,5-Dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)imino]-2-hydroxyethyl}pyridine-3-carboximidic acid--hydrogen chloride (1/1)",95873-63-5,N/A,N/A,N/A
+DTXSID90915033,DSSTox_Substance_Id,DTXSID90915033,"2-Methyl-1,4-dioxaspiro[4.11]hexadecane",953-78-6,N/A,N/A,N/A
+DTXSID90915139,DSSTox_Substance_Id,DTXSID90915139,"2-(Undecan-2-yl)-1,3-dioxolane",95046-34-7,N/A,N/A,N/A
+DTXSID90915210,DSSTox_Substance_Id,DTXSID90915210,"3-{4-(2-Cyanoethyl)-3-[4-(hexadecanoylamino)phenyl]-5-oxo-4,5-dihydro-1H-pyrazol-1-yl}benzene-1-sulfonic acid",94944-74-8,N/A,N/A,N/A
+DTXSID90915230,DSSTox_Substance_Id,DTXSID90915230,2-{[(Benzyloxy)(hydroxy)methylidene]amino}ethanimidic acid,949-90-6,N/A,N/A,N/A
+DTXSID9091527,DSSTox_Substance_Id,DTXSID9091527,(+/-)-Pramipexole,104617-86-9,N/A,N/A,N/A
+DTXSID90915654,DSSTox_Substance_Id,DTXSID90915654,N-(1-Hydroxy-2-methylpropan-2-yl)-3-methyl-2-(2-methylpropyl)pentanimidic acid,94333-41-2,N/A,N/A,N/A
+DTXSID90915715,DSSTox_Substance_Id,DTXSID90915715,1-(Decyloxy)-1-methoxyundecane,94291-88-0,N/A,N/A,N/A
+DTXSID90915735,DSSTox_Substance_Id,DTXSID90915735,"2,7-Dimethyl-4-(propan-2-yl)-2,3,4,5,6,7-hexahydro-1H-inden-1-one",94291-46-0,N/A,N/A,N/A
+DTXSID90915811,DSSTox_Substance_Id,DTXSID90915811,2-Hexadecylicosyl hexadecanoate,94277-34-6,N/A,N/A,N/A
+DTXSID90915816,DSSTox_Substance_Id,DTXSID90915816,2-Decyltetradecyl octanoate,94277-29-9,N/A,N/A,N/A
+DTXSID90915856,DSSTox_Substance_Id,DTXSID90915856,"tert-Butyl ethyl 4-butyl-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate",94266-04-3,N/A,N/A,N/A
+DTXSID90915871,DSSTox_Substance_Id,DTXSID90915871,"(3,4-Dihydroxycyclohexyl)methyl 3,4-dihydroxycyclohexane-1-carboxylate",94249-14-6,N/A,N/A,N/A
+DTXSID90915912,DSSTox_Substance_Id,DTXSID90915912,2-{[(Pentadecan-2-yl)oxy]methyl}oxirane,94247-83-3,N/A,N/A,N/A
+DTXSID90915992,DSSTox_Substance_Id,DTXSID90915992,2-Ethylhexyl 4-(4-chloro-2-methylphenoxy)butanoate,94232-74-3,N/A,N/A,N/A
+DTXSID90916000,DSSTox_Substance_Id,DTXSID90916000,"Disodium 1-{4-[(6-methoxypyridazin-3-yl)sulfamoyl]anilino}-3-phenylpropane-1,3-disulfonate",94232-25-4,N/A,N/A,N/A
+DTXSID90916045,DSSTox_Substance_Id,DTXSID90916045,"Cyclobutyl{1-[(4-methoxyphenyl)methyl]-3,4,5,6,7,8-hexahydroisoquinolin-2(1H)-yl}methanone",94230-89-4,N/A,N/A,N/A
+DTXSID90916121,DSSTox_Substance_Id,DTXSID90916121,"6-Methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)oxan-2-one",94201-66-8,N/A,N/A,N/A
+DTXSID90916141,DSSTox_Substance_Id,DTXSID90916141,1-Methoxyundecane-3-thiol,94201-22-6,N/A,N/A,N/A
+DTXSID90916161,DSSTox_Substance_Id,DTXSID90916161,3-{[(Propan-2-yl)oxy]methyl}heptane,94200-86-9,N/A,N/A,N/A
+DTXSID90916186,DSSTox_Substance_Id,DTXSID90916186,2-Ethylhexyl 2-methylbutanoate,94200-09-6,N/A,N/A,N/A
+DTXSID90916207,DSSTox_Substance_Id,DTXSID90916207,1-Isocyanato-3-[(2-isocyanatocyclohexyl)methyl]-2-methylbenzene,94166-79-7,N/A,N/A,N/A
+DTXSID90916222,DSSTox_Substance_Id,DTXSID90916222,"1-[2,3-Bis(2-hydroxypropoxy)propoxy]propan-2-yl prop-2-enoate",94160-31-3,N/A,N/A,N/A
+DTXSID90916242,DSSTox_Substance_Id,DTXSID90916242,"2,3-Dihydroxypropyl bromoacetate",94159-35-0,N/A,N/A,N/A
+DTXSID90916267,DSSTox_Substance_Id,DTXSID90916267,"1-(2,4-Dichlorophenyl)-2-(1H-imidazol-1-yl)propan-1-one--hydrogen chloride (1/1)",94158-55-1,N/A,N/A,N/A
+DTXSID90916287,DSSTox_Substance_Id,DTXSID90916287,1-[2-(2-Hydroxyethyl)pyrrolidin-1-yl]ethan-1-one,94157-94-5,N/A,N/A,N/A
+DTXSID90916308,DSSTox_Substance_Id,DTXSID90916308,"5-Cyclohexyl-2,5-dimethylhexan-3-ol",94138-66-6,N/A,N/A,N/A
+DTXSID90916323,DSSTox_Substance_Id,DTXSID90916323,1-{5-Fluoro-2-[(oxiran-2-yl)methoxy]phenyl}butan-1-one,94135-58-7,N/A,N/A,N/A
+DTXSID90916343,DSSTox_Substance_Id,DTXSID90916343,2-Hexyl-3-(2-oxopropyl)cyclopentan-1-one,94135-11-2,N/A,N/A,N/A
+DTXSID90916348,DSSTox_Substance_Id,DTXSID90916348,"N-(2,5-Dichloropentyl)-7-(methylsulfamoyl)-2,3-dihydro-1,4-benzodioxine-5-carboximidic acid",94134-91-5,N/A,N/A,N/A
+DTXSID90916363,DSSTox_Substance_Id,DTXSID90916363,1-[(2-Methyl-4-oxo-4H-pyran-3-yl)oxy]-1-oxopropan-2-yl 2-hydroxypropanoate,94134-41-5,N/A,N/A,N/A
+DTXSID90916368,DSSTox_Substance_Id,DTXSID90916368,"3,5,5-Trimethylhexyl nitrite",94134-31-3,N/A,N/A,N/A
+DTXSID90916429,DSSTox_Substance_Id,DTXSID90916429,"N-(2,6-Dichlorophenyl)-1-(oxan-2-yl)-4,5-dihydro-1H-imidazol-2-amine",94109-64-5,N/A,N/A,N/A
+DTXSID90916484,DSSTox_Substance_Id,DTXSID90916484,Undecyl cyclohexanecarboxylate,94107-44-5,N/A,N/A,N/A
+DTXSID90916505,DSSTox_Substance_Id,DTXSID90916505,N-(3-Acetyl-4-hydroxyphenyl)methanesulfonamide,94094-49-2,N/A,N/A,N/A
+DTXSID90916520,DSSTox_Substance_Id,DTXSID90916520,"1-Benzyl-3-decyl-4,5-dihydro-1H-imidazol-3-ium chloride",94088-59-2,N/A,N/A,N/A
+DTXSID90916585,DSSTox_Substance_Id,DTXSID90916585,2-Decyl-3-hydroxytetradecanoic acid,94071-21-3,N/A,N/A,N/A
+DTXSID90916601,DSSTox_Substance_Id,DTXSID90916601,"Octyl 2-(2,4,5-trichlorophenoxy)propanoate",94043-00-2,N/A,N/A,N/A
+DTXSID90916646,DSSTox_Substance_Id,DTXSID90916646,"N-[2-(5-Oxo-1-phenyl-2-sulfanyl-4,5-dihydro-1H-imidazol-4-yl)ethyl]guanidine--hydrogen chloride (1/1)",94023-04-8,N/A,N/A,N/A
+DTXSID90916666,DSSTox_Substance_Id,DTXSID90916666,"2,6-Dicyclopentyl-3-methylphenol",94022-19-2,N/A,N/A,N/A
+DTXSID90916727,DSSTox_Substance_Id,DTXSID90916727,"2-Ethyl-2-{[2-(hydroxymethyl)-2-(methoxymethyl)butoxy]methyl}propane-1,3-diol",93983-20-1,N/A,N/A,N/A
+DTXSID90916742,DSSTox_Substance_Id,DTXSID90916742,N-{2-Hydroxy-3-[(prop-2-en-1-yl)oxy]propyl}triimidodicarbonic diamide,93982-40-2,N/A,N/A,N/A
+DTXSID90916767,DSSTox_Substance_Id,DTXSID90916767,"N,N'-(6-Hydroxy-6-iminohexane-1,5-diyl)dihexanimidic acid",93981-25-0,N/A,N/A,N/A
+DTXSID90916787,DSSTox_Substance_Id,DTXSID90916787,"2,3-Bis[(2-hydroxypropanoyl)oxy]propyl hexadecanoate",93980-78-0,N/A,N/A,N/A
+DTXSID90916883,DSSTox_Substance_Id,DTXSID90916883,[3-Chloro-4-methyl-1-(propan-2-yl)pyridin-2(1H)-ylidene](3-methylbutyl)oxidanium chloride,93962-93-7,N/A,N/A,N/A
+DTXSID90916944,DSSTox_Substance_Id,DTXSID90916944,"1,3,5-Tris(2-ethylhexyl)-1,3,5-triazinane",93942-45-1,N/A,N/A,N/A
+DTXSID90916969,DSSTox_Substance_Id,DTXSID90916969,2-Hydroxy-3-[(prop-2-en-1-yl)oxy]propyl hydrogen sulfate--ammonia (1/1),93941-86-7,N/A,N/A,N/A
+DTXSID90916989,DSSTox_Substance_Id,DTXSID90916989,"4-Bromo-3-methylbenzene-1,2-diol",93940-91-1,N/A,N/A,N/A
+DTXSID90917017,DSSTox_Substance_Id,DTXSID90917017,"N-Ethyl-N,N-dimethyl-2-[(2-methylphenyl)(phenyl)methoxy]ethan-1-aminium chloride",93940-17-1,N/A,N/A,N/A
+DTXSID90917037,DSSTox_Substance_Id,DTXSID90917037,Ethyl 2-chloro-2-hydroxyheptanoate,93923-87-6,N/A,N/A,N/A
+DTXSID90917133,DSSTox_Substance_Id,DTXSID90917133,"N~4~-(4-Imino-1,2-dimethyl-1,4-dihydroquinolin-6-yl)-1,6-dimethylpyrimidine-2,4(1H,3H)-diimine--water (1/1)",93919-18-7,N/A,N/A,N/A
+DTXSID90917274,DSSTox_Substance_Id,DTXSID90917274,"N-Benzyl-N,N-diethyl-2-[(prop-2-enoyl)oxy]propan-1-aminium chloride",93893-81-3,N/A,N/A,N/A
+DTXSID90917294,DSSTox_Substance_Id,DTXSID90917294,"2-(Undecan-5-yl)-1,3-dioxolane",93893-48-2,N/A,N/A,N/A
+DTXSID90917335,DSSTox_Substance_Id,DTXSID90917335,"Methyl 2,8,8-trimethyl-1,2,3,4,6,7,8,8a-octahydronaphthalene-2-carboxylate",93892-58-1,N/A,N/A,N/A
+DTXSID90917390,DSSTox_Substance_Id,DTXSID90917390,5-Ethyl-3-hydroxy-4-methylfuran-2(3H)-one,93859-20-2,N/A,N/A,N/A
+DTXSID90917431,DSSTox_Substance_Id,DTXSID90917431,2-Hydroxy-3-[3-(trimethoxysilyl)propoxy]propyl prop-2-enoate,93858-44-7,N/A,N/A,N/A
+DTXSID90917517,DSSTox_Substance_Id,DTXSID90917517,1-(1-Cyclohexyl-1-phenylprop-1-en-2-yl)pyrrolidine,93843-00-6,N/A,N/A,N/A
+DTXSID90917592,DSSTox_Substance_Id,DTXSID90917592,2-Hydroxytriacontyl 12-hydroxyoctadecanoate,93840-70-1,N/A,N/A,N/A
+DTXSID90917597,DSSTox_Substance_Id,DTXSID90917597,"N-[(2,4-Dichlorophenoxy)methyl]-N,N-dimethyloctan-1-aminium chloride",93840-58-5,N/A,N/A,N/A
+DTXSID90917613,DSSTox_Substance_Id,DTXSID90917613,"Methyl 8,8-dimethyldecahydronaphthalene-2-carboxylate",93840-14-3,N/A,N/A,N/A
+DTXSID90917658,DSSTox_Substance_Id,DTXSID90917658,"N-Benzyl-2-ethyl-N,N-dimethylhexan-1-aminium chloride",93839-30-6,N/A,N/A,N/A
+DTXSID90917774,DSSTox_Substance_Id,DTXSID90917774,4-Cyclopentyl-2-methylcyclohexyl acetate,93805-76-6,N/A,N/A,N/A
+DTXSID90917794,DSSTox_Substance_Id,DTXSID90917794,Bis(2-methylbutyl) decanedioate,93805-24-4,N/A,N/A,N/A
+DTXSID90917830,DSSTox_Substance_Id,DTXSID90917830,"N,N-Diethyl-2-hydroxy-N-{2-[(prop-2-enoyl)oxy]ethyl}-3-(tetradecyloxy)propan-1-aminium chloride",93804-69-4,N/A,N/A,N/A
+DTXSID90917835,DSSTox_Substance_Id,DTXSID90917835,2-Methylnonadecyl prop-2-enoate,93804-56-9,N/A,N/A,N/A
+DTXSID90917850,DSSTox_Substance_Id,DTXSID90917850,"2-(1-Methylcyclohexa-2,4-dien-1-yl)-N-[(6-methylpyridin-2-yl)methyl]ethan-1-amine",93804-20-7,N/A,N/A,N/A
+DTXSID90917911,DSSTox_Substance_Id,DTXSID90917911,2-(4-Hydroxyphenyl)propanoic acid,938-96-5,N/A,N/A,N/A
+DTXSID90917996,DSSTox_Substance_Id,DTXSID90917996,"1-(2-Chloroethoxy)-3-(2,3-dibromopropoxy)propan-2-ol",93778-74-6,N/A,N/A,N/A
+DTXSID90918009,DSSTox_Substance_Id,DTXSID90918009,"4,8-Diamino-9,10-dihydroanthracene-1,5,9,10-tetrol",93778-47-3,N/A,N/A,N/A
+DTXSID90918029,DSSTox_Substance_Id,DTXSID90918029,1-(4-Ethoxyphenyl)-4-(piperazine-1-carbonyl)pyrrolidin-2-one,93778-14-4,N/A,N/A,N/A
+DTXSID90918044,DSSTox_Substance_Id,DTXSID90918044,"Methyl hydrogen sulfate--N,N-dimethyl-N'-[4-(trimethyl-lambda~5~-azanylidene)cyclohexa-2,5-dien-1-ylidene]urea (1/1)",93777-82-3,N/A,N/A,N/A
+DTXSID90918089,DSSTox_Substance_Id,DTXSID90918089,"1-(3,4-Dihydroxyphenyl)-2-(ethylamino)propan-1-one--hydrogen chloride (1/1)",93776-99-9,N/A,N/A,N/A
+DTXSID90918140,DSSTox_Substance_Id,DTXSID90918140,Pentyl 3-(methylsulfanyl)propanoate,93762-35-7,N/A,N/A,N/A
+DTXSID90918286,DSSTox_Substance_Id,DTXSID90918286,"2,3-Dihydroxypropyl dichloroacetate",93623-15-5,N/A,N/A,N/A
+DTXSID90918347,DSSTox_Substance_Id,DTXSID90918347,"2,2'-(Cyclohexane-1,1-diyl)diacetic acid",9355-11-7,N/A,N/A,N/A
+DTXSID90918847,DSSTox_Substance_Id,DTXSID90918847,N-{[(9H-Fluoren-9-yl)methoxy](hydroxy)methylidene}tyrosine,92954-90-0,N/A,N/A,N/A
+DTXSID90918862,DSSTox_Substance_Id,DTXSID90918862,"1,5-Anhydro-6-deoxy-1-(1-hydroxy-10,12-dimethoxy-8-methyl-6-oxo-6H-benzo[d]naphtho[1,2-b]pyran-4-yl)-3-C-methylhexitol",92934-54-8,N/A,N/A,N/A
+DTXSID90919652,DSSTox_Substance_Id,DTXSID90919652,"3-(4-Aminophenyl)-3-ethyl-5-hydroxy-3,4-dihydro-2H-pyrrol-2-one",91567-07-6,N/A,N/A,N/A
+DTXSID90919692,DSSTox_Substance_Id,DTXSID90919692,12-Oxospirostan-3-yl acetate,915-35-5,N/A,N/A,N/A
+DTXSID90919713,DSSTox_Substance_Id,DTXSID90919713,1-Isocyanato-4-[(4-isocyanatocyclohexyl)methyl]-2-methylcyclohexane,91458-04-7,N/A,N/A,N/A
+DTXSID90919955,DSSTox_Substance_Id,DTXSID90919955,"Phosphoric acid--4,4'-[propane-1,3-diyldi(piperazine-4,1-diyl)]bis(7-chloroquinoline) (4/1)",911061-10-4,N/A,N/A,N/A
+DTXSID90919975,DSSTox_Substance_Id,DTXSID90919975,Methyl [4-(2-{[2-(3-chlorophenyl)-2-hydroxyethyl]amino}propyl)phenoxy]acetate,91097-81-3,N/A,N/A,N/A
+DTXSID90920021,DSSTox_Substance_Id,DTXSID90920021,"(4-Azido-3-iodophenyl)[4-(4-imino-6,7-dimethoxy-3,4-dihydroquinazolin-2-yl)piperazin-1-yl]methanone",90990-97-9,N/A,N/A,N/A
+DTXSID90920086,DSSTox_Substance_Id,DTXSID90920086,"3-Ethyl-2-{2-[(3-ethyl-1,3-benzothiazol-2(3H)-ylidene)methyl]but-1-en-1-yl}-1,3-benzothiazol-3-ium iodide",909-63-7,N/A,N/A,N/A
+DTXSID90920122,DSSTox_Substance_Id,DTXSID90920122,3-[(2-Aminocyclohexyl)methyl]-2-methylcyclohexan-1-amine,90850-42-3,N/A,N/A,N/A
+DTXSID90920162,DSSTox_Substance_Id,DTXSID90920162,"6-Hydroxy-9-(1-hydroxyethyl)-5,16a,21-trimethyl-6,7,16,16a,22,23-hexahydro-1H,3H,18H,19aH-spiro[16,18-methano[1,6,12]trioxacyclooctadecino[3,4-d][1]benzopyran-17,2'-oxirane]-3,14(9H)-dione",90790-03-7,N/A,N/A,N/A
+DTXSID90920288,DSSTox_Substance_Id,DTXSID90920288,Methyl 2-cyano-3-methylhexanoate,90608-57-4,N/A,N/A,N/A
+DTXSID90920521,DSSTox_Substance_Id,DTXSID90920521,3-Methyl-L-histidine,368-16-1,N/A,N/A,N/A
+DTXSID90920541,DSSTox_Substance_Id,DTXSID90920541,Ornithine--hydrogen chloride (1/1),1069-31-4,N/A,N/A,N/A
+DTXSID90920667,DSSTox_Substance_Id,DTXSID90920667,Armodafinil,112111-43-0,N/A,N/A,N/A
+DTXSID90920687,DSSTox_Substance_Id,DTXSID90920687,Nooglutyl,112193-35-8,N/A,N/A,N/A
+DTXSID90920920,DSSTox_Substance_Id,DTXSID90920920,Fluasterone,112859-71-9,N/A,N/A,N/A
+DTXSID90921013,DSSTox_Substance_Id,DTXSID90921013,{2-[(Octadecyloxy)methyl]oxolan-2-yl}methyl 2-(trimethylazaniumyl)ethyl phosphate,113201-37-9,N/A,N/A,N/A
+DTXSID90921235,DSSTox_Substance_Id,DTXSID90921235,"(4,8,8-Trimethyldecahydro-1,4-methanoazulen-9-yl)methanol",1139-17-9,N/A,N/A,N/A
+DTXSID90921255,DSSTox_Substance_Id,DTXSID90921255,"6,7-Dimethyl-5,6,7,8-tetrahydropteridine",114-27-2,N/A,N/A,N/A
+DTXSID90921452,DSSTox_Substance_Id,DTXSID90921452,"N-[3-(3,5-Difluorophenyl)-3-(pyridin-2-yl)propyl]-N'-[3-(1H-imidazol-5-yl)propyl]guanidine",114667-79-7,N/A,N/A,N/A
+DTXSID90921497,DSSTox_Substance_Id,DTXSID90921497,"1-[(4-Amino-3-methylphenyl)methyl]-5-(diphenylacetyl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine-6-carboxylic acid",114785-12-5,N/A,N/A,N/A
+DTXSID90921619,DSSTox_Substance_Id,DTXSID90921619,2-(2-Carboxyethyl)-5-ethyl-4-methylfuran-3-carboxylic acid,115084-30-5,N/A,N/A,N/A
+DTXSID90921876,DSSTox_Substance_Id,DTXSID90921876,"2-[2-({Amino[bis(2-chloroethyl)amino]phosphoryl}oxy)ethyl]-1,3-thiazolidine-4-carboxylic acid",115952-49-3,N/A,N/A,N/A
+DTXSID90921896,DSSTox_Substance_Id,DTXSID90921896,4-[Bis(2-chloroethyl)amino]-N-(1-hydroxyethylidene)phenylalanine,1160-90-3,N/A,N/A,N/A
+DTXSID90922146,DSSTox_Substance_Id,DTXSID90922146,3-Methyl-15-phenylpentadecanoic acid,116754-80-4,N/A,N/A,N/A
+DTXSID90922287,DSSTox_Substance_Id,DTXSID90922287,"11,16,17,21-Tetrahydroxypregn-4-ene-3,20-dione",1171-81-9,N/A,N/A,N/A
+DTXSID90922388,DSSTox_Substance_Id,DTXSID90922388,"1-[2-Deoxy-5-O-({[hydroxy(phosphonatooxy)phosphoryl]oxy}phosphinato)pentofuranosyl]-2-oxo-1,2-dihydropyrimidin-4-olate",1173-82-6,N/A,N/A,N/A
+DTXSID90922429,DSSTox_Substance_Id,DTXSID90922429,"(Acetyloxy)methyl 3',6'-bis[(acetyloxy)methoxy]-2',7'-bis{3-[(acetyloxy)methoxy]-3-oxopropyl}-3-oxo-3H-spiro[2-benzofuran-1,9'-xanthene]-5-carboxylate",117464-70-7,N/A,N/A,N/A
+DTXSID90922444,DSSTox_Substance_Id,DTXSID90922444,"2,3-Dihydroxybutanedioic acid--N,N,2-trimethyl-3-(10H-phenothiazin-10-yl)propan-1-amine (1/1)",1175-88-8,N/A,N/A,N/A
+DTXSID90922464,DSSTox_Substance_Id,DTXSID90922464,Calpeptin,117591-20-5,N/A,N/A,N/A
+DTXSID90922585,DSSTox_Substance_Id,DTXSID90922585,2-(Acetyloxy)-3-(hexadecyloxy)propyl 2-(trimethylazaniumyl)ethyl phosphate,117985-57-6,N/A,N/A,N/A
+DTXSID90922601,DSSTox_Substance_Id,DTXSID90922601,Cyprodime,118111-54-9,N/A,N/A,N/A
+DTXSID90922626,DSSTox_Substance_Id,DTXSID90922626,Cholest-5-en-3-yl 4-methylbenzene-1-sulfonate,1182-65-6,N/A,N/A,N/A
+DTXSID90922787,DSSTox_Substance_Id,DTXSID90922787,"3-Hydroxypropane-1,2-diyl bis[dihydrogen (phosphate)]",1188-64-3,N/A,N/A,N/A
+DTXSID90922863,DSSTox_Substance_Id,DTXSID90922863,"Sodium 7,12,24,26-tetrahydroxy-27-(sulfooxy)cholestan-3-olate",119068-78-9,N/A,N/A,N/A
+DTXSID90922868,DSSTox_Substance_Id,DTXSID90922868,N-Dodecyl-2-methylprop-2-enimidic acid,1191-39-5,N/A,N/A,N/A
+DTXSID90922888,DSSTox_Substance_Id,DTXSID90922888,"2-Hydroxy-4-methyl-1,3-oxazol-5(4H)-one",1192-73-0,N/A,N/A,N/A
+DTXSID90922929,DSSTox_Substance_Id,DTXSID90922929,"2-(Nitrosomethylidene)-1,2-dihydropyridine",1193-96-0,N/A,N/A,N/A
+DTXSID90923274,DSSTox_Substance_Id,DTXSID90923274,"(3,4-Dimethoxyphenyl)[6-(2-hydroxy-6-methyl-6H-1,3,4-thiadiazin-5-yl)-3,4-dihydroquinolin-1(2H)-yl]methanone",120223-04-3,N/A,N/A,N/A
+DTXSID90923916,DSSTox_Substance_Id,DTXSID90923916,"2-(2,4-Difluorophenyl)-3-(methanesulfonyl)-1-(1H-1,2,4-triazol-1-yl)butan-2-ol",121650-83-7,N/A,N/A,N/A
+DTXSID90924605,DSSTox_Substance_Id,DTXSID90924605,N~2~-(2-Amino-1-hydroxy-3-phenylpropylidene)arginine,1238-09-1,N/A,N/A,N/A
+DTXSID90924746,DSSTox_Substance_Id,DTXSID90924746,"3-Hydroxy-2-phenyl-2,3-dihydro-4H-1-benzopyran-4-one",124191-32-8,N/A,N/A,N/A
+DTXSID90924908,DSSTox_Substance_Id,DTXSID90924908,"14-Hydroxy-3-oxocarda-4,20(22)-dienolide",1247-04-7,N/A,N/A,N/A
+DTXSID90924923,DSSTox_Substance_Id,DTXSID90924923,N-Hexanoylsphingosine,124753-97-5,N/A,N/A,N/A
+DTXSID90924983,DSSTox_Substance_Id,DTXSID90924983,Morphine methylbromide,125-23-5,N/A,N/A,N/A
+DTXSID90925470,DSSTox_Substance_Id,DTXSID90925470,3-O-Phosphonohex-2-ulose,126247-74-3,N/A,N/A,N/A
+DTXSID90925531,DSSTox_Substance_Id,DTXSID90925531,"9-{5-O-[{[{3,4-Dihydroxy-4-[(3-hydroxy-3-{[2-(octanoylsulfanyl)ethyl]imino}propyl)imino]-2,2-dimethylbutoxy}(hydroxy)phosphoryl]oxy}(hydroxy)phosphoryl]-3-O-phosphonopentofuranosyl}-9H-purin-6-amine",1264-52-4,N/A,N/A,N/A
+DTXSID90925551,DSSTox_Substance_Id,DTXSID90925551,"4-[(3,5-Dichlorophenyl)imino]-3,4-dihydroxybutanoic acid",126441-08-5,N/A,N/A,N/A
+DTXSID90925637,DSSTox_Substance_Id,DTXSID90925637,"2-{4-[6-(Prop-1-yn-1-yl)-1,2-dithiin-3-yl]buta-1,3-diyn-1-yl}oxirane",126624-07-5,N/A,N/A,N/A
+DTXSID90925697,DSSTox_Substance_Id,DTXSID90925697,N-[(1-{N-[2-({2-[(2-Amino-1-hydroxy-3-methylbutylidene)amino]-1-hydroxy-3-(4-hydroxyphenyl)propylidene}amino)-1-hydroxy-3-methylpentylidene]histidyl}pyrrolidin-2-yl)(hydroxy)methylidene]phenylalanine,12676-15-2,N/A,N/A,N/A
+DTXSID90925753,DSSTox_Substance_Id,DTXSID90925753,"3,5-Diamino-N-{2-[(2-{[(6-bromo-5-hydroxy-1,1-dimethyl-2,3-dihydro-1H-inden-4-yl)methyl]amino}ethyl)(methyl)amino]ethyl}-6-chloropyrazine-2-carboximidic acid",126988-14-5,N/A,N/A,N/A
+DTXSID90925758,DSSTox_Substance_Id,DTXSID90925758,3-Ethyl-4-[(1H-imidazol-5-yl)methyl]oxolan-2-one,127-67-3,N/A,N/A,N/A
+DTXSID90925990,DSSTox_Substance_Id,DTXSID90925990,"N-[2-(3,4-Dihydroxyphenyl)ethyl]-2-[(1-hydroxyethylidene)amino]-4-(methylsulfanyl)butanimidic acid",127811-44-3,N/A,N/A,N/A
+DTXSID90926043,DSSTox_Substance_Id,DTXSID90926043,"3-Hydroxyoctahydro-2H-2,6-methanoquinolizin-8-yl 1H-indole-3-carboxylate",127951-99-9,N/A,N/A,N/A
+DTXSID90926104,DSSTox_Substance_Id,DTXSID90926104,Eberconazole,128326-82-9,N/A,N/A,N/A
+DTXSID90926285,DSSTox_Substance_Id,DTXSID90926285,3-Amino-3-cyclohexylpropanoic acid,129042-71-3,N/A,N/A,N/A
+DTXSID90926381,DSSTox_Substance_Id,DTXSID90926381,1-[4-(Acetyloxy)phenyl]propyl acetate,129319-15-9,N/A,N/A,N/A
+DTXSID90926402,DSSTox_Substance_Id,DTXSID90926402,"2-(1-Methoxy-1-{3-[(naphthalen-2-yl)methoxy]phenyl}propyl)-1,3-thiazole",129424-08-4,N/A,N/A,N/A
+DTXSID90926760,DSSTox_Substance_Id,DTXSID90926760,Propyl glycinate--hydrogen chloride (1/1),13049-01-9,N/A,N/A,N/A
+DTXSID90926785,DSSTox_Substance_Id,DTXSID90926785,"4-Amino-2,6-anhydro-3,4,5-trideoxy-5-[(1-hydroxyethylidene)amino]non-2-enonic acid",130525-62-1,N/A,N/A,N/A
+DTXSID90927030,DSSTox_Substance_Id,DTXSID90927030,"2-{Hydroxy[(6-hydroxy-2-oxo-2,3,4,5-tetrahydropyridin-3-yl)imino]methyl}benzoic acid",131-68-0,N/A,N/A,N/A
+DTXSID90927050,DSSTox_Substance_Id,DTXSID90927050,Cyanoselanyl,13103-11-2,N/A,N/A,N/A
+DTXSID90927095,DSSTox_Substance_Id,DTXSID90927095,"9-(2,5-Dideoxypentofuranosyl)-9H-purin-6-amine",13116-42-2,N/A,N/A,N/A
+DTXSID90927111,DSSTox_Substance_Id,DTXSID90927111,1-Methylpyrrolidin-3-yl cyclopentyl(hydroxy)phenylacetate,13118-11-1,N/A,N/A,N/A
+DTXSID90927156,DSSTox_Substance_Id,DTXSID90927156,"9-{5-O-[{[{4-[(3-{[2-(Formylsulfanyl)ethyl]imino}-3-hydroxypropyl)imino]-3,4-dihydroxy-2,2-dimethylbutoxy}(hydroxy)phosphoryl]oxy}(hydroxy)phosphoryl]-3-O-phosphonopentofuranosyl}-9H-purin-6-amine",13131-49-2,N/A,N/A,N/A
+DTXSID90927232,DSSTox_Substance_Id,DTXSID90927232,Sodium methyl 6-deoxy-2-O-(6-deoxyhexopyranosyl)-4-O-sulfonatohexopyranoside,131511-45-0,N/A,N/A,N/A
+DTXSID90927393,DSSTox_Substance_Id,DTXSID90927393,Disodium 4-[(dodecan-4-yl)oxy]-4-oxo-3-sulfonatobutanoate,13192-12-6,N/A,N/A,N/A
+DTXSID90927535,DSSTox_Substance_Id,DTXSID90927535,Thiocol,1321-14-8,N/A,N/A,N/A
+DTXSID90927590,DSSTox_Substance_Id,DTXSID90927590,"N,N'-(Hexane-1,6-diyl)bis(2-ethylhexanimidic acid)",13222-16-7,N/A,N/A,N/A
+DTXSID90927717,DSSTox_Substance_Id,DTXSID90927717,N-(2-{[(Benzyloxy)(hydroxy)methylidene]amino}-1-hydroxy-3-methylpentylidene)glycine,13254-04-1,N/A,N/A,N/A
+DTXSID90927833,DSSTox_Substance_Id,DTXSID90927833,"N,N'-Ethane-1,2-diyldiguanidine--hydrogen chloride (1/2)",13282-14-9,N/A,N/A,N/A
+DTXSID90927999,DSSTox_Substance_Id,DTXSID90927999,"{(Propane-2,2-diyl)bis[(4,1-phenylene)oxy]ethane-2,1-diyl} bis[3-(aziridin-1-yl)butanoate]",13320-31-5,N/A,N/A,N/A
+DTXSID90928047,DSSTox_Substance_Id,DTXSID90928047,"1,2-Dimethylcyclohexan-1-ol",1333-45-5,N/A,N/A,N/A
+DTXSID90928108,DSSTox_Substance_Id,DTXSID90928108,"1-{4-Acetyl-2-[(3-hydroxypyrrolidin-1-yl)methyl]piperazin-1-yl}-2-(3,4-dichlorophenyl)ethan-1-one",133407-20-2,N/A,N/A,N/A
+DTXSID90928380,DSSTox_Substance_Id,DTXSID90928380,Sodium 2-sulfanylbenzoate,134-23-6,N/A,N/A,N/A
+DTXSID90928401,DSSTox_Substance_Id,DTXSID90928401,"(5alpha,17beta)-17-Benzoyl-4-azaandrost-1-en-3-one",134067-56-4,N/A,N/A,N/A
+DTXSID90928784,DSSTox_Substance_Id,DTXSID90928784,"[3-(Hexadecylamino)bicyclo[2.2.1]hept-1-ene-2,3-diyl]dimethanol",134864-19-0,N/A,N/A,N/A
+DTXSID90928820,DSSTox_Substance_Id,DTXSID90928820,Sulfuric acid--2-phenylcyclopropan-1-amine (1/2),13492-01-8,N/A,N/A,N/A
+DTXSID90928961,DSSTox_Substance_Id,DTXSID90928961,Dihydrogen [N-[(2S)-2-[Bis(carboxymethyl)amino]-3-(p-ethoxyphenyl)propyl]-N-[2-[bis(carboxymethyl)amino]ethyl]glycinato(5-)]gadolinate(2-),135326-11-3,N/A,N/A,N/A
+DTXSID90929034,DSSTox_Substance_Id,DTXSID90929034,2-Sulfanylhistidine,13552-61-9,N/A,N/A,N/A
+DTXSID90929059,DSSTox_Substance_Id,DTXSID90929059,"Butyl 2-(2,4,5-trichlorophenoxy)propanoate",13557-98-7,N/A,N/A,N/A
+DTXSID90929236,DSSTox_Substance_Id,DTXSID90929236,"2-Hydroxy-2,3-dihydro-1H-inden-1-aminium",136030-00-7,N/A,N/A,N/A
+DTXSID90929337,DSSTox_Substance_Id,DTXSID90929337,3-Hydroxy-3-methylbutanenitrile,13635-04-6,N/A,N/A,N/A
+DTXSID90929655,DSSTox_Substance_Id,DTXSID90929655,1H-Pyrazol-3-ol,137-45-1,N/A,N/A,N/A
+DTXSID90929675,DSSTox_Substance_Id,DTXSID90929675,"1,3-Dimethyl-7-[4-(2-nitro-1H-imidazol-1-yl)butyl]-3,7-dihydro-1H-purine-2,6-dione",137046-51-6,N/A,N/A,N/A
+DTXSID90929731,DSSTox_Substance_Id,DTXSID90929731,Cholest-5-en-3-yl dodecanoate,1908-11-8,N/A,N/A,N/A
+DTXSID90929736,DSSTox_Substance_Id,DTXSID90929736,6-O-Hexopyranosylhex-2-ulofuranose,13718-94-0,N/A,N/A,N/A
+DTXSID90929756,DSSTox_Substance_Id,DTXSID90929756,Potassium 3-[(2-oxo-2H-1-benzopyran-7-yl)oxy]propane-1-sulfonate,13725-45-6,N/A,N/A,N/A
+DTXSID90929796,DSSTox_Substance_Id,DTXSID90929796,N-[3-(2-Amino-1-hydroxyethyl)-4-fluorophenyl]methanesulfonamide,137431-02-8,N/A,N/A,N/A
+DTXSID90930024,DSSTox_Substance_Id,DTXSID90930024,"[{4,6-Bis[bis(methoxymethyl)amino]-1,3,5-triazin-2-yl}(methoxymethyl)amino]methanol",13822-63-4,N/A,N/A,N/A
+DTXSID90930100,DSSTox_Substance_Id,DTXSID90930100,"2-Imino-N-methyl-N-{[4-(morpholine-4-sulfonyl)phenyl]methyl}-1,2-dihydrobenzo[cd]indol-6-amine",138384-68-6,N/A,N/A,N/A
+DTXSID90930180,DSSTox_Substance_Id,DTXSID90930180,"Methyl (oxolan-2-yl)methyl 2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate",138661-03-7,N/A,N/A,N/A
+DTXSID90930862,DSSTox_Substance_Id,DTXSID90930862,"3,6-Diamino-N-{[15-amino-3,6,9,12,16-pentahydroxy-8-({[hydroxy(imino)methyl]amino}methylidene)-11-(2-imino-1,3-diazinan-4-yl)-2-methyl-1,4,7,10,13-pentaazacyclohexadeca-3,6,9,12,16-pentaen-5-yl]methyl}hexanimidic acid",1405-37-4,N/A,N/A,N/A
+DTXSID90930887,DSSTox_Substance_Id,DTXSID90930887,"8-Hydroxy-6-methyl-9,10-dioxo-3-(pentofuranosyloxy)-9,10-dihydroanthracen-1-yl hexopyranoside",14062-59-0,N/A,N/A,N/A
+DTXSID90930903,DSSTox_Substance_Id,DTXSID90930903,"5,5-Dimethyl-6-(propan-2-yl)-3,4,5,6-tetrahydropyrimidine-2,4-diol",14068-64-5,N/A,N/A,N/A
+DTXSID90930928,DSSTox_Substance_Id,DTXSID90930928,"2-(6,6-Dimethylbicyclo[3.1.1]heptan-2-yl)ethyl acetate",14087-09-3,N/A,N/A,N/A
+DTXSID90931076,DSSTox_Substance_Id,DTXSID90931076,"3-Methyl-2-[3-(3-methyl-1,3-benzoxazol-2(3H)-ylidene)prop-1-en-1-yl]-3H-1,3-benzoxazol-1-ium iodide",14134-79-3,N/A,N/A,N/A
+DTXSID90931112,DSSTox_Substance_Id,DTXSID90931112,"2,3,4,6-Tetra-O-acetyl-N-(sulfanylidenemethylidene)hexopyranosylamine",14152-97-7,N/A,N/A,N/A
+DTXSID90931132,DSSTox_Substance_Id,DTXSID90931132,N-{4-[5-(4-Fluorophenoxy)furan-2-yl]but-3-yn-2-yl}-N-hydroxycarbamimidic acid,141579-67-1,N/A,N/A,N/A
+DTXSID90931213,DSSTox_Substance_Id,DTXSID90931213,N-Acetyl-N-(1-{acetyl[2-(diacetylamino)-3-(4-isothiocyanatophenyl)propyl]amino}propan-2-yl)acetamide,141849-44-7,N/A,N/A,N/A
+DTXSID90931293,DSSTox_Substance_Id,DTXSID90931293,"N~1~,N~1~,N~1~,N~10~,N~10~,N~10~-Hexamethyldecane-1,10-bis(aminium) diiodide",1420-40-2,N/A,N/A,N/A
+DTXSID90931359,DSSTox_Substance_Id,DTXSID90931359,2-Methyl-3-phenyloxirane,14212-54-5,N/A,N/A,N/A
+DTXSID90931379,DSSTox_Substance_Id,DTXSID90931379,"3-[({1-[2-(Dimethylamino)ethyl]-1H-tetrazol-5-yl}sulfanyl)methyl]-7-{[1-hydroxy-2-(2-imino-2,3-dihydro-1,3-thiazol-4-yl)ethylidene]amino}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-3-ene-2-carboxylic acid",142182-63-6,N/A,N/A,N/A
+DTXSID90931490,DSSTox_Substance_Id,DTXSID90931490,Nandrolone acetate,1425-10-1,N/A,N/A,N/A
+DTXSID90931536,DSSTox_Substance_Id,DTXSID90931536,"5-Hydroxy-2-(4-methoxyphenyl)-4-oxo-3,4-dihydro-2H-1-benzopyran-7-yl 6-O-(6-deoxyhexopyranosyl)hexopyranoside",14259-47-3,N/A,N/A,N/A
+DTXSID90931637,DSSTox_Substance_Id,DTXSID90931637,"Dodeca-4,8-dienedioic acid",14277-14-6,N/A,N/A,N/A
+DTXSID90931677,DSSTox_Substance_Id,DTXSID90931677,Petunidin,1429-30-7,N/A,N/A,N/A
+DTXSID90931697,DSSTox_Substance_Id,DTXSID90931697,"Propane-1,2,3-triyl tris(2-methylpropanoate)",14295-64-8,N/A,N/A,N/A
+DTXSID90931899,DSSTox_Substance_Id,DTXSID90931899,3-Bromo-4-hydroxybenzoic acid,14348-41-5,N/A,N/A,N/A
+DTXSID90931915,DSSTox_Substance_Id,DTXSID90931915,"Sodium hydroxide [1-(2-oxidoethyl)-2-undecyl-4,5-dihydro-1H-imidazol-1-ium-1-yl]acetate (2/1/1)",14350-96-0,N/A,N/A,N/A
+DTXSID90931995,DSSTox_Substance_Id,DTXSID90931995,"4-Methyl-4,5-dihydro-1,3-thiazole-2-thiol",1437-89-4,N/A,N/A,N/A
+DTXSID90932104,DSSTox_Substance_Id,DTXSID90932104,N-(1-Hydroxydodecylidene)serine,14379-56-7,N/A,N/A,N/A
+DTXSID90932124,DSSTox_Substance_Id,DTXSID90932124,"Dimethyl 4,4'-oxydibenzoate",14387-30-5,N/A,N/A,N/A
+DTXSID90932189,DSSTox_Substance_Id,DTXSID90932189,Cadmium potassium cyanide (1/2/4),14402-75-6,N/A,N/A,N/A
+DTXSID90932240,DSSTox_Substance_Id,DTXSID90932240,4-Hydroxyalprazolam,30896-57-2,N/A,N/A,N/A
+DTXSID90932301,DSSTox_Substance_Id,DTXSID90932301,Diethyl bis(2-cyanoethyl)propanedioate,1444-05-9,N/A,N/A,N/A
+DTXSID90932422,DSSTox_Substance_Id,DTXSID90932422,3-{1-Hydroxy-2-[(methylamino)methyl]cyclohexyl}phenol,144830-18-2,N/A,N/A,N/A
+DTXSID90932523,DSSTox_Substance_Id,DTXSID90932523,"[3-(4-{[1-(Dimethylamino)propan-2-yl]oxy}phenyl)-1H-pyrazolo[3,4-b]pyridin-1-yl]acetic acid",145194-32-7,N/A,N/A,N/A
+DTXSID90932528,DSSTox_Substance_Id,DTXSID90932528,3-Oxochol-4-en-24-oic acid,1452-29-5,N/A,N/A,N/A
+DTXSID90932705,DSSTox_Substance_Id,DTXSID90932705,3-{[6-Deoxyhexopyranosyl-(1->2)-[hexopyranosyl-(1->4)]hexopyranosyl]oxy}-22-hydroxyfurost-5-en-27-yl hexopyranoside,145854-02-0,N/A,N/A,N/A
+DTXSID90932922,DSSTox_Substance_Id,DTXSID90932922,Potassium tetrakis(4-chlorophenyl)borate(1-),14680-77-4,N/A,N/A,N/A
+DTXSID90933035,DSSTox_Substance_Id,DTXSID90933035,"5-Methyl-2-(propan-2-yl)cyclohexyl 5-hydroxy-1,3-oxathiolane-2-carboxylate",147126-62-3,N/A,N/A,N/A
+DTXSID90933116,DSSTox_Substance_Id,DTXSID90933116,"3-Methoxyestra-1(10),2,4-triene-16,17-diol",1474-53-9,N/A,N/A,N/A
+DTXSID90933131,DSSTox_Substance_Id,DTXSID90933131,"1-(2,4-Dichlorophenyl)ethan-1-ol",1475-13-4,N/A,N/A,N/A
+DTXSID90933439,DSSTox_Substance_Id,DTXSID90933439,2-Phenylethyl hexopyranoside,14861-16-6,N/A,N/A,N/A
+DTXSID90933712,DSSTox_Substance_Id,DTXSID90933712,2-Amino-N-{1-[(7-amino-1-chloro-2-oxoheptan-3-yl)imino]-1-hydroxy-3-phenylpropan-2-yl}-3-methylbutanimidic acid,149717-33-9,N/A,N/A,N/A
+DTXSID90933797,DSSTox_Substance_Id,DTXSID90933797,L-Histidine methyl ester,1499-46-3,N/A,N/A,N/A
+DTXSID90933893,DSSTox_Substance_Id,DTXSID90933893,"3',6'-Bis(acetyloxy)-N-(3-{3-[5-hydroxy-4-(1-methyl-1H-indol-3-yl)-2-oxo-2H-pyrrol-3-yl]-1H-indol-1-yl}propyl)-3-oxo-3H-spiro[2-benzofuran-1,9'-xanthene]-6-carboximidic acid",150206-02-3,N/A,N/A,N/A
+DTXSID90933898,DSSTox_Substance_Id,DTXSID90933898,4-Methylphenyl 4-chlorobenzoate,15024-10-9,N/A,N/A,N/A
+DTXSID90933954,DSSTox_Substance_Id,DTXSID90933954,"N-[1'-(6-Cyano-1,2,3,4-tetrahydronaphthalen-2-yl)-4-hydroxy-3,4-dihydrospiro[1-benzopyran-2,4'-piperidin]-6-yl]methanesulfonamide",150481-98-4,N/A,N/A,N/A
+DTXSID90934022,DSSTox_Substance_Id,DTXSID90934022,"[2-(1-Aminoethyl)furan-3,4-diyl]dimethanol",15066-64-5,N/A,N/A,N/A
+DTXSID90934108,DSSTox_Substance_Id,DTXSID90934108,"N,N'-[Disulfanediyldi(ethane-2,1-diyl)]diguanidine--hydrogen bromide (1/2)",15086-17-6,N/A,N/A,N/A
+DTXSID90934188,DSSTox_Substance_Id,DTXSID90934188,"2,3-Dihydroxy-1,2-diphenylpropan-1-one",15121-78-5,N/A,N/A,N/A
+DTXSID90934648,DSSTox_Substance_Id,DTXSID90934648,[(2-Methylphenyl)methyl](triphenyl)phosphanium bromide,1530-36-5,N/A,N/A,N/A
+DTXSID90934709,DSSTox_Substance_Id,DTXSID90934709,N-(Carboxymethyl)-3-(sulfooxy)cholan-24-imidate,15324-64-8,N/A,N/A,N/A
+DTXSID90934820,DSSTox_Substance_Id,DTXSID90934820,"2-Propyl-1-{[2'-(2H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl}-5,6,7,8-tetrahydrocyclohepta[d]imidazol-4(1H)-one",153804-05-8,N/A,N/A,N/A
+DTXSID90934885,DSSTox_Substance_Id,DTXSID90934885,"4-[2-(Methylamino)propyl]benzene-1,2-diol",15398-87-5,N/A,N/A,N/A
+DTXSID90935039,DSSTox_Substance_Id,DTXSID90935039,2-Methoxybutan-1-ol,15467-25-1,N/A,N/A,N/A
+DTXSID90935059,DSSTox_Substance_Id,DTXSID90935059,"4-{[4-(Diethylamino)phenyl](phenyl)methylidene}-N,N-dimethylcyclohexa-2,5-dien-1-iminium chloride",15475-92-0,N/A,N/A,N/A
+DTXSID90935130,DSSTox_Substance_Id,DTXSID90935130,Dodecyl(triphenyl)phosphanium bromide,15510-55-1,N/A,N/A,N/A
+DTXSID90935155,DSSTox_Substance_Id,DTXSID90935155,2-Hydroxy-5-nitrosobenzoic acid,15516-60-6,N/A,N/A,N/A
+DTXSID90935291,DSSTox_Substance_Id,DTXSID90935291,Ioflupane I 123,155798-07-5,N/A,N/A,N/A
+DTXSID90935317,DSSTox_Substance_Id,DTXSID90935317,"1,3-Dibromo-2,4,5,6-tetrafluorobenzene",1559-87-1,N/A,N/A,N/A
+DTXSID90935397,DSSTox_Substance_Id,DTXSID90935397,Isobutyryl CoA,15621-60-0,N/A,N/A,N/A
+DTXSID90935519,DSSTox_Substance_Id,DTXSID90935519,"5-Amino-2-(dibenzylamino)-1,6-diphenylhex-4-en-3-one",156732-13-7,N/A,N/A,N/A
+DTXSID90935776,DSSTox_Substance_Id,DTXSID90935776,Hexuronic acid,15769-56-9,N/A,N/A,N/A
+DTXSID90935918,DSSTox_Substance_Id,DTXSID90935918,Nickel(2+) bis[2-benzoyl-5-(octyloxy)phenolate],15843-91-1,N/A,N/A,N/A
+DTXSID90935953,DSSTox_Substance_Id,DTXSID90935953,"10,11-Dihydro-5H-dibenzo[a,d][7]annulen-10-amine--hydrogen chloride (1/1)",1586-10-3,N/A,N/A,N/A
+DTXSID90936283,DSSTox_Substance_Id,DTXSID90936283,N-(Naphthalen-2-yl)pyrrolidine-2-carboximidic acid,16037-15-3,N/A,N/A,N/A
+DTXSID90936344,DSSTox_Substance_Id,DTXSID90936344,2-[2-(Octadecyloxy)ethoxy]ethan-1-ol,16057-43-5,N/A,N/A,N/A
+DTXSID90936349,DSSTox_Substance_Id,DTXSID90936349,4-Carbamimidamidobenzoic acid,16060-65-4,N/A,N/A,N/A
+DTXSID90936369,DSSTox_Substance_Id,DTXSID90936369,"2,2-Bis(hydroxymethyl)propane-1,3-diyl dinitrate",1607-01-8,N/A,N/A,N/A
+DTXSID90936440,DSSTox_Substance_Id,DTXSID90936440,"Disodium 1-amino-9,10-dioxo-4-{4-[2-(sulfonatooxy)ethanesulfonyl]anilino}-9,10-dihydroanthracene-2-sulfonate",16102-99-1,N/A,N/A,N/A
+DTXSID90936445,DSSTox_Substance_Id,DTXSID90936445,N-Ethyl-1-phenylpropan-2-amine--hydrogen chloride (1/1),16105-78-5,N/A,N/A,N/A
+DTXSID90936586,DSSTox_Substance_Id,DTXSID90936586,Lup-20(29)-en-3-one,1617-70-5,N/A,N/A,N/A
+DTXSID90936607,DSSTox_Substance_Id,DTXSID90936607,"2,3,4,6,7,8-Hexabromodibenzo[b,d]furan",161880-50-8,N/A,N/A,N/A
+DTXSID90936627,DSSTox_Substance_Id,DTXSID90936627,"7,7-Dimethyl-8-methylideneoctahydro-1H-3a,6-methanoazulene-3-carboxylic acid",16203-25-1,N/A,N/A,N/A
+DTXSID90936642,DSSTox_Substance_Id,DTXSID90936642,"Sulfuric acid--2,2'-disulfanediyldi(ethan-1-amine) (1/1)",16214-16-7,N/A,N/A,N/A
+DTXSID90936687,DSSTox_Substance_Id,DTXSID90936687,"2,3-Dihydroxypropyl hexopyranoside",16232-91-0,N/A,N/A,N/A
+DTXSID90936723,DSSTox_Substance_Id,DTXSID90936723,"N~2~,N~4~,N~6~-Tri-tert-butyl-1,3,5-triazine-2,4,6-triamine",16268-98-7,N/A,N/A,N/A
+DTXSID90936829,DSSTox_Substance_Id,DTXSID90936829,N-Dodecyl-4-methylbenzene-1-sulfonamide,1635-09-2,N/A,N/A,N/A
+DTXSID90936864,DSSTox_Substance_Id,DTXSID90936864,"Trisodium 3-carboxylato-2,3-dideoxypentarate",1637-73-6,N/A,N/A,N/A
+DTXSID90936920,DSSTox_Substance_Id,DTXSID90936920,N-(1-Hydroxyhexadecylidene)serine,16417-38-2,N/A,N/A,N/A
+DTXSID90937119,DSSTox_Substance_Id,DTXSID90937119,Trimethylsilyl,16571-41-8,N/A,N/A,N/A
+DTXSID90937174,DSSTox_Substance_Id,DTXSID90937174,"4-(5,5,6-Trimethylbicyclo[2.2.1]heptan-2-yl)cyclohexan-1-one",16618-85-2,N/A,N/A,N/A
+DTXSID90937230,DSSTox_Substance_Id,DTXSID90937230,"Dimethyl 2,2'-(tricyclo[3.3.1.1~3,7~]decane-1,3-diyl)bis(chloroacetate)",16668-48-7,N/A,N/A,N/A
+DTXSID9093725,DSSTox_Substance_Id,DTXSID9093725,Jasmine oil,8022-96-6,N/A,N/A,N/A
+DTXSID90937250,DSSTox_Substance_Id,DTXSID90937250,"1-Methyl-1H-1,2,3-triazole",16681-65-5,N/A,N/A,N/A
+DTXSID90937270,DSSTox_Substance_Id,DTXSID90937270,N-(3-Hydroxy-4-methylphenyl)carbamimidic acid,16704-78-2,N/A,N/A,N/A
+DTXSID90937295,DSSTox_Substance_Id,DTXSID90937295,"3-(2-Chloro-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine N-oxide",1672-76-0,N/A,N/A,N/A
+DTXSID90937376,DSSTox_Substance_Id,DTXSID90937376,"2-(2-Nitro-1H-imidazol-1-yl)-N-(3,3,3-trifluoro-2-hydroxypropyl)ethanimidic acid",167648-73-9,N/A,N/A,N/A
+DTXSID90937396,DSSTox_Substance_Id,DTXSID90937396,"Ethyl 2,2-dimethylcyclopropane-1-carboxylate",16783-11-2,N/A,N/A,N/A
+DTXSID90937432,DSSTox_Substance_Id,DTXSID90937432,Ethyl (2-methyl-5-oxooxolan-2-yl)acetate,16807-50-4,N/A,N/A,N/A
+DTXSID90937477,DSSTox_Substance_Id,DTXSID90937477,"2,2'-(1,2-Phenylene)bis(oxirane)",16832-59-0,N/A,N/A,N/A
+DTXSID90937538,DSSTox_Substance_Id,DTXSID90937538,"N-[3-(2-Hydroxy-5-oxo-4,5-dihydro-1,3-oxazol-4-yl)propyl]guanidine",16874-68-3,N/A,N/A,N/A
+DTXSID90937553,DSSTox_Substance_Id,DTXSID90937553,({[(1-tert-Butoxy-5-hydroxy-5-imino-1-oxopentan-2-yl)imino](hydroxy)methoxy}methyl)benzene,16881-42-8,N/A,N/A,N/A
+DTXSID90937558,DSSTox_Substance_Id,DTXSID90937558,1-(Prop-2-en-1-yl)-1H-indole,16886-08-1,N/A,N/A,N/A
+DTXSID90937619,DSSTox_Substance_Id,DTXSID90937619,"20-Oxopregn-5-ene-3,21-diyl diacetate",1693-63-6,N/A,N/A,N/A
+DTXSID90937674,DSSTox_Substance_Id,DTXSID90937674,"3-(Hydroxymethyl)-5-(6-hydroxy-9H-purin-9-yl)cyclopentane-1,2-diol",16975-94-3,N/A,N/A,N/A
+DTXSID90937679,DSSTox_Substance_Id,DTXSID90937679,"Methyl (3-acetyl-2,2-dimethylcyclobutyl)acetate",16978-11-3,N/A,N/A,N/A
+DTXSID90937710,DSSTox_Substance_Id,DTXSID90937710,"2-[3,4-Bis(benzyloxy)phenyl]ethan-1-amine--hydrogen chloride (1/1)",1699-56-5,N/A,N/A,N/A
+DTXSID90937917,DSSTox_Substance_Id,DTXSID90937917,N~2~-(4-Amino-4-carboxy-1-hydroxybutylidene)lysine,17105-15-6,N/A,N/A,N/A
+DTXSID90938065,DSSTox_Substance_Id,DTXSID90938065,3-Hydroxy-3-phenylpropanenitrile,17190-29-3,N/A,N/A,N/A
+DTXSID90938247,DSSTox_Substance_Id,DTXSID90938247,Ethyl [(1-{N-[4-(N'-hydroxycarbamimidoyl)benzoyl]alanyl}piperidin-4-yl)oxy]acetate,172927-65-0,N/A,N/A,N/A
+DTXSID90938348,DSSTox_Substance_Id,DTXSID90938348,"3-(Benzyloxy)propane-1,2-diol",17325-85-8,N/A,N/A,N/A
+DTXSID90938404,DSSTox_Substance_Id,DTXSID90938404,O-Acetyl-N-(1-hydroxyethylidene)tyrosine,17355-23-6,N/A,N/A,N/A
+DTXSID90938409,DSSTox_Substance_Id,DTXSID90938409,"2,4-Dihydroxy-2H-1,4-benzoxazin-3(4H)-one",17359-54-5,N/A,N/A,N/A
+DTXSID90938444,DSSTox_Substance_Id,DTXSID90938444,5-Hydroxy-5-(prop-1-en-2-yl)furan-2(5H)-one,17397-87-4,N/A,N/A,N/A
+DTXSID90938727,DSSTox_Substance_Id,DTXSID90938727,"2-Hydroxypropane-1,3-diyl didecanoate",17598-93-5,N/A,N/A,N/A
+DTXSID90938823,DSSTox_Substance_Id,DTXSID90938823,"Dimethyl 2,3-bis(sulfanyl)butanedioate",17660-57-0,N/A,N/A,N/A
+DTXSID90938863,DSSTox_Substance_Id,DTXSID90938863,Pentyl cyanoacetate,17686-39-4,N/A,N/A,N/A
+DTXSID90939214,DSSTox_Substance_Id,DTXSID90939214,"N-(2-Ethoxy-2-oxoethyl)-N,N-dimethyldodecan-1-aminium bromide",1794-75-8,N/A,N/A,N/A
+DTXSID90939259,DSSTox_Substance_Id,DTXSID90939259,"Dioctadecyl 2,3-dihydroxybutanedioate",17977-66-1,N/A,N/A,N/A
+DTXSID90939294,DSSTox_Substance_Id,DTXSID90939294,3-(Methoxymethoxy)androst-5-en-17-one,18000-76-5,N/A,N/A,N/A
+DTXSID90939299,DSSTox_Substance_Id,DTXSID90939299,"2,3-Diphenyl-1H-inden-1-one",1801-42-9,N/A,N/A,N/A
+DTXSID90939375,DSSTox_Substance_Id,DTXSID90939375,"3-Hydroxyestra-1(10),2,4-trien-17-yl butanoate",18069-79-9,N/A,N/A,N/A
+DTXSID90939471,DSSTox_Substance_Id,DTXSID90939471,4-(Octan-2-yl)phenol,1818-08-2,N/A,N/A,N/A
+DTXSID90939496,DSSTox_Substance_Id,DTXSID90939496,"5,5'-{(1,3-Dioxopropane-1,3-diyl)bis[(2,3-dihydroxypropyl)azanediyl]}bis[N~1~-(2,3-dihydroxypropyl)-2,4,6-triiodobenzene-1,3-dicarboximidic acid]",181872-90-2,N/A,N/A,N/A
+DTXSID90939557,DSSTox_Substance_Id,DTXSID90939557,2-Methyl-1-(4-methylphenyl)propan-1-ol,18228-44-9,N/A,N/A,N/A
+DTXSID90939592,DSSTox_Substance_Id,DTXSID90939592,Dichloro(methoxy)methylsilane,1825-74-7,N/A,N/A,N/A
+DTXSID90939597,DSSTox_Substance_Id,DTXSID90939597,2-Amino-1-(4-hydroxyphenyl)propan-1-one,18259-42-2,N/A,N/A,N/A
+DTXSID90939678,DSSTox_Substance_Id,DTXSID90939678,"(3,3-Dimethylbicyclo[2.2.1]heptan-2-yl)methanol",18310-55-9,N/A,N/A,N/A
+DTXSID90939830,DSSTox_Substance_Id,DTXSID90939830,"Trilithium 9-{5-O-[hydroxy({hydroxy[3-hydroxy-2,2-dimethyl-3-({2-[(2-sulfanylethyl)carboximidato]ethyl}carboximidato)propoxy]phosphoryl}oxy)phosphoryl]-3-O-(hydroxyphosphinato)pentofuranosyl}-9H-purin-6-amine",18439-24-2,N/A,N/A,N/A
+DTXSID90940148,DSSTox_Substance_Id,DTXSID90940148,2-Methylisoborneol,2371-42-8,N/A,N/A,N/A
+DTXSID90940249,DSSTox_Substance_Id,DTXSID90940249,1-(5-Bromo-7-ethyl-1-benzofuran-2-yl)ethan-1-one,18775-39-8,N/A,N/A,N/A
+DTXSID90940264,DSSTox_Substance_Id,DTXSID90940264,"9-Fluoro-11,17-dihydroxy-16-methyl-3,20-dioxopregna-1,4-dien-21-yl 3-phenylpropanoate",1879-72-7,N/A,N/A,N/A
+DTXSID90940325,DSSTox_Substance_Id,DTXSID90940325,N-(2-{[(Benzyloxy)(hydroxy)methylidene]amino}-1-hydroxy-4-methylpentylidene)methionine,18830-16-5,N/A,N/A,N/A
+DTXSID90940446,DSSTox_Substance_Id,DTXSID90940446,"6-Fluoro-5,17-dihydroxy-16-methyl-3,20-dioxopregnan-21-yl acetate",1893-91-0,N/A,N/A,N/A
+DTXSID90940461,DSSTox_Substance_Id,DTXSID90940461,"3-[(3-{[(2-Aminoethyl)sulfanyl]methyl}pyridin-4-yl)sulfanyl]-7-{[2-(5-chloro-2-imino-2,3-dihydro-1,3-thiazol-4-yl)-1-hydroxy-2-(hydroxyimino)ethylidene]amino}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid",189448-35-9,N/A,N/A,N/A
+DTXSID90940547,DSSTox_Substance_Id,DTXSID90940547,1-Deoxy-5-O-phosphonopent-2-ulose,190079-18-6,N/A,N/A,N/A
+DTXSID90940648,DSSTox_Substance_Id,DTXSID90940648,"Tris(2,5-dimethylphenyl) phosphate",19074-59-0,N/A,N/A,N/A
+DTXSID90940845,DSSTox_Substance_Id,DTXSID90940845,Ethyl 3-(3-isocyanatophenyl)prop-2-enoate,19201-38-8,N/A,N/A,N/A
+DTXSID90940880,DSSTox_Substance_Id,DTXSID90940880,"1,3-Diamino-5-phenylphenazin-5-ium chloride",19220-17-8,N/A,N/A,N/A
+DTXSID90940986,DSSTox_Substance_Id,DTXSID90940986,Di-tert-butyl 2-methylbutanediperoxoate,1931-61-9,N/A,N/A,N/A
+DTXSID90941019,DSSTox_Substance_Id,DTXSID90941019,3-Butyloxolan-2-one,19340-56-8,N/A,N/A,N/A
+DTXSID90941034,DSSTox_Substance_Id,DTXSID90941034,"3,4-Dimethylpentanal",19353-21-0,N/A,N/A,N/A
+DTXSID90941094,DSSTox_Substance_Id,DTXSID90941094,Bicyclo[2.2.1]heptane-2-carbaldehyde,19396-83-9,N/A,N/A,N/A
+DTXSID90941115,DSSTox_Substance_Id,DTXSID90941115,N-{2-[(2-Amino-1-hydroxy-4-methylpentylidene)amino]-1-hydroxyethylidene}leucine,19408-48-1,N/A,N/A,N/A
+DTXSID90941211,DSSTox_Substance_Id,DTXSID90941211,N-(2-Amino-1-hydroxyethylidene)isoleucine,19461-38-2,N/A,N/A,N/A
+DTXSID90941276,DSSTox_Substance_Id,DTXSID90941276,"4-Hydroxy-3-[(6-hydroxy-2-imino-2,3-dihydro-9H-purin-9-yl)methyl]butyl valinate",195157-34-7,N/A,N/A,N/A
+DTXSID90941317,DSSTox_Substance_Id,DTXSID90941317,N-[3-(Acetylsulfanyl)-1-ethoxy-1-oxopropan-2-yl]ethanimidic acid,19547-89-8,N/A,N/A,N/A
+DTXSID90941413,DSSTox_Substance_Id,DTXSID90941413,"2-(2-Methoxyphenyl)-4,5-diphenyl-1H-imidazole",1965-19-1,N/A,N/A,N/A
+DTXSID90941438,DSSTox_Substance_Id,DTXSID90941438,4-(2-Carboxyethenyl)benzoic acid,19675-63-9,N/A,N/A,N/A
+DTXSID90941453,DSSTox_Substance_Id,DTXSID90941453,Pyrene-1-carboxylic acid,19694-02-1,N/A,N/A,N/A
+DTXSID90941711,DSSTox_Substance_Id,DTXSID90941711,8-Propoxycedrane,19870-75-8,N/A,N/A,N/A
+DTXSID90941731,DSSTox_Substance_Id,DTXSID90941731,"2-(4-Hydroxyphenyl)-7-methoxy-6-(3-methylbut-2-en-1-yl)-2,3-dihydro-4H-1-benzopyran-4-one",19879-30-2,N/A,N/A,N/A
+DTXSID90941973,DSSTox_Substance_Id,DTXSID90941973,"2-(Bromomethyl)-5-methoxy-2,3-dihydro-1-benzofuran",19997-52-5,N/A,N/A,N/A
+DTXSID90942187,DSSTox_Substance_Id,DTXSID90942187,5-Methyl-2-(propan-2-yl)cyclohex-1-en-1-yl acetate,20144-45-0,N/A,N/A,N/A
+DTXSID90942389,DSSTox_Substance_Id,DTXSID90942389,"Bis(3,5,5-trimethylhexyl) hexanedioate",20270-50-2,N/A,N/A,N/A
+DTXSID90942400,DSSTox_Substance_Id,DTXSID90942400,6-[Hydroxy(imino)methyl]cyclohex-3-ene-1-carboxylic acid,2028-12-8,N/A,N/A,N/A
+DTXSID90942586,DSSTox_Substance_Id,DTXSID90942586,Ethyl 2-formylcyclopropane-1-carboxylate,20417-61-2,N/A,N/A,N/A
+DTXSID90942622,DSSTox_Substance_Id,DTXSID90942622,"N-{3,4-Dioxo-1-phenyl-7-[(pyridin-2-yl)oxy]heptan-2-yl}-2-{5-[(hydroxymethylidene)amino]-6-oxo-2-phenylpyrimidin-1(6H)-yl}ethanimidic acid",204460-24-2,N/A,N/A,N/A
+DTXSID90942627,DSSTox_Substance_Id,DTXSID90942627,(Ethenesulfinyl)benzene,20451-53-0,N/A,N/A,N/A
+DTXSID90942662,DSSTox_Substance_Id,DTXSID90942662,N-[Hydroxy(pyrrolidin-2-yl)methylidene]valine,20488-27-1,N/A,N/A,N/A
+DTXSID90942708,DSSTox_Substance_Id,DTXSID90942708,N-[Hydroxy(1-prolylpyrrolidin-2-yl)methylidene]alanine,20535-43-7,N/A,N/A,N/A
+DTXSID90942723,DSSTox_Substance_Id,DTXSID90942723,N-(Hydroxymethyl)-N-methylformamide,20546-32-1,N/A,N/A,N/A
+DTXSID90943058,DSSTox_Substance_Id,DTXSID90943058,Befiradol,208110-64-9,N/A,N/A,N/A
+DTXSID90943119,DSSTox_Substance_Id,DTXSID90943119,1-Amino-3-[(naphthalen-1-yl)oxy]propan-2-ol,20862-11-7,N/A,N/A,N/A
+DTXSID90943295,DSSTox_Substance_Id,DTXSID90943295,2-Amino-2-phenylethan-1-ol,20989-17-7,N/A,N/A,N/A
+DTXSID90943472,DSSTox_Substance_Id,DTXSID90943472,Hydroxy(3-methoxyphenyl)acetic acid,21150-12-9,N/A,N/A,N/A
+DTXSID90943477,DSSTox_Substance_Id,DTXSID90943477,"2,6-Di(butan-2-yl)aniline",21155-53-3,N/A,N/A,N/A
+DTXSID90943896,DSSTox_Substance_Id,DTXSID90943896,2-Aminopropanenitrile,2134-48-7,N/A,N/A,N/A
+DTXSID90943957,DSSTox_Substance_Id,DTXSID90943957,2-(Dimethylamino)-9-pentofuranosyl-9H-purin-6-ol,2140-67-2,N/A,N/A,N/A
+DTXSID90943977,DSSTox_Substance_Id,DTXSID90943977,"Abieta-8,13-dien-18-ol",21414-53-9,N/A,N/A,N/A
+DTXSID90943997,DSSTox_Substance_Id,DTXSID90943997,"6-Chloro-4-(3-methylbut-1-yn-1-yl)-4-(trifluoromethyl)-3,4-dihydroquinazolin-2-olato",214287-63-5,N/A,N/A,N/A
+DTXSID90944000,DSSTox_Substance_Id,DTXSID90944000,"6-Chloro-4-(phenylethynyl)-4-(trifluoromethyl)-3,4-dihydroquinazolin-2-ol",214287-66-8,N/A,N/A,N/A
+DTXSID90944005,DSSTox_Substance_Id,DTXSID90944005,"5,6-Difluoro-4-(phenylethynyl)-4-(trifluoromethyl)-3,4-dihydroquinazolin-2-ol",214287-75-9,N/A,N/A,N/A
+DTXSID90944085,DSSTox_Substance_Id,DTXSID90944085,"6-Amino-5,6,7,8-tetrahydronaphthalene-1,2-diol",21489-74-7,N/A,N/A,N/A
+DTXSID90944429,DSSTox_Substance_Id,DTXSID90944429,"N,N'-[Methylenedi(4,1-phenylene)]bis(2-ethoxy-2-oxoethanimidic acid)",21825-16-1,N/A,N/A,N/A
+DTXSID90944444,DSSTox_Substance_Id,DTXSID90944444,"1-(5-Methyl-1,3-oxazolidin-3-yl)propan-2-ol",21838-80-2,N/A,N/A,N/A
+DTXSID90944641,DSSTox_Substance_Id,DTXSID90944641,"2,2,2-Trifluoro-1-phenylethan-1-amine",22038-85-3,N/A,N/A,N/A
+DTXSID90944767,DSSTox_Substance_Id,DTXSID90944767,2-Hydroxyethyl tetradecanoate,22122-18-5,N/A,N/A,N/A
+DTXSID90944848,DSSTox_Substance_Id,DTXSID90944848,2-[Methyl(3-phenylprop-2-en-1-yl)amino]-1-phenylpropan-1-ol--hydrogen chloride (1/1),22194-13-4,N/A,N/A,N/A
+DTXSID90944964,DSSTox_Substance_Id,DTXSID90944964,"N-[(3,4-Dichlorophenyl)methyl]-N-(2,4-diimino-1,2,3,4-tetrahydroquinazolin-6-yl)nitrous amide",22316-71-8,N/A,N/A,N/A
+DTXSID90945153,DSSTox_Substance_Id,DTXSID90945153,Vardenafil dihydrochloride,224789-15-5,N/A,N/A,N/A
+DTXSID90945219,DSSTox_Substance_Id,DTXSID90945219,"2,2,6-Trimethyl-6-(4-methylcyclohex-3-en-1-yl)oxan-3-ol",22567-36-8,N/A,N/A,N/A
+DTXSID90945279,DSSTox_Substance_Id,DTXSID90945279,3-[3-(4-Chlorophenyl)-1-(5-chlorothiophen-2-yl)-3-oxopropyl]-2-hydroxy-4H-1-benzopyran-4-one,22619-37-0,N/A,N/A,N/A
+DTXSID90945436,DSSTox_Substance_Id,DTXSID90945436,"7-Chloro-3-hydroxy-5-phenyl-1-(2,2,2-trifluoroethyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one",22753-75-9,N/A,N/A,N/A
+DTXSID90945451,DSSTox_Substance_Id,DTXSID90945451,N-Phenylbenzo[g]quinolin-4(1H)-imine,22773-15-5,N/A,N/A,N/A
+DTXSID90945471,DSSTox_Substance_Id,DTXSID90945471,5-(1-Methylpyrrolidin-2-yl)pyridin-2(1H)-imine,22790-82-5,N/A,N/A,N/A
+DTXSID90945532,DSSTox_Substance_Id,DTXSID90945532,"Methyl 3-(3,3-dimethylbicyclo[2.2.1]heptan-2-yl)propanoate",22833-72-3,N/A,N/A,N/A
+DTXSID90945613,DSSTox_Substance_Id,DTXSID90945613,"4-[2-(Ethylamino)-1-hydroxypropyl]benzene-1,2-diol--hydrogen chloride (1/1)",22930-85-4,N/A,N/A,N/A
+DTXSID90945759,DSSTox_Substance_Id,DTXSID90945759,"3,6-Dibenzyl-3,6-dihydropyrazine-2,5-diol",2308-61-4,N/A,N/A,N/A
+DTXSID90945774,DSSTox_Substance_Id,DTXSID90945774,"3,3,5-Trimethyl-3,11-dihydropyrano[3,2-a]carbazole",23095-44-5,N/A,N/A,N/A
+DTXSID90945835,DSSTox_Substance_Id,DTXSID90945835,"3-(9,10-Dimethoxy-2-oxo-1,3,4,6,7,11b-hexahydro-2H-pyrido[2,1-a]isoquinolin-3-yl)propanenitrile",23158-25-0,N/A,N/A,N/A
+DTXSID90945916,DSSTox_Substance_Id,DTXSID90945916,"2,4,5-Trimethyl-4,5-dihydro-1,3-oxazole",23236-41-1,N/A,N/A,N/A
+DTXSID90945976,DSSTox_Substance_Id,DTXSID90945976,"2-(3,4-Dihydroxyphenyl)-5,7-dihydroxy-4-oxo-4H-1-benzopyran-3-yl 6-O-pentopyranosylhexopyranoside",23284-18-6,N/A,N/A,N/A
+DTXSID90946009,DSSTox_Substance_Id,DTXSID90946009,"N~1~,N~4~-Dipropylbutane-1,4-diamine",23346-57-8,N/A,N/A,N/A
+DTXSID90946064,DSSTox_Substance_Id,DTXSID90946064,"3-Ethyl-5-[2-(1-ethylpyrrolidin-2-ylidene)ethylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",23405-68-7,N/A,N/A,N/A
+DTXSID90946069,DSSTox_Substance_Id,DTXSID90946069,"N~1~-{3-[Dimethoxy(methyl)silyl]-2-methylpropyl}ethane-1,2-diamine",23410-40-4,N/A,N/A,N/A
+DTXSID90946084,DSSTox_Substance_Id,DTXSID90946084,"2-[2-(1-Phenyl-1H-pyrazol-4-yl)ethenyl]-1,3-di(prop-2-en-1-yl)-1H-imidazo[4,5-b]quinoxalin-3-ium iodide",23427-51-2,N/A,N/A,N/A
+DTXSID90946089,DSSTox_Substance_Id,DTXSID90946089,4-Chloro-N-(1-hydroxyethylidene)phenylalanine,23434-92-6,N/A,N/A,N/A
+DTXSID90946347,DSSTox_Substance_Id,DTXSID90946347,"4-[(2,3-Dihydro-1,2,3,4-thiatriazol-5-yl)imino]cyclohexa-2,5-dien-1-one",23567-67-1,N/A,N/A,N/A
+DTXSID90946483,DSSTox_Substance_Id,DTXSID90946483,1-{5-O-[Bis(4-methoxyphenyl)(phenyl)methyl]-2-deoxypentofuranosyl}-4-hydroxypyrimidin-2(1H)-one,23669-79-6,N/A,N/A,N/A
+DTXSID90946504,DSSTox_Substance_Id,DTXSID90946504,DL-o-Tyrosine,2370-61-8,N/A,N/A,N/A
+DTXSID90946807,DSSTox_Substance_Id,DTXSID90946807,"6-Fluoro-17,21-dihydroxy-16-methyl-9,11-epoxypregna-1,4-diene-3,20-dione",23961-95-7,N/A,N/A,N/A
+DTXSID90946842,DSSTox_Substance_Id,DTXSID90946842,Ethyl 2-[2-(diethylamino)ethyl]-3-oxobutanoate,23999-02-2,N/A,N/A,N/A
+DTXSID90946908,DSSTox_Substance_Id,DTXSID90946908,"Sodium 2-[(2,3-dihydroxypropoxy)carbonyl]benzoate",24066-77-1,N/A,N/A,N/A
+DTXSID90946968,DSSTox_Substance_Id,DTXSID90946968,6-tert-Butyloctahydronaphthalen-2(1H)-one,24143-52-0,N/A,N/A,N/A
+DTXSID90946983,DSSTox_Substance_Id,DTXSID90946983,1-(4-Chlorophenyl)-2-(1H-imidazol-1-yl)ethan-1-ol,24155-45-1,N/A,N/A,N/A
+DTXSID90946988,DSSTox_Substance_Id,DTXSID90946988,"{Oxybis[(4,1-phenylene)]methylene} diacetate",2416-40-2,N/A,N/A,N/A
+DTXSID90947258,DSSTox_Substance_Id,DTXSID90947258,1-Bromoazepan-2-one,2439-83-0,N/A,N/A,N/A
+DTXSID90947273,DSSTox_Substance_Id,DTXSID90947273,Disodium 8-oxido-6-sulfonaphthalene-2-sulfonate,24402-46-8,N/A,N/A,N/A
+DTXSID90947314,DSSTox_Substance_Id,DTXSID90947314,"{(Propane-2,2-diyl)bis[(4,1-phenylene)oxy]propane-1,2-diyl} bis(2-methylprop-2-enoate)",24447-72-1,N/A,N/A,N/A
+DTXSID90947319,DSSTox_Substance_Id,DTXSID90947319,N-[4-Hydroxy-3-(3-phenylprop-2-enoyl)phenyl]ethanimidic acid,24449-58-9,N/A,N/A,N/A
+DTXSID90947339,DSSTox_Substance_Id,DTXSID90947339,Methyl amino(phenyl)acetate,24461-61-8,N/A,N/A,N/A
+DTXSID90947455,DSSTox_Substance_Id,DTXSID90947455,N-[Hydroxy(imino)methyl]cysteine,24583-23-1,N/A,N/A,N/A
+DTXSID90947475,DSSTox_Substance_Id,DTXSID90947475,"2-[(9,10-Dioxo-9,10-dihydroanthracen-1-yl)amino]anthra[2,1,9-mna]benzo[6,7]indazolo[2,3,4-fgh]acridine-13,18-dione",2459-82-7,N/A,N/A,N/A
+DTXSID90947511,DSSTox_Substance_Id,DTXSID90947511,"2,2'-[[1,1'-Biphenyl]-4,4'-diylbis(oxymethylene)]bis(oxirane)",2461-46-3,N/A,N/A,N/A
+DTXSID90947516,DSSTox_Substance_Id,DTXSID90947516,Disodium 4-stearyl sulfosuccinate,24614-51-5,N/A,N/A,N/A
+DTXSID90947612,DSSTox_Substance_Id,DTXSID90947612,"9-Fluoro-11,17-dihydroxy-16-methyl-3,20-dioxopregna-1,4-dien-21-yl 3,3-dimethylbutanoate",24668-75-5,N/A,N/A,N/A
+DTXSID90947632,DSSTox_Substance_Id,DTXSID90947632,"13-(Chloromethyl)-2,3-dihydroxy-4,6a,11,11,14b-pentamethyl-2,3,4,4a,5,6,6a,7,8,9,10,11,12,12a,13,14,14a,14b-octadecahydropicene-4,8a(1H)-dicarboxylic acid",2469-34-3,N/A,N/A,N/A
+DTXSID90947733,DSSTox_Substance_Id,DTXSID90947733,Diethyl (diphenylmethylidene)propanedioate,24824-36-0,N/A,N/A,N/A
+DTXSID90947773,DSSTox_Substance_Id,DTXSID90947773,"2,2'-(Hydrazine-1,2-diyl)di(ethan-1-ol)",2488-95-1,N/A,N/A,N/A
+DTXSID90947793,DSSTox_Substance_Id,DTXSID90947793,3-Deoxyhexose,2490-91-7,N/A,N/A,N/A
+DTXSID90947798,DSSTox_Substance_Id,DTXSID90947798,4-(2-{[Cyclohexyl(imino)methyl]amino}ethyl)-4-methylmorpholin-4-ium 4-methylbenzene-1-sulfonate,2491-17-0,N/A,N/A,N/A
+DTXSID90947819,DSSTox_Substance_Id,DTXSID90947819,"5'-​Inosinic acid, homopolymer, complex with 5'-​cytidylic acid homopolymer (1:1)",24939-03-5,N/A,N/A,N/A
+DTXSID90947975,DSSTox_Substance_Id,DTXSID90947975,"Methyl 3,5-di-tert-butyl-4-hydroxybenzoate",2511-22-0,N/A,N/A,N/A
+DTXSID90947990,DSSTox_Substance_Id,DTXSID90947990,"N,N'-Bis[hydroxy(phenyl)methylidene]cystine",25129-20-8,N/A,N/A,N/A
+DTXSID90948003,DSSTox_Substance_Id,DTXSID90948003,"2-(2,6-Dichlorophenoxy)propanoato",25140-90-3,N/A,N/A,N/A
+DTXSID90948149,DSSTox_Substance_Id,DTXSID90948149,"1,1,1-Trichloro-4-methylpent-4-en-2-ol",25308-82-1,N/A,N/A,N/A
+DTXSID90948260,DSSTox_Substance_Id,DTXSID90948260,Ethyl 2-(acetyloxy)-2-methyl-3-oxobutanoate,25409-39-6,N/A,N/A,N/A
+DTXSID90948280,DSSTox_Substance_Id,DTXSID90948280,"3,4-Dihydroxy-2-(2-methylbutanoyl)-5-(3-methylbut-2-en-1-yl)-4-(4-methylpent-3-enoyl)cyclopent-2-en-1-one",25422-83-7,N/A,N/A,N/A
+DTXSID90948381,DSSTox_Substance_Id,DTXSID90948381,"4,6,6-Trimethyloxepan-2-one",2549-57-7,N/A,N/A,N/A
+DTXSID90948386,DSSTox_Substance_Id,DTXSID90948386,"Disodium 3-[(4-amino-9,10-dioxo-3-sulfonato-9,10-dihydroanthracen-1-yl)amino]benzoate",25492-71-1,N/A,N/A,N/A
+DTXSID90948427,DSSTox_Substance_Id,DTXSID90948427,"3,4-Dihydroxy-2-(3-methylbutanoyl)-5-(3-methylbut-2-en-1-yl)-4-(4-methylpent-3-enoyl)cyclopent-2-en-1-one",25522-96-7,N/A,N/A,N/A
+DTXSID90948568,DSSTox_Substance_Id,DTXSID90948568,Ethyl 2-methylprop-2-enoate--methyl 2-methylprop-2-enoate (1/1),25685-29-4,N/A,N/A,N/A
+DTXSID90948629,DSSTox_Substance_Id,DTXSID90948629,"4-{1-Hydroxy-2-[(propan-2-yl)amino]butyl}benzene-1,2-diol--hydrogen chloride (1/1)",2576-92-3,N/A,N/A,N/A
+DTXSID90948644,DSSTox_Substance_Id,DTXSID90948644,2-Amino-4-(ethylselanyl)butanoic acid,2578-27-0,N/A,N/A,N/A
+DTXSID90948700,DSSTox_Substance_Id,DTXSID90948700,"2,2'-Oxydiethanehydrazonic acid",2580-60-1,N/A,N/A,N/A
+DTXSID90948765,DSSTox_Substance_Id,DTXSID90948765,3-Methyloctanal,25882-73-9,N/A,N/A,N/A
+DTXSID90948821,DSSTox_Substance_Id,DTXSID90948821,"1-(2-{2-Hydroxy-3-[(prop-2-en-1-yl)oxy]propoxy}ethyl)-4,5-dihydro-1H-imidazol-2-ol",25913-22-8,N/A,N/A,N/A
+DTXSID90948902,DSSTox_Substance_Id,DTXSID90948902,"2-Oxohexyl 9-fluoro-11,17-dihydroxy-16-methyl-3-oxoandrosta-1,4-diene-17-carboxylate",2600-31-9,N/A,N/A,N/A
+DTXSID90948922,DSSTox_Substance_Id,DTXSID90948922,Pentacosan-1-ol,26040-98-2,N/A,N/A,N/A
+DTXSID90949015,DSSTox_Substance_Id,DTXSID90949015,Clofop,26129-32-8,N/A,N/A,N/A
+DTXSID90949075,DSSTox_Substance_Id,DTXSID90949075,"N,N-Dimethyl-9-pentofuranosyl-9H-purin-6-amine",2620-62-4,N/A,N/A,N/A
+DTXSID90949292,DSSTox_Substance_Id,DTXSID90949292,"7-Methoxy-2,3-dihydro-1H-pyrrolizin-1-ol",26400-45-3,N/A,N/A,N/A
+DTXSID90949313,DSSTox_Substance_Id,DTXSID90949313,"2,4-Dichloro-6-(2-ethoxyethoxy)-1,3,5-triazine",26424-27-1,N/A,N/A,N/A
+DTXSID90949333,DSSTox_Substance_Id,DTXSID90949333,2-Methylbenzene-1-sulfonic acid--ammonia (1/1),26447-09-6,N/A,N/A,N/A
+DTXSID90949338,DSSTox_Substance_Id,DTXSID90949338,"Methyl 3,4-didehydroibogamine-18-carboxylate--hydrogen chloride (1/1)",2645-61-6,N/A,N/A,N/A
+DTXSID90949358,DSSTox_Substance_Id,DTXSID90949358,2-Ethylhexyl hydrogen (6-isocyanatohexyl)carbonimidate,26488-60-8,N/A,N/A,N/A
+DTXSID90949393,DSSTox_Substance_Id,DTXSID90949393,Apiin,26544-34-3,N/A,N/A,N/A
+DTXSID90949398,DSSTox_Substance_Id,DTXSID90949398,"2,3-Dimethoxy-N~1~,N~1~,N~4~,N~4~-tetramethylbutane-1,4-diamine",26549-21-3,N/A,N/A,N/A
+DTXSID90949414,DSSTox_Substance_Id,DTXSID90949414,Tris(4-nonylphenyl) phosphate,26569-53-9,N/A,N/A,N/A
+DTXSID90949434,DSSTox_Substance_Id,DTXSID90949434,1-Ethenylnaphthalene,26588-32-9,N/A,N/A,N/A
+DTXSID90949590,DSSTox_Substance_Id,DTXSID90949590,"Methyl 6-formyl-4,7,9-trihydroxyphenazine-1-carboxylate",26786-84-5,N/A,N/A,N/A
+DTXSID90949636,DSSTox_Substance_Id,DTXSID90949636,"3-(4-Chlorophenyl)-2-ethyl-2,3,5,6-tetrahydroimidazo[2,1-b][1,3]thiazol-3-ol",26847-34-7,N/A,N/A,N/A
+DTXSID90949712,DSSTox_Substance_Id,DTXSID90949712,"1,4-Bis[4-(4-chlorophenoxy)anilino]anthracene-9,10-dione",26931-39-5,N/A,N/A,N/A
+DTXSID90949717,DSSTox_Substance_Id,DTXSID90949717,Butyl hydrogen carbonimidate--formaldehyde (1/1),26935-10-4,N/A,N/A,N/A
+DTXSID90949818,DSSTox_Substance_Id,DTXSID90949818,Sodium oxoacetate,2706-75-4,N/A,N/A,N/A
+DTXSID90949914,DSSTox_Substance_Id,DTXSID90949914,N-(2-Amino-1-hydroxyethylidene)threonine,27174-15-8,N/A,N/A,N/A
+DTXSID90949919,DSSTox_Substance_Id,DTXSID90949919,"Sodium 2,3-dinonylbenzene-1-sulfonate",27177-78-2,N/A,N/A,N/A
+DTXSID9095006,DSSTox_Substance_Id,DTXSID9095006,"Formaldehyde, polymer with tris(nonylphenyl) phosphite",56889-59-9,N/A,N/A,N/A
+DTXSID90950126,DSSTox_Substance_Id,DTXSID90950126,"2-(4-Ethenylphenyl)-N,N-diethylethan-1-amine",27447-36-5,N/A,N/A,N/A
+DTXSID90950186,DSSTox_Substance_Id,DTXSID90950186,"1,4-Bis(nonyloxy)-1,4-dioxobutane-2-sulfonic acid--ammonia (1/1)",27501-55-9,N/A,N/A,N/A
+DTXSID90950202,DSSTox_Substance_Id,DTXSID90950202,"8-(Acetyloxy)-3,13,15-trihydroxy-1,6,16-trimethoxy-4-(methoxymethyl)-20-methylaconitan-14-yl benzoate",2752-64-9,N/A,N/A,N/A
+DTXSID90950282,DSSTox_Substance_Id,DTXSID90950282,"3-Amino-6-chloro-4-phenyl-3,4-dihydroquinazolin-4-ol",27610-14-6,N/A,N/A,N/A
+DTXSID90950368,DSSTox_Substance_Id,DTXSID90950368,"8-Hydroxy-6,8-dimethyl-3-methylidenehexahydrospiro[cyclohepta[b]furan-7,2'-oxolane]-2,5'(3H)-dione",27696-09-9,N/A,N/A,N/A
+DTXSID90950424,DSSTox_Substance_Id,DTXSID90950424,"[(2,2-Dimethylpropanoyl)oxy]methyl 7-amino-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate",27726-32-5,N/A,N/A,N/A
+DTXSID90950449,DSSTox_Substance_Id,DTXSID90950449,"3-Ethoxy-1,1-dihydroxybutan-2-one",27762-78-3,N/A,N/A,N/A
+DTXSID90950505,DSSTox_Substance_Id,DTXSID90950505,2-(2-Methylphenyl)oxirane,2783-26-8,N/A,N/A,N/A
+DTXSID90950560,DSSTox_Substance_Id,DTXSID90950560,"Methyl 11-[1-(2-{4-[(quinolin-2-yl)methoxy]phenyl}ethyl)piperidin-4-ylidene]-2,5,6,11-tetrahydro-3H-imidazo[2,1-b][3]benzazepine-3-carboxylate",278798-78-0,N/A,N/A,N/A
+DTXSID90950621,DSSTox_Substance_Id,DTXSID90950621,9-{2-Deoxy-5-O-[(phosphonatooxy)phosphinato]pentofuranosyl}-9H-purin-6-amine,2793-06-8,N/A,N/A,N/A
+DTXSID90950626,DSSTox_Substance_Id,DTXSID90950626,2-(7-Methyloctyl)phenol,27938-31-4,N/A,N/A,N/A
+DTXSID90950681,DSSTox_Substance_Id,DTXSID90950681,8-Azabicyclo[3.2.1]octane,280-05-7,N/A,N/A,N/A
+DTXSID90950782,DSSTox_Substance_Id,DTXSID90950782,1-(Chloromethyl)-4-dodecylbenzene,28061-21-4,N/A,N/A,N/A
+DTXSID90950828,DSSTox_Substance_Id,DTXSID90950828,"1,3-Dibenzyltetrahydro-1H-thieno[3,4-d]imidazole-2,4-dione",28092-52-6,N/A,N/A,N/A
+DTXSID90950909,DSSTox_Substance_Id,DTXSID90950909,4-Azido-1-fluoro-2-nitrobenzene,28166-06-5,N/A,N/A,N/A
+DTXSID90951198,DSSTox_Substance_Id,DTXSID90951198,"1,2,3,4-Tetrachlorobutane",28507-96-2,N/A,N/A,N/A
+DTXSID90951274,DSSTox_Substance_Id,DTXSID90951274,"1,1,2-Trifluoroethan-1-ol",28606-06-6,N/A,N/A,N/A
+DTXSID90951330,DSSTox_Substance_Id,DTXSID90951330,"6-Methoxy-3,5-cyclocholestane",2867-93-8,N/A,N/A,N/A
+DTXSID90951355,DSSTox_Substance_Id,DTXSID90951355,"Coenzyme A, S-(3-hydroxybutanoate)",2871-66-1,N/A,N/A,N/A
+DTXSID90951572,DSSTox_Substance_Id,DTXSID90951572,2-Chloro-4-methyl-1-(propan-2-yl)cyclohexane,28953-96-0,N/A,N/A,N/A
+DTXSID90951577,DSSTox_Substance_Id,DTXSID90951577,8-Benzyl-8-azabicyclo[3.2.1]octan-3-one,28957-72-4,N/A,N/A,N/A
+DTXSID90951698,DSSTox_Substance_Id,DTXSID90951698,"2-(1,2-Dihydroxy-3-methyl-5-oxocyclohexyl)-3,11-dihydroxy-11-(hydroxymethyl)-9-methyl-1-oxa-5-azaspiro[5.5]undeca-2,4-dien-7-one",29101-95-9,N/A,N/A,N/A
+DTXSID90951759,DSSTox_Substance_Id,DTXSID90951759,"2-Ethyl-2,4-dimethyl-1,3-dioxolane",2916-28-1,N/A,N/A,N/A
+DTXSID90951774,DSSTox_Substance_Id,DTXSID90951774,1-Hydroxypropan-2-yl prop-2-enoatato,2918-23-2,N/A,N/A,N/A
+DTXSID90951799,DSSTox_Substance_Id,DTXSID90951799,"1-(4-Ethoxyanilino)-4-[(3,3,5-trimethylcyclohexyl)amino]anthracene-9,10-dione",29205-96-7,N/A,N/A,N/A
+DTXSID90951810,DSSTox_Substance_Id,DTXSID90951810,"N-(2,6-Dimethylphenyl)triimidodicarbonic diamide",29213-16-9,N/A,N/A,N/A
+DTXSID90951815,DSSTox_Substance_Id,DTXSID90951815,"N,N-Dimethyl-2-[(2-methylphenyl)(phenyl)methoxy]ethan-1-amine N-oxide",29215-00-7,N/A,N/A,N/A
+DTXSID90951855,DSSTox_Substance_Id,DTXSID90951855,"Hexadeca-4,7,10,13-tetraenoic acid",29259-52-7,N/A,N/A,N/A
+DTXSID90951931,DSSTox_Substance_Id,DTXSID90951931,Bis(2-ethylhexyl) 2-hydroxyethyl phosphate,29398-98-9,N/A,N/A,N/A
+DTXSID90952089,DSSTox_Substance_Id,DTXSID90952089,Methyl 2-methyldecanoate,29619-64-5,N/A,N/A,N/A
+DTXSID90952266,DSSTox_Substance_Id,DTXSID90952266,2-Dodecyl-3-methylbutanedioic acid,29838-46-8,N/A,N/A,N/A
+DTXSID90952408,DSSTox_Substance_Id,DTXSID90952408,3-Aminotyrosine,300-34-5,N/A,N/A,N/A
+DTXSID90952423,DSSTox_Substance_Id,DTXSID90952423,"N-(3-Chloro-2-hydroxypropyl)-N,N-dimethyloctadecan-1-aminium chloride",3001-63-6,N/A,N/A,N/A
+DTXSID90952428,DSSTox_Substance_Id,DTXSID90952428,(1-Ethoxy-1-oxopropan-2-yl)(triphenyl)phosphanium bromide,30018-16-7,N/A,N/A,N/A
+DTXSID90952509,DSSTox_Substance_Id,DTXSID90952509,"1,5-Anhydro-1-[5,7-dihydroxy-2-(4-hydroxy-3-methoxyphenyl)-4-oxo-4H-1-benzopyran-8-yl]hexitol",301-16-6,N/A,N/A,N/A
+DTXSID90952524,DSSTox_Substance_Id,DTXSID90952524,"5,7-Dihydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-3-chromeniumyl beta-D-galactopyranoside chloride",30113-37-2,N/A,N/A,N/A
+DTXSID90952665,DSSTox_Substance_Id,DTXSID90952665,"2-Ethyl-9,10-dimethoxy-3-(2-methylpropyl)-1,3,4,6,7,11b-hexahydro-2H-pyrido[2,1-a]isoquinolin-2-ol",303-75-3,N/A,N/A,N/A
+DTXSID90952802,DSSTox_Substance_Id,DTXSID90952802,"Sodium hydroxide [2-heptadecyl-1-(2-oxidoethyl)-4,5-dihydro-1H-imidazol-1-ium-1-yl]acetate (2/1/1)",30473-39-3,N/A,N/A,N/A
+DTXSID90952842,DSSTox_Substance_Id,DTXSID90952842,Diazido(methyl)phenylsilane,30540-34-2,N/A,N/A,N/A
+DTXSID90952908,DSSTox_Substance_Id,DTXSID90952908,"2,3-Dihydroxypropyl nonanoate",3065-51-8,N/A,N/A,N/A
+DTXSID90952923,DSSTox_Substance_Id,DTXSID90952923,"3,4,6-Tri-O-acetyl-2-deoxy-2-[(1-hydroxyethylidene)amino]hexopyranosyl chloride",3068-34-6,N/A,N/A,N/A
+DTXSID90953076,DSSTox_Substance_Id,DTXSID90953076,"[5-(3-Methyl-7-oxo-4,5,6,7-tetrahydro-1,3-benzothiazol-2(3H)-ylidene)-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]acetic acid",30906-38-8,N/A,N/A,N/A
+DTXSID90953197,DSSTox_Substance_Id,DTXSID90953197,2-[(3-Aminopropyl)amino]ethane-1-thiol,31098-42-7,N/A,N/A,N/A
+DTXSID90953258,DSSTox_Substance_Id,DTXSID90953258,2-({1-[3-(Trifluoromethyl)phenyl]propan-2-yl}amino)ethan-1-ol,31173-14-5,N/A,N/A,N/A
+DTXSID90953435,DSSTox_Substance_Id,DTXSID90953435,"6-Hydroxy-2-oxo-3-pentofuranosyl-2,3-dihydropyrimidine-4-carboxylic acid",314-50-1,N/A,N/A,N/A
+DTXSID90953470,DSSTox_Substance_Id,DTXSID90953470,"1,3,5,7-Tetrabromocyclooctane",31454-48-5,N/A,N/A,N/A
+DTXSID90953511,DSSTox_Substance_Id,DTXSID90953511,"2-Methyl-2,3-dihydro-1H-indol-1-amine",31529-46-1,N/A,N/A,N/A
+DTXSID90953551,DSSTox_Substance_Id,DTXSID90953551,1-(2-Amino-5-chlorophenyl)-1-phenylethan-1-ol,3158-98-3,N/A,N/A,N/A
+DTXSID90953591,DSSTox_Substance_Id,DTXSID90953591,Methyl 3-methyl-4-oxopiperidine-1-carboxylate,31633-72-4,N/A,N/A,N/A
+DTXSID90953753,DSSTox_Substance_Id,DTXSID90953753,"2,5-Anhydro-6-O-decanoyl-5-(hydroxymethyl)undec-6-ulopyranose",31835-06-0,N/A,N/A,N/A
+DTXSID90953834,DSSTox_Substance_Id,DTXSID90953834,"8-[2-(2-Carboxyethyl)-3,5-dihydroxycyclopentyl]-6-oxooctanoic acid",31935-05-4,N/A,N/A,N/A
+DTXSID90953874,DSSTox_Substance_Id,DTXSID90953874,17alpha-Acetoxy-19-norprogesterone,31981-44-9,N/A,N/A,N/A
+DTXSID90953899,DSSTox_Substance_Id,DTXSID90953899,1-Azabicyclo[4.2.0]octane,32028-39-0,N/A,N/A,N/A
+DTXSID90953930,DSSTox_Substance_Id,DTXSID90953930,"1,3-Dihydroxypropan-2-yl 16-methylheptadecanoate",32057-14-0,N/A,N/A,N/A
+DTXSID9095420,DSSTox_Substance_Id,DTXSID9095420,"1,?-Tetradecanediol, 1-acetate ?-(hydrogen sulfate), sodium salt (1:1)",65166-19-0,N/A,N/A,N/A
+DTXSID90954240,DSSTox_Substance_Id,DTXSID90954240,2-Methylbicyclo[2.2.1]heptane-2-carboxylic acid,32508-22-8,N/A,N/A,N/A
+DTXSID90954301,DSSTox_Substance_Id,DTXSID90954301,Magnesium bis(3-acetyl-6-methyl-4-oxo-4H-pyran-2-olate),32574-43-9,N/A,N/A,N/A
+DTXSID90954381,DSSTox_Substance_Id,DTXSID90954381,Pregnan-20-one,32695-80-0,N/A,N/A,N/A
+DTXSID90954386,DSSTox_Substance_Id,DTXSID90954386,1-(Methoxymethyl)-4-phenoxybenzene,32718-50-6,N/A,N/A,N/A
+DTXSID90954442,DSSTox_Substance_Id,DTXSID90954442,"7-Chloro-5-(2-chlorophenyl)-2-hydroxy-3H-1,4-benzodiazepin-3-yl hexopyranosiduronic acid",32781-79-6,N/A,N/A,N/A
+DTXSID90954462,DSSTox_Substance_Id,DTXSID90954462,2-Propylpentanedioic acid,32806-62-5,N/A,N/A,N/A
+DTXSID90954487,DSSTox_Substance_Id,DTXSID90954487,N-(2-Ethylhexyl)-3-oxobutanimidic acid,32837-36-8,N/A,N/A,N/A
+DTXSID90954689,DSSTox_Substance_Id,DTXSID90954689,4-(Octan-4-yl)phenol,3307-01-5,N/A,N/A,N/A
+DTXSID90954740,DSSTox_Substance_Id,DTXSID90954740,"4-Methyl-2-(morpholin-4-yl)-2H-spiro[1-benzofuran-3,1'-cyclohex[3]en]-5-ol",33112-29-7,N/A,N/A,N/A
+DTXSID90954881,DSSTox_Substance_Id,DTXSID90954881,3-Nitroaniline--hydrogen chloride (1/1),33240-96-9,N/A,N/A,N/A
+DTXSID90954902,DSSTox_Substance_Id,DTXSID90954902,2-Amino-3-(1H-indol-3-yl)-N-(naphthalen-2-yl)propanimidic acid,3326-63-4,N/A,N/A,N/A
+DTXSID90954927,DSSTox_Substance_Id,DTXSID90954927,"1-(3,3-Diphenylpropyl)piperidine--hydrogen chloride (1/1)",3329-14-4,N/A,N/A,N/A
+DTXSID90954947,DSSTox_Substance_Id,DTXSID90954947,6-[Methyl(3-nitrophenyl)sulfamoyl]hexanoic acid,33317-49-6,N/A,N/A,N/A
+DTXSID90955131,DSSTox_Substance_Id,DTXSID90955131,4-Nitrophenyl N-[tert-butoxy(hydroxy)methylidene]leucinate,3350-19-4,N/A,N/A,N/A
+DTXSID90955136,DSSTox_Substance_Id,DTXSID90955136,"9-Chloro-10b-hydroxy-7,8-dimethoxy-2,3,6-trimethyl-2,3,5a,6,10b,11-hexahydro-3,11a-epidithiopyrazino[1',2':1,5]pyrrolo[2,3-b]indole-1,4-dione",3351-96-0,N/A,N/A,N/A
+DTXSID90955237,DSSTox_Substance_Id,DTXSID90955237,"(2,5-Dioxooxolan-3-yl)methanimidic acid",33605-73-1,N/A,N/A,N/A
+DTXSID90955353,DSSTox_Substance_Id,DTXSID90955353,"Sodium 3-{[(11,17-dihydroxy-3,20-dioxopregn-4-en-21-yl)oxy]carbonyl}benzene-1-sulfonate",33767-03-2,N/A,N/A,N/A
+DTXSID90955393,DSSTox_Substance_Id,DTXSID90955393,1-(2-Hydroxy-4-methylphenyl)pentan-1-one,33809-52-8,N/A,N/A,N/A
+DTXSID90955419,DSSTox_Substance_Id,DTXSID90955419,5-Amino-2-(4-methoxyanilino)benzene-1-sulfonic acid,33836-66-7,N/A,N/A,N/A
+DTXSID90955479,DSSTox_Substance_Id,DTXSID90955479,"6,6',12-Trimethoxy-2,2'-dimethylberbaman-7-ol",33889-68-8,N/A,N/A,N/A
+DTXSID90955651,DSSTox_Substance_Id,DTXSID90955651,1-{1-[4-(4-Fluorophenyl)-4-hydroxybutyl]piperidin-4-yl}-1H-benzimidazol-2-ol,34104-74-0,N/A,N/A,N/A
+DTXSID90955873,DSSTox_Substance_Id,DTXSID90955873,"N-[4-(1-Hydroxy-3-imino-3,4,5,6,6a,7-hexahydroimidazo[1,5-f]pteridin-8(9H)-yl)benzoyl]glutamic acid",3432-99-3,N/A,N/A,N/A
+DTXSID90955934,DSSTox_Substance_Id,DTXSID90955934,1-[4-(Benzyloxy)phenoxy]-3-[(propan-2-yl)amino]propan-2-ol,34380-47-7,N/A,N/A,N/A
+DTXSID90955954,DSSTox_Substance_Id,DTXSID90955954,Calcium 6-O-phosphonatohex-2-ulofuranose,34405-73-7,N/A,N/A,N/A
+DTXSID90956103,DSSTox_Substance_Id,DTXSID90956103,1-Phenylethyl pentanoate,3460-43-3,N/A,N/A,N/A
+DTXSID90956143,DSSTox_Substance_Id,DTXSID90956143,2-[(4-Dodecylphenoxy)methyl]oxirane,34649-59-7,N/A,N/A,N/A
+DTXSID90956148,DSSTox_Substance_Id,DTXSID90956148,"9,10-Dimethoxy-3-(2-methylpropyl)-1,3,4,6,7,11b-hexahydro-2H-pyrido[2,1-a]isoquinolin-2-ol",3466-75-9,N/A,N/A,N/A
+DTXSID90956224,DSSTox_Substance_Id,DTXSID90956224,1-Benzyl-3-methyl-4-oxopiperidin-1-ium,34737-89-8,N/A,N/A,N/A
+DTXSID90956466,DSSTox_Substance_Id,DTXSID90956466,Sodium (4-methyl-2-sulfophenoxy)acetate,35038-81-4,N/A,N/A,N/A
+DTXSID90956603,DSSTox_Substance_Id,DTXSID90956603,3-Bromo-4-(4-chlorophenyl)-4-oxobutanoic acid,35158-39-5,N/A,N/A,N/A
+DTXSID90956744,DSSTox_Substance_Id,DTXSID90956744,4-[(Oxiran-2-yl)methoxy]-1H-indole,35308-87-3,N/A,N/A,N/A
+DTXSID90956901,DSSTox_Substance_Id,DTXSID90956901,[4-(Heptyloxy)-2-hydroxyphenyl](phenyl)methanone,3550-43-4,N/A,N/A,N/A
+DTXSID90956906,DSSTox_Substance_Id,DTXSID90956906,Dioctyl sulfite,35506-89-9,N/A,N/A,N/A
+DTXSID90956921,DSSTox_Substance_Id,DTXSID90956921,"4-(3,4-Dihydroxyphenyl)-4-phenyl-4H-imidazole-2,5-diol",35531-90-9,N/A,N/A,N/A
+DTXSID90957039,DSSTox_Substance_Id,DTXSID90957039,N-Methylidenecarbamimidic acid,35650-81-8,N/A,N/A,N/A
+DTXSID90957054,DSSTox_Substance_Id,DTXSID90957054,"2-Amino-1-(3,4-dichlorophenyl)ethan-1-ol",3567-82-6,N/A,N/A,N/A
+DTXSID90957079,DSSTox_Substance_Id,DTXSID90957079,"3-(4-Carboxyphenyl)-1,1,3-trimethyl-2,3-dihydro-1H-indene-5-carboxylic acid",3569-18-4,N/A,N/A,N/A
+DTXSID90957150,DSSTox_Substance_Id,DTXSID90957150,N~5~-(1-Hydroxy-2-iodoethylidene)ornithine,35748-65-3,N/A,N/A,N/A
+DTXSID90957211,DSSTox_Substance_Id,DTXSID90957211,"6,8-Dihydroxy-3-[(6-methyloxan-2-yl)methyl]-3,4-dihydro-1H-2-benzopyran-1-one",35818-31-6,N/A,N/A,N/A
+DTXSID90957251,DSSTox_Substance_Id,DTXSID90957251,"6-tert-Butyl-1,3,5-triazine-2,4(1H,3H)-diimine",35841-84-0,N/A,N/A,N/A
+DTXSID90957312,DSSTox_Substance_Id,DTXSID90957312,3-Methylpentyl acetate,35897-13-3,N/A,N/A,N/A
+DTXSID90957357,DSSTox_Substance_Id,DTXSID90957357,3-Methyl-4-(3-methylphenyl)piperazin-1-ium,35947-10-5,N/A,N/A,N/A
+DTXSID90957539,DSSTox_Substance_Id,DTXSID90957539,"1-Ethyl-1-{2-[(3,4,5-trimethoxybenzoyl)oxy]ethyl}pyrrolidin-1-ium 4-methylbenzene-1-sulfonate",3612-98-4,N/A,N/A,N/A
+DTXSID90957554,DSSTox_Substance_Id,DTXSID90957554,"Dibenzyl 2,4-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate",36138-79-1,N/A,N/A,N/A
+DTXSID90957599,DSSTox_Substance_Id,DTXSID90957599,"9-[2,3-O-(1-Methylethylidene)pentofuranosyl]-9H-purin-6-amine",362-75-4,N/A,N/A,N/A
+DTXSID90957615,DSSTox_Substance_Id,DTXSID90957615,"Bis[(oxiran-2-yl)methyl] 1-methylcyclohex-4-ene-1,2-dicarboxylate",36221-25-7,N/A,N/A,N/A
+DTXSID90957756,DSSTox_Substance_Id,DTXSID90957756,Disodium 2-[(dodecyloxy)sulfonyl]butanedioate,36409-57-1,N/A,N/A,N/A
+DTXSID90957791,DSSTox_Substance_Id,DTXSID90957791,"Ethyl 2,3-anhydro-4,5-dideoxy-3-methylpentonate",3647-33-4,N/A,N/A,N/A
+DTXSID90957812,DSSTox_Substance_Id,DTXSID90957812,4-Methylhistamine,36507-31-0,N/A,N/A,N/A
+DTXSID90957857,DSSTox_Substance_Id,DTXSID90957857,1-Octadecanoylproline,36577-40-9,N/A,N/A,N/A
+DTXSID90957933,DSSTox_Substance_Id,DTXSID90957933,"Methyl 2-hydroxy-3,6-dimethyl-4-oxocyclohex-2-ene-1-carboxylate",36699-87-3,N/A,N/A,N/A
+DTXSID90958041,DSSTox_Substance_Id,DTXSID90958041,"3-[4-(3-Methoxy-2-phenyl-1,2,3,4-tetrahydronaphthalen-1-yl)phenoxy]propane-1,2-diol",36840-93-4,N/A,N/A,N/A
+DTXSID90958102,DSSTox_Substance_Id,DTXSID90958102,"3-[(5-Bromofuran-2-carbonyl)oxy]-N,N-diethyl-N-methylbutan-1-aminium iodide",3690-58-2,N/A,N/A,N/A
+DTXSID90958127,DSSTox_Substance_Id,DTXSID90958127,Sodium 2-hydroxy-3-(octadecanoyloxy)propane-1-sulfonate,3694-95-9,N/A,N/A,N/A
+DTXSID90958288,DSSTox_Substance_Id,DTXSID90958288,"3-[(Oxiran-2-yl)methoxy]octahydro-1aH-2,5-methanoindeno[1,2-b]oxirene",3712-92-3,N/A,N/A,N/A
+DTXSID90958389,DSSTox_Substance_Id,DTXSID90958389,2-Aminononanedioic acid,3721-87-7,N/A,N/A,N/A
+DTXSID90958465,DSSTox_Substance_Id,DTXSID90958465,Ethyl 4-nitrophenyl methylphosphonate,3735-98-6,N/A,N/A,N/A
+DTXSID90958667,DSSTox_Substance_Id,DTXSID90958667,Ethyl 2-chloroethanimidate,37622-36-9,N/A,N/A,N/A
+DTXSID90958788,DSSTox_Substance_Id,DTXSID90958788,"2,2'-[Ethane-1,1-diylbis(oxymethylene)]bis(oxirane)",3775-84-6,N/A,N/A,N/A
+DTXSID90958869,DSSTox_Substance_Id,DTXSID90958869,3-{[Hydroxy(phenyl)acetyl]oxy}-8-methyl-8-(2-oxo-2-phenylethyl)-8-azabicyclo[3.2.1]octan-8-ium chloride,3784-89-2,N/A,N/A,N/A
+DTXSID90958900,DSSTox_Substance_Id,DTXSID90958900,"N-{1-Hydroxy-2-[(1-hydroxyethylidene)amino]-3-phenylpropylidene}-3,5-diiodotyrosine",3786-08-1,N/A,N/A,N/A
+DTXSID90958920,DSSTox_Substance_Id,DTXSID90958920,18-Hydroxy-11-deoxycorticosterone,379-68-0,N/A,N/A,N/A
+DTXSID90958985,DSSTox_Substance_Id,DTXSID90958985,Iodoacetyl chloride,38020-81-4,N/A,N/A,N/A
+DTXSID90959154,DSSTox_Substance_Id,DTXSID90959154,2-(Diethylamino)ethyl 3-(4-methoxyphenyl)-2-phenylpropanoate--hydrogen chloride (1/1),3820-14-2,N/A,N/A,N/A
+DTXSID90959174,DSSTox_Substance_Id,DTXSID90959174,Tritriacontanoic acid,38232-03-0,N/A,N/A,N/A
+DTXSID90959194,DSSTox_Substance_Id,DTXSID90959194,1-Methoxybicyclo[2.2.2]oct-5-ene-2-carbonitrile,38258-92-3,N/A,N/A,N/A
+DTXSID90959235,DSSTox_Substance_Id,DTXSID90959235,"1-(3,5-Anhydro-2-deoxypentofuranosyl)-4-hydroxy-5-methylpyrimidin-2(1H)-one",38313-48-3,N/A,N/A,N/A
+DTXSID90959316,DSSTox_Substance_Id,DTXSID90959316,"9,10-Dihydroanthracene-1,4,9,10-tetrol",38399-72-3,N/A,N/A,N/A
+DTXSID90959452,DSSTox_Substance_Id,DTXSID90959452,"3-Ethyl-2-[(3-methyl-6-nitro-1,3-benzothiazol-2(3H)-ylidene)methyl]-4,5-dihydro-1,3-thiazol-3-ium iodide",38586-42-4,N/A,N/A,N/A
+DTXSID90959533,DSSTox_Substance_Id,DTXSID90959533,"6,10-Dimethylundecan-2-ol",38713-13-2,N/A,N/A,N/A
+DTXSID90959614,DSSTox_Substance_Id,DTXSID90959614,17-Methylmorphinan,3882-38-0,N/A,N/A,N/A
+DTXSID90959654,DSSTox_Substance_Id,DTXSID90959654,4-Fluoro-3-nitrobenzene-1-sulfonic acid,3888-84-4,N/A,N/A,N/A
+DTXSID90959891,DSSTox_Substance_Id,DTXSID90959891,2-(Dimethylamino)-2-phenylbutan-1-ol,39068-94-5,N/A,N/A,N/A
+DTXSID90960088,DSSTox_Substance_Id,DTXSID90960088,"2,3-Di-O-acetyl-1,5-anhydro-4-deoxypent-4-enitol",3945-18-4,N/A,N/A,N/A
+DTXSID90960189,DSSTox_Substance_Id,DTXSID90960189,"4,4,6-Trimethyl-2-(prop-1-en-2-yl)-5,6-dihydro-4H-1,3-oxazine",39575-65-0,N/A,N/A,N/A
+DTXSID90960280,DSSTox_Substance_Id,DTXSID90960280,N-(3-Hydroxypropyl)-5-methyl-2-(propan-2-yl)cyclohexane-1-carboximidic acid,39668-76-3,N/A,N/A,N/A
+DTXSID90960285,DSSTox_Substance_Id,DTXSID90960285,2-({4-[Bis(2-bromopropyl)amino]-2-methylphenyl}diazenyl)benzoic acid,39669-49-3,N/A,N/A,N/A
+DTXSID90960341,DSSTox_Substance_Id,DTXSID90960341,4-(Hydroxymethyl)-2-oxohexahydro-2H-cyclopenta[b]furan-5-yl benzoate,39746-00-4,N/A,N/A,N/A
+DTXSID90960427,DSSTox_Substance_Id,DTXSID90960427,Cephalosporin C,61-24-5,N/A,N/A,N/A
+DTXSID90960487,DSSTox_Substance_Id,DTXSID90960487,"7-Bromo-5-(2-chlorophenyl)-3,4-dihydro-2H-thieno[2,3-e][1,4]diazepin-2-one",40017-65-0,N/A,N/A,N/A
+DTXSID90960669,DSSTox_Substance_Id,DTXSID90960669,"2-[Bis(2-chloroethyl)amino]-4-hydroxy-1,3,2lambda~5~-oxazaphosphinan-2-one",40277-05-2,N/A,N/A,N/A
+DTXSID90960801,DSSTox_Substance_Id,DTXSID90960801,4-(2-Aminoethyl)-2-fluorophenol,404-84-2,N/A,N/A,N/A
+DTXSID90960846,DSSTox_Substance_Id,DTXSID90960846,"3-[(4-Hydroxybut-2-yn-1-yl)oxy]-1lambda~6~-thiolane-1,1-dione",40456-28-8,N/A,N/A,N/A
+DTXSID90960927,DSSTox_Substance_Id,DTXSID90960927,N-Methyl-N-(sulfanylcarbonothioyl)glycine,40520-03-4,N/A,N/A,N/A
+DTXSID90961030,DSSTox_Substance_Id,DTXSID90961030,Cobalt(2+) bis(dicyclohexylphosphinodithioate),40621-10-1,N/A,N/A,N/A
+DTXSID90961116,DSSTox_Substance_Id,DTXSID90961116,2-Aminophenyl hydrogen sulfate,40712-56-9,N/A,N/A,N/A
+DTXSID90961191,DSSTox_Substance_Id,DTXSID90961191,[4-(4-Methylpent-3-en-1-yl)cyclohex-3-en-1-yl]methanol,40772-93-8,N/A,N/A,N/A
+DTXSID90961212,DSSTox_Substance_Id,DTXSID90961212,"4,7-Diphenyl-1,10-phenanthroline-2-sulfonic acid",40795-59-3,N/A,N/A,N/A
+DTXSID90961257,DSSTox_Substance_Id,DTXSID90961257,4-[Dichloro(methyl)silyl]butanoyl chloride,4084-34-8,N/A,N/A,N/A
+DTXSID90961393,DSSTox_Substance_Id,DTXSID90961393,"4,4-Dimethyl-4,5,7a,8,11,11a-hexahydro-3H-2,6-benzodioxonine-1,7-dione",41026-17-9,N/A,N/A,N/A
+DTXSID90961434,DSSTox_Substance_Id,DTXSID90961434,"3,20-Dioxopregn-4-en-21-yl 2,3,4,6-tetra-O-acetylhexopyranoside",41092-37-9,N/A,N/A,N/A
+DTXSID90961499,DSSTox_Substance_Id,DTXSID90961499,"1-(2,3-Dichlorophenyl)piperazine",41202-77-1,N/A,N/A,N/A
+DTXSID90961616,DSSTox_Substance_Id,DTXSID90961616,Cyclohex-2-en-1-yl 3-methylbutanoate,41321-25-9,N/A,N/A,N/A
+DTXSID90961651,DSSTox_Substance_Id,DTXSID90961651,"3-(16-Methylheptadecyl)oxolane-2,5-dione",41375-88-6,N/A,N/A,N/A
+DTXSID90961752,DSSTox_Substance_Id,DTXSID90961752,Cholest-5-en-3-yl 4-butoxybenzoate,41484-52-0,N/A,N/A,N/A
+DTXSID90961893,DSSTox_Substance_Id,DTXSID90961893,4-(2-Methylpropyl)phenol,4167-74-2,N/A,N/A,N/A
+DTXSID90961898,DSSTox_Substance_Id,DTXSID90961898,"7-Hydroxy-2-(4-hydroxyphenyl)-2,3-dihydro-4H-1-benzopyran-4-one",41680-09-5,N/A,N/A,N/A
+DTXSID90961919,DSSTox_Substance_Id,DTXSID90961919,"3,6-Dimethoxy-17-methyl-4,5-epoxymorphinan",41714-53-8,N/A,N/A,N/A
+DTXSID90962042,DSSTox_Substance_Id,DTXSID90962042,"Sodium 4-ethoxy-3,4-dioxobutanoate",41892-71-1,N/A,N/A,N/A
+DTXSID90962123,DSSTox_Substance_Id,DTXSID90962123,"2-(2-Methylpropyl)cyclohexa-2,5-diene-1,4-dione",4197-79-9,N/A,N/A,N/A
+DTXSID90962168,DSSTox_Substance_Id,DTXSID90962168,"6-Chloropregna-4,6-diene-3,20-dione",4202-98-6,N/A,N/A,N/A
+DTXSID90962264,DSSTox_Substance_Id,DTXSID90962264,"2-(8,9-Dimethoxy-6-oxo-1,2,6,6a,12,12a-hexahydrofuro[2',3':7,8][1]benzopyrano[2,3-c][1]benzopyran-2-yl)prop-2-en-1-yl 2-O-pentofuranosylhexopyranoside",4207-90-3,N/A,N/A,N/A
+DTXSID90962289,DSSTox_Substance_Id,DTXSID90962289,"1,2,3,4,5-Pentachloro-6-(2,3-dibromopropoxy)benzene",42115-16-2,N/A,N/A,N/A
+DTXSID90962360,DSSTox_Substance_Id,DTXSID90962360,"Dichloro(methyl)(1,1,2,2-tetrafluoroethyl)silane",422-69-5,N/A,N/A,N/A
+DTXSID90962446,DSSTox_Substance_Id,DTXSID90962446,"Disodium 3,3'-[[1,1'-biphenyl]-4,4'-diyldi(ethene-2,1-diyl)]bis(6-chlorobenzene-1-sulfonate)",42380-62-1,N/A,N/A,N/A
+DTXSID90962562,DSSTox_Substance_Id,DTXSID90962562,"Cyclooctane-1,2-diol",42565-22-0,N/A,N/A,N/A
+DTXSID90962567,DSSTox_Substance_Id,DTXSID90962567,Cyclo(L-histidyl-L-proline),53109-32-3,N/A,N/A,N/A
+DTXSID90962608,DSSTox_Substance_Id,DTXSID90962608,Methyl 2-O-methylhexopyranoside,4261-27-2,N/A,N/A,N/A
+DTXSID90962648,DSSTox_Substance_Id,DTXSID90962648,"Undecane-1,4-diol",4272-02-0,N/A,N/A,N/A
+DTXSID90962744,DSSTox_Substance_Id,DTXSID90962744,4-(Prop-1-en-2-yl)phenol,4286-23-1,N/A,N/A,N/A
+DTXSID90962901,DSSTox_Substance_Id,DTXSID90962901,3-Ethenylcyclohexan-1-ol,43101-34-4,N/A,N/A,N/A
+DTXSID90963054,DSSTox_Substance_Id,DTXSID90963054,Costaclavin,436-41-9,N/A,N/A,N/A
+DTXSID90963256,DSSTox_Substance_Id,DTXSID90963256,1-Methoxy-1-oxo-3-sulfanylpropan-2-aminium,44641-43-2,N/A,N/A,N/A
+DTXSID90963312,DSSTox_Substance_Id,DTXSID90963312,"6-(2,4-Difluorophenoxy)-2-[(1,5-dihydroxypentan-3-yl)imino]-8-methyl-2,8-dihydropyrido[2,3-d]pyrimidin-7(3H)-one",449811-01-2,N/A,N/A,N/A
+DTXSID90963377,DSSTox_Substance_Id,DTXSID90963377,2-[(Methylsulfanyl)methyl]oxirane,45378-62-9,N/A,N/A,N/A
+DTXSID90963413,DSSTox_Substance_Id,DTXSID90963413,"1-(4-Methyl-1,3-thiazol-5-yl)ethan-1-ol",45657-12-3,N/A,N/A,N/A
+DTXSID90963433,DSSTox_Substance_Id,DTXSID90963433,"1~3~,2~3~,3~2~,4~3~-Tetramethyl-1~1~,2~1~:2~4~,3~1~:3~4~,4~1~-quaterphenyl",4575-13-7,N/A,N/A,N/A
+DTXSID90963559,DSSTox_Substance_Id,DTXSID90963559,Phenyl propan-2-yl hydrogen phosphate,46355-07-1,N/A,N/A,N/A
+DTXSID90963594,DSSTox_Substance_Id,DTXSID90963594,"3,5,14-Trihydroxy-19-oxobufa-20,22-dienolide",465-90-7,N/A,N/A,N/A
+DTXSID90963599,DSSTox_Substance_Id,DTXSID90963599,2-(Isothiocyanatomethyl)furan,4650-60-6,N/A,N/A,N/A
+DTXSID90963610,DSSTox_Substance_Id,DTXSID90963610,"20-Ethyl-6,16-dimethoxy-4-(methoxymethyl)aconitane-1,8,14-triol",466-26-2,N/A,N/A,N/A
+DTXSID90963635,DSSTox_Substance_Id,DTXSID90963635,2-(2-Methylpropyl)cyclohexan-1-one,4668-64-8,N/A,N/A,N/A
+DTXSID90963670,DSSTox_Substance_Id,DTXSID90963670,"Sodium 1,4-bis(heptyloxy)-1,4-dioxobutane-2-sulfonate",4680-44-8,N/A,N/A,N/A
+DTXSID90963711,DSSTox_Substance_Id,DTXSID90963711,"2-{[([1,1'-Biphenyl]-4-yl)oxy]methyl}oxirane",4698-96-8,N/A,N/A,N/A
+DTXSID90963716,DSSTox_Substance_Id,DTXSID90963716,"2,4-Dihydroxy-3,3-dimethylbutanoate",5102-72-7,N/A,N/A,N/A
+DTXSID90963751,DSSTox_Substance_Id,DTXSID90963751,"N,N-Diethyl-3-imino-8-methyl-3H-phenoxazin-7-amine--hydrogen chloride (1/1)",4712-70-3,N/A,N/A,N/A
+DTXSID90963771,DSSTox_Substance_Id,DTXSID90963771,"3-Hydroxy-4,5,6,7-tetrahydro-1H-isoindol-1-one",4720-86-9,N/A,N/A,N/A
+DTXSID90963817,DSSTox_Substance_Id,DTXSID90963817,"3-Phenyl-2,3-dihydro-4H-1-benzopyran-4-one",4737-27-3,N/A,N/A,N/A
+DTXSID90963832,DSSTox_Substance_Id,DTXSID90963832,[4-(Dimethylamino)phenyl]phosphonous acid,4741-19-9,N/A,N/A,N/A
+DTXSID90963872,DSSTox_Substance_Id,DTXSID90963872,"1-(1,1,2,3,3-Pentamethyl-2,3-dihydro-1H-inden-5-yl)ethan-1-one",4755-83-3,N/A,N/A,N/A
+DTXSID90963892,DSSTox_Substance_Id,DTXSID90963892,"5-[3-(1,3-Diethyl-4,6-dioxo-2-sulfanylidene-1,3-diazinan-5-ylidene)prop-1-en-1-yl]-1,3-diethyl-2-sulfanylidene-1,3-diazinane-4,6-dione",47623-98-3,N/A,N/A,N/A
+DTXSID90963897,DSSTox_Substance_Id,DTXSID90963897,"2-(2-Methoxy-4-{[(3-methyl-1,3-benzothiazol-2(3H)-ylidene)hydrazinylidene]methyl}phenoxy)ethyl 2-methylprop-2-enoate",47660-35-5,N/A,N/A,N/A
+DTXSID90963998,DSSTox_Substance_Id,DTXSID90963998,(-)-Noribogaine,481-88-9,N/A,N/A,N/A
+DTXSID90964006,DSSTox_Substance_Id,DTXSID90964006,Sodium 2-hydroxy-3-iodopropane-1-sulfonate,4812-15-1,N/A,N/A,N/A
+DTXSID90964127,DSSTox_Substance_Id,DTXSID90964127,1-Chloroanthracen-9(10H)-one,4887-98-3,N/A,N/A,N/A
+DTXSID90964203,DSSTox_Substance_Id,DTXSID90964203,Quinolizidine,493-10-7,N/A,N/A,N/A
+DTXSID90964344,DSSTox_Substance_Id,DTXSID90964344,"2-(Heptan-3-yl)-1,3-dioxan-5-ol",4969-00-0,N/A,N/A,N/A
+DTXSID90964445,DSSTox_Substance_Id,DTXSID90964445,Prorenoate potassium,49847-97-4,N/A,N/A,N/A
+DTXSID90964465,DSSTox_Substance_Id,DTXSID90964465,"3-Methylidenecyclopropane-1,2-dicarboxylic acid",499-02-5,N/A,N/A,N/A
+DTXSID90964485,DSSTox_Substance_Id,DTXSID90964485,"(Ethane-1,2-diyl)bis[(methylazanediyl)propane-3,1-diyl] bis(3,4,5-trimethoxybenzoate)--hydrogen chloride (1/2)",50-62-4,N/A,N/A,N/A
+DTXSID90964561,DSSTox_Substance_Id,DTXSID90964561,"6-(Thiophen-2-yl)-5,6-dihydroimidazo[2,1-b][1,3]thiazole",5029-05-0,N/A,N/A,N/A
+DTXSID90964602,DSSTox_Substance_Id,DTXSID90964602,"1,5-Dimethyl-4-[(3-methyl-2-phenylmorpholin-4-yl)methyl]-2-phenyl-1,2-dihydro-3H-pyrazol-3-one--hydrogen chloride (1/1)",50321-35-2,N/A,N/A,N/A
+DTXSID90964662,DSSTox_Substance_Id,DTXSID90964662,"1-(2,3-Di-O-benzoylpentofuranosyl)-4-hydroxypyrimidin-2(1H)-one",50408-20-3,N/A,N/A,N/A
+DTXSID90964960,DSSTox_Substance_Id,DTXSID90964960,2-(4-Nitrophenyl)propanenitrile,50712-63-5,N/A,N/A,N/A
+DTXSID90965018,DSSTox_Substance_Id,DTXSID90965018,"N-[5-({4-[2,4-Bis(2-methylbutan-2-yl)phenoxy]-1-hydroxybutylidene}amino)-2-chlorophenyl]-2-chloro-4,4-dimethyl-3-oxopentanimidic acid",50771-78-3,N/A,N/A,N/A
+DTXSID90965134,DSSTox_Substance_Id,DTXSID90965134,"17,20-Dihydroxy-3,11-dioxopregn-4-en-20-yl 3-cyclopentylpropanoate",509-00-2,N/A,N/A,N/A
+DTXSID90965159,DSSTox_Substance_Id,DTXSID90965159,"N,N'-(Ethane-1,2-diyl)dihexanimidic acid",50905-12-9,N/A,N/A,N/A
+DTXSID90965331,DSSTox_Substance_Id,DTXSID90965331,"1-(2-{[Hydroxy(diphenyl)acetyl]oxy}ethyl)-1,2,5-trimethylpyrrolidin-1-ium bromide",51047-24-6,N/A,N/A,N/A
+DTXSID90965391,DSSTox_Substance_Id,DTXSID90965391,"2-(4b-Fluoro-5-hydroxy-4a,6a,8,8-tetramethyl-2-oxo-2,4a,4b,5,6,6a,9a,10,10a,10b,11,12-dodecahydro-6bH,8H-naphtho[2',1':4,5]indeno[1,2-d][1,3]dioxol-6b-yl)-2-oxoethyl pentanoate",51112-52-8,N/A,N/A,N/A
+DTXSID90965396,DSSTox_Substance_Id,DTXSID90965396,N-Ethyl-3-methyl-2-(2-methylpropyl)pentanimidic acid,51115-78-7,N/A,N/A,N/A
+DTXSID90965412,DSSTox_Substance_Id,DTXSID90965412,3-Bromooctan-2-one,51134-60-2,N/A,N/A,N/A
+DTXSID90965417,DSSTox_Substance_Id,DTXSID90965417,Sodium 4-diazonio-3-oxidonaphthalene-1-sulfonate,5114-93-2,N/A,N/A,N/A
+DTXSID90965472,DSSTox_Substance_Id,DTXSID90965472,N-(1-Hydroxy-2-methylpropan-2-yl)-2-methyl-1-(propan-2-yl)cyclohexane-1-carboximidic acid,51200-96-5,N/A,N/A,N/A
+DTXSID90965477,DSSTox_Substance_Id,DTXSID90965477,1-[(Pyrrolidin-2-yl)methyl]pyrrolidine,51207-66-0,N/A,N/A,N/A
+DTXSID90965533,DSSTox_Substance_Id,DTXSID90965533,"2,4,4-Trimethylpentan-2-yl 2-ethyl-2-methylheptaneperoxoate",51240-95-0,N/A,N/A,N/A
+DTXSID90965573,DSSTox_Substance_Id,DTXSID90965573,"7-Chloro-4-hydroxy-2',6-dimethoxy-6'-methyl-3H-spiro[1-benzofuran-2,1'-cyclohex[2]ene]-3,4'-dione",5128-41-6,N/A,N/A,N/A
+DTXSID90965578,DSSTox_Substance_Id,DTXSID90965578,"3-(2,4,6-Tribromophenoxy)propane-1,2-diol",51286-98-7,N/A,N/A,N/A
+DTXSID90965654,DSSTox_Substance_Id,DTXSID90965654,3-(4-tert-Butylcyclohexyl)-2-methylpropanal,51367-70-5,N/A,N/A,N/A
+DTXSID90965730,DSSTox_Substance_Id,DTXSID90965730,4-(Dimethoxymethyl)-1-(4-methylpent-3-en-1-yl)cyclohex-1-ene,51414-21-2,N/A,N/A,N/A
+DTXSID90965735,DSSTox_Substance_Id,DTXSID90965735,"1-(2-Ethylhexyl)-2-hydroxy-4-methyl-6-oxo-1,6-dihydropyridine-3-carbonitrile",51418-88-3,N/A,N/A,N/A
+DTXSID90965836,DSSTox_Substance_Id,DTXSID90965836,Octahydro-1H-cyclopenta[b]pyridine,51501-54-3,N/A,N/A,N/A
+DTXSID90965891,DSSTox_Substance_Id,DTXSID90965891,"2H,10H-[1,3]Benzodioxolo[5,6-c][1,3]dioxolo[4,5-i]phenanthridine",5157-23-3,N/A,N/A,N/A
+DTXSID90965912,DSSTox_Substance_Id,DTXSID90965912,"2,3-Bis(acetyloxy)butanedioic acid",51591-38-9,N/A,N/A,N/A
+DTXSID90966181,DSSTox_Substance_Id,DTXSID90966181,Methyl (1-methylpyrrolidin-2-yl)acetate,51856-76-9,N/A,N/A,N/A
+DTXSID90966227,DSSTox_Substance_Id,DTXSID90966227,"Phenanthro[4,5-bcd]furan-1-ol",519-56-2,N/A,N/A,N/A
+DTXSID90966267,DSSTox_Substance_Id,DTXSID90966267,2-{4-[3-(Trifluoromethyl)phenyl]piperazin-1-yl}ethyl 2-aminobenzoate,51941-08-3,N/A,N/A,N/A
+DTXSID90966282,DSSTox_Substance_Id,DTXSID90966282,"5-Hydroxy-N,N-dipentyl-3,4-dihydro-2H-pyrrole-2-carboxamide",51959-88-7,N/A,N/A,N/A
+DTXSID90966303,DSSTox_Substance_Id,DTXSID90966303,"Ethyl 1-(1,1-dioxo-1lambda~6~-thiolan-3-yl)-5-oxo-2,5-dihydro-1H-pyrazole-3-carboxylate",51986-04-0,N/A,N/A,N/A
+DTXSID90966308,DSSTox_Substance_Id,DTXSID90966308,"N,N-Diethyl-3'-methyl-2,2'-spirobi[[1]benzopyran]-7-amine",51988-34-2,N/A,N/A,N/A
+DTXSID90966323,DSSTox_Substance_Id,DTXSID90966323,"6,9-Difluoro-11,17-dihydroxy-3,20-dioxopregna-1,4-dien-21-yl acetate",52-70-0,N/A,N/A,N/A
+DTXSID90966348,DSSTox_Substance_Id,DTXSID90966348,"Ethyl 8-ethyl-2-(methylsulfanyl)-5-oxo-5,6,7,8-tetrahydropyrido[2,3-d]pyrimidine-6-carboxylate",52013-82-8,N/A,N/A,N/A
+DTXSID90966363,DSSTox_Substance_Id,DTXSID90966363,"6-(Ethylimino)-1,6-dihydropyridin-3-amine",52025-39-5,N/A,N/A,N/A
+DTXSID90966484,DSSTox_Substance_Id,DTXSID90966484,3-Amino-2-methylbenzoate,52130-17-3,N/A,N/A,N/A
+DTXSID90966540,DSSTox_Substance_Id,DTXSID90966540,Ethyl 2-[4-(1-hydroxyethyl)phenoxy]-2-methylpropanoate,52179-08-5,N/A,N/A,N/A
+DTXSID90966641,DSSTox_Substance_Id,DTXSID90966641,12-(5-Hydroxy-6-methylpiperidin-2-yl)dodecan-2-one,5227-24-7,N/A,N/A,N/A
+DTXSID90966742,DSSTox_Substance_Id,DTXSID90966742,Methyl 3-(1H-imidazol-5-yl)prop-2-enoate,52363-40-3,N/A,N/A,N/A
+DTXSID90966808,DSSTox_Substance_Id,DTXSID90966808,Dauricine,524-17-4,N/A,N/A,N/A
+DTXSID90967017,DSSTox_Substance_Id,DTXSID90967017,"5-Ethyl-4,6-dihydroxy-5-(4-methylphenyl)pyrimidin-2(5H)-one",52584-39-1,N/A,N/A,N/A
+DTXSID90967032,DSSTox_Substance_Id,DTXSID90967032,"5-Amino-3-methyl-2,4-thiophenedicarbonitrile",52603-48-2,N/A,N/A,N/A
+DTXSID90967113,DSSTox_Substance_Id,DTXSID90967113,"2-(3-Methoxypropyl)-1,3,6-trioxo-1,2,3,6-tetrahydrobenzimidazo[2,1-b]benzo[lmn][3,8]phenanthroline-4-carbonitrile",52673-14-0,N/A,N/A,N/A
+DTXSID90967219,DSSTox_Substance_Id,DTXSID90967219,N-{[Decyl(dimethyl)azaniumyl]acetyl}-4-fluorobenzen-1-aminide--hydrogen chloride (1/1),52771-02-5,N/A,N/A,N/A
+DTXSID90967476,DSSTox_Substance_Id,DTXSID90967476,2-[Ethyl(methyl)amino]-1-phenylpropan-1-ol--hydrogen chloride (1/1),530-35-8,N/A,N/A,N/A
+DTXSID90967537,DSSTox_Substance_Id,DTXSID90967537,"1,3-Bis(3-{[{[(3,5-dimethyl-4-oxocyclohexa-2,5-dien-1-ylidene)amino]oxy}(hydroxy)methylidene]amino}-4-methylphenyl)-1,3-diazetidine-2,4-dione",53034-92-7,N/A,N/A,N/A
+DTXSID90967638,DSSTox_Substance_Id,DTXSID90967638,Methyl 2-hydroxy-3-methyl-4-oxocyclohex-2-ene-1-carboxylate,53103-58-5,N/A,N/A,N/A
+DTXSID90967678,DSSTox_Substance_Id,DTXSID90967678,"3,4,5-Trimethylhexan-1-ol",53151-79-4,N/A,N/A,N/A
+DTXSID90967936,DSSTox_Substance_Id,DTXSID90967936,"2,2-Dimethylpropane-1,3-diyl dibutanoate",5333-63-1,N/A,N/A,N/A
+DTXSID90968140,DSSTox_Substance_Id,DTXSID90968140,"Propan-2-yl 3,5,5-trimethylhexanoate",53451-16-4,N/A,N/A,N/A
+DTXSID90968241,DSSTox_Substance_Id,DTXSID90968241,Propan-2-yl 3-methyl-3-[4-(2-methylpropyl)phenyl]oxirane-2-carboxylate,53500-83-7,N/A,N/A,N/A
+DTXSID90968302,DSSTox_Substance_Id,DTXSID90968302,2-(4-{3-[6-Fluoro-2-(trifluoromethyl)-9H-thioxanthen-9-yl]propyl}piperazin-1-yl)ethan-1-ol--hydrogen chloride (1/2),53542-42-0,N/A,N/A,N/A
+DTXSID90968347,DSSTox_Substance_Id,DTXSID90968347,"4-Ethyl-2,3-dimethyl-2H-pyrrole-2,5-diol",53573-42-5,N/A,N/A,N/A
+DTXSID90968428,DSSTox_Substance_Id,DTXSID90968428,5-Hydroxy-2-propylpentanoic acid,53660-23-4,N/A,N/A,N/A
+DTXSID90968504,DSSTox_Substance_Id,DTXSID90968504,"16-(Acetyloxy)-3-[(2,6-dideoxyhexopyranosyl)oxy]-14-hydroxycard-20(22)-enolide",53735-71-0,N/A,N/A,N/A
+DTXSID90968589,DSSTox_Substance_Id,DTXSID90968589,2-{[(Oxiran-2-yl)methoxy]methyl}furan,5380-87-0,N/A,N/A,N/A
+DTXSID90968605,DSSTox_Substance_Id,DTXSID90968605,Bis(8-methylnonyl) but-2-enedioate,53817-61-1,N/A,N/A,N/A
+DTXSID90968620,DSSTox_Substance_Id,DTXSID90968620,"N-{2-[(2-Amino-1-hydroxyethylidene)amino]-1,3-dihydroxypropylidene}alanine",53843-93-9,N/A,N/A,N/A
+DTXSID90968640,DSSTox_Substance_Id,DTXSID90968640,"Ethyl 7-(acetylsulfanyl)-10,13-dimethyl-3,5'-dioxo-1,2,3,6,7,8,9,10,11,12,13,14,15,16-tetradecahydrospiro[cyclopenta[a]phenanthrene-17,2'-oxolane]-4'-carboxylate",53866-28-7,N/A,N/A,N/A
+DTXSID90968680,DSSTox_Substance_Id,DTXSID90968680,"4-Methyl-6-(2,6,6-trimethylcyclohex-1-en-1-yl)hexa-2,4-dienal",53892-69-6,N/A,N/A,N/A
+DTXSID90968685,DSSTox_Substance_Id,DTXSID90968685,"1,1'-Sulfanediyldi(propane-1-thiol)",53897-60-2,N/A,N/A,N/A
+DTXSID90968822,DSSTox_Substance_Id,DTXSID90968822,"1,1-Dimethyl-4-phenyl-piperazinium iodide",54-77-3,N/A,N/A,N/A
+DTXSID90968827,DSSTox_Substance_Id,DTXSID90968827,"1-Benzyl-1,3,5,7-tetraazatricyclo[3.3.1.1~3,7~]decan-1-ium chloride",5400-93-1,N/A,N/A,N/A
+DTXSID90968887,DSSTox_Substance_Id,DTXSID90968887,Methyl 3-sulfanylbutanoate,54051-19-3,N/A,N/A,N/A
+DTXSID90968903,DSSTox_Substance_Id,DTXSID90968903,"N,3-Dihydroxy-4-[(naphthalen-1-yl)oxy]butanimidamide",54063-51-3,N/A,N/A,N/A
+DTXSID90969132,DSSTox_Substance_Id,DTXSID90969132,4-{2-Hydroxy-3-[(propan-2-yl)amino]propoxy}-3-(prop-2-en-1-yl)phenol,54175-82-5,N/A,N/A,N/A
+DTXSID90969470,DSSTox_Substance_Id,DTXSID90969470,4-Phenylcyclohexan-1-ol,5437-46-7,N/A,N/A,N/A
+DTXSID90969475,DSSTox_Substance_Id,DTXSID90969475,8-{[Bis(carboxymethyl)amino]methyl}-4-methyl-2-oxo-2H-1-benzopyran-7-olate,54375-47-2,N/A,N/A,N/A
+DTXSID90969758,DSSTox_Substance_Id,DTXSID90969758,"2-Butyl-1,1'-biphenyl",54532-97-7,N/A,N/A,N/A
+DTXSID90969819,DSSTox_Substance_Id,DTXSID90969819,"6'-(Diethylamino)-2'-(dioctylamino)-3H-spiro[2-benzofuran-1,9'-xanthen]-3-one",54574-07-1,N/A,N/A,N/A
+DTXSID90969910,DSSTox_Substance_Id,DTXSID90969910,N-{2-[(Diphenylmethoxy)carbonyl]-3-methoxy-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-en-7-yl}-2-phenoxyethanimidic acid,54639-52-0,N/A,N/A,N/A
+DTXSID90970142,DSSTox_Substance_Id,DTXSID90970142,6-Oxochelidonine,548-10-7,N/A,N/A,N/A
+DTXSID90970147,DSSTox_Substance_Id,DTXSID90970147,"6-Amino-2-[2-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)ethenyl]-1-methylquinolin-1-ium chloride",548-84-5,N/A,N/A,N/A
+DTXSID90970243,DSSTox_Substance_Id,DTXSID90970243,"Sulfuric acid--4,6-diamino-2-{[hexopyranosyl-(1->4)-2,6-diamino-2,6-dideoxyhexopyranosyl-(1->3)pentofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2,3-dideoxyhexopyranoside (1/1)",54911-32-9,N/A,N/A,N/A
+DTXSID90970263,DSSTox_Substance_Id,DTXSID90970263,"2,7-Dihydroxy-6-(2-hydroxy-6-imino-3,6-dihydropyridin-3-yl)tetrahydro-2H,4H-2lambda~5~-furo[3,2-d][1,3,2]dioxaphosphinin-2-one",54925-33-6,N/A,N/A,N/A
+DTXSID90970384,DSSTox_Substance_Id,DTXSID90970384,"1-Acetyl-5-[2-(methylsulfanyl)ethyl]-3-phenylimidazolidine-2,4-dionato",55021-63-1,N/A,N/A,N/A
+DTXSID90970445,DSSTox_Substance_Id,DTXSID90970445,Sterculic acid,738-87-4,N/A,N/A,N/A
+DTXSID90970480,DSSTox_Substance_Id,DTXSID90970480,"6-(7-Chloro-1,8-naphthyridin-2-yl)-7-hydroxy-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-one",55112-92-0,N/A,N/A,N/A
+DTXSID90970829,DSSTox_Substance_Id,DTXSID90970829,"(5-Hydroxy-2,2-dimethylpyrrolidin-1-yl)oxidanyl",55482-03-6,N/A,N/A,N/A
+DTXSID90970849,DSSTox_Substance_Id,DTXSID90970849,Cyclohexyl(thiophen-3-yl)acetonitrile,55504-22-8,N/A,N/A,N/A
+DTXSID90970905,DSSTox_Substance_Id,DTXSID90970905,3-Oxoestr-4-en-17-yl hexadecanoate,55566-45-5,N/A,N/A,N/A
+DTXSID90971114,DSSTox_Substance_Id,DTXSID90971114,"3a,7a-Dichloro-2-(dichloromethylidene)-3a,4,7,7a-tetrahydro-1H-4,7-methanoindene-1,3(2H)-dione",55739-78-1,N/A,N/A,N/A
+DTXSID90971199,DSSTox_Substance_Id,DTXSID90971199,1-(2-Deoxypentofuranosyl)-4-sulfanylpyrimidin-2(1H)-one,5580-20-1,N/A,N/A,N/A
+DTXSID90971210,DSSTox_Substance_Id,DTXSID90971210,"3,4-Dideoxyhexitol",5581-21-5,N/A,N/A,N/A
+DTXSID90971513,DSSTox_Substance_Id,DTXSID90971513,"(3-Bromo-7,7-dimethyl-2-oxobicyclo[2.2.1]heptan-1-yl)methanesulfonic acid--ammonia (1/1)",56144-54-8,N/A,N/A,N/A
+DTXSID90971538,DSSTox_Substance_Id,DTXSID90971538,"N-(2-Amino-1,3-dihydroxybutylidene)valine",5616-75-1,N/A,N/A,N/A
+DTXSID90971598,DSSTox_Substance_Id,DTXSID90971598,"2,2,6-Trichloro-7-oxabicyclo[4.1.0]heptane-1-carbonitrile",56207-43-3,N/A,N/A,N/A
+DTXSID90971795,DSSTox_Substance_Id,DTXSID90971795,"2-Ethyl-N,N-di(prop-2-yn-1-yl)aniline",5636-56-6,N/A,N/A,N/A
+DTXSID90972126,DSSTox_Substance_Id,DTXSID90972126,"3,8,9-Trihydroxy-7-(10-hydroxy-7,9-dimethoxy-1,3-dimethyl-3,4-dihydro-1H-naphtho[2,3-c]pyran-5-yl)-3-methyl-3,4-dihydroanthracen-1(2H)-one",56678-09-2,N/A,N/A,N/A
+DTXSID90972207,DSSTox_Substance_Id,DTXSID90972207,"(1,2,3-Tribromopropyl)benzene",56762-23-3,N/A,N/A,N/A
+DTXSID90972247,DSSTox_Substance_Id,DTXSID90972247,"1,6-Dimethylphenanthro[1,2-b]furan-10,11-dione",568-73-0,N/A,N/A,N/A
+DTXSID90972368,DSSTox_Substance_Id,DTXSID90972368,"2,3-Dihydroxy-2-phenylpropanoic acid",5693-97-0,N/A,N/A,N/A
+DTXSID90972520,DSSTox_Substance_Id,DTXSID90972520,1-(4-Nitrophenyl)-2-[(propan-2-yl)amino]ethan-1-ol--hydrogen chloride (1/1),5704-60-9,N/A,N/A,N/A
+DTXSID90972580,DSSTox_Substance_Id,DTXSID90972580,8-(2-Octylcyclopropyl)octanoic acid,5711-28-4,N/A,N/A,N/A
+DTXSID90972606,DSSTox_Substance_Id,DTXSID90972606,Methyl cysteinate--hydrogen chloride (1/1),5714-80-7,N/A,N/A,N/A
+DTXSID90972747,DSSTox_Substance_Id,DTXSID90972747,Piperidin-3-yl hydroxy(diphenyl)acetate,57258-61-4,N/A,N/A,N/A
+DTXSID90972823,DSSTox_Substance_Id,DTXSID90972823,"(2-Ethyl-3-oxo-2-phenyl-2,3-dihydro-1H-indol-1-yl)oxidanyl",57309-28-1,N/A,N/A,N/A
+DTXSID90972904,DSSTox_Substance_Id,DTXSID90972904,11-Methyldodecyl sulfanylacetate,57417-85-3,N/A,N/A,N/A
+DTXSID90972924,DSSTox_Substance_Id,DTXSID90972924,"N-(2,5-Dihydroxy-4H-imidazol-4-yl)carbamimidic acid--hex-1-enofuranos-3-ulose (1/1)",57448-83-6,N/A,N/A,N/A
+DTXSID90973153,DSSTox_Substance_Id,DTXSID90973153,"3,6,9-Trimethylidene-2-oxododecahydroazuleno[4,5-b]furan-8-yl hexopyranoside",57576-33-7,N/A,N/A,N/A
+DTXSID90973274,DSSTox_Substance_Id,DTXSID90973274,2-Phosphonobutanedioic acid,5768-48-9,N/A,N/A,N/A
+DTXSID90973294,DSSTox_Substance_Id,DTXSID90973294,"1,2-Anthracenediol",577-95-7,N/A,N/A,N/A
+DTXSID90973335,DSSTox_Substance_Id,DTXSID90973335,Diethyl (benzyloxy)(methyl)propanedioate,5774-69-6,N/A,N/A,N/A
+DTXSID90973355,DSSTox_Substance_Id,DTXSID90973355,"7-Chloro-5-(2-chlorophenyl)-2-hydroxy-3H-1,4-benzodiazepin-3-yl 2,2-dimethylpropanoate",57773-81-6,N/A,N/A,N/A
+DTXSID90973436,DSSTox_Substance_Id,DTXSID90973436,N~2~-[tert-Butoxy(hydroxy)methylidene]-N~6~-{hydroxy[2-(methanesulfonyl)ethoxy]methylidene}lysine,57849-64-6,N/A,N/A,N/A
+DTXSID90973451,DSSTox_Substance_Id,DTXSID90973451,"N-(4-{[2-(4-Hydroxy-2-imino-1,2,5,6,7,8-hexahydropteridin-6-yl)ethyl]amino}benzoyl)glutamic acid",5786-82-3,N/A,N/A,N/A
+DTXSID90973618,DSSTox_Substance_Id,DTXSID90973618,"Sodium 4-nitro-2,3-dihydroimidazol-1-ide",58031-81-5,N/A,N/A,N/A
+DTXSID90973673,DSSTox_Substance_Id,DTXSID90973673,2-Hydroxybut-3-enenitrile,5809-59-6,N/A,N/A,N/A
+DTXSID90973714,DSSTox_Substance_Id,DTXSID90973714,3-[Benzyl(methyl)amino]propan-1-ol,5814-42-6,N/A,N/A,N/A
+DTXSID90973779,DSSTox_Substance_Id,DTXSID90973779,"3-Hydroxyestra-1(10),2,4,6-tetraen-17-yl acetate",58212-86-5,N/A,N/A,N/A
+DTXSID90973850,DSSTox_Substance_Id,DTXSID90973850,1-[(Furan-2-yl)methoxy]propan-2-ol,5831-60-7,N/A,N/A,N/A
+DTXSID90973855,DSSTox_Substance_Id,DTXSID90973855,"Phenyl(tricyclo[2.2.1.0~2,6~]heptan-3-yl)methanone",58313-69-2,N/A,N/A,N/A
+DTXSID90973956,DSSTox_Substance_Id,DTXSID90973956,"2-Hydroxy-4-[2-(methylsulfanyl)ethyl]-1,3-oxazol-5(4H)-one",5840-77-7,N/A,N/A,N/A
+DTXSID90974064,DSSTox_Substance_Id,DTXSID90974064,5-(2-Hydroxypropan-2-yl)-2-methylcyclohexan-1-ol,58506-23-3,N/A,N/A,N/A
+DTXSID90974125,DSSTox_Substance_Id,DTXSID90974125,N-[2-({2-[(2-{[2-Amino-1-hydroxy-3-(4-hydroxyphenyl)propylidene]amino}-1-hydroxyethylidene)amino]-1-hydroxyethylidene}amino)-1-hydroxy-3-phenylpropylidene]methionine,58569-55-4,N/A,N/A,N/A
+DTXSID90974307,DSSTox_Substance_Id,DTXSID90974307,6-Methylergoline-8-carboxylic acid,5878-43-3,N/A,N/A,N/A
+DTXSID90974443,DSSTox_Substance_Id,DTXSID90974443,"2,2'-Oxybis[5,5-bis(bromomethyl)-1,3,2lambda~5~-dioxaphosphinan-2-one]",58948-14-4,N/A,N/A,N/A
+DTXSID90974463,DSSTox_Substance_Id,DTXSID90974463,"N-Benzyl-N,N-dimethyloctan-1-aminium bromide",58965-50-7,N/A,N/A,N/A
+DTXSID90974504,DSSTox_Substance_Id,DTXSID90974504,"2-Chloro-6,9-difluoro-11-hydroxy-3,20-dioxopregna-1,4-diene-17,21-diyl diacetate",59047-08-4,N/A,N/A,N/A
+DTXSID90974509,DSSTox_Substance_Id,DTXSID90974509,"5,5,11,11-Tetramethyltetracyclo[6.2.1.0~1,6~.0~6,10~]undecane-2-carbaldehyde",59056-66-5,N/A,N/A,N/A
+DTXSID90974706,DSSTox_Substance_Id,DTXSID90974706,"8,8-Dimethyl-2-oxo-7,8-dihydro-2H,6H-benzo[1,2-b:5,4-b']dipyran-7-yl 3-methylbut-2-enoate",5928-25-6,N/A,N/A,N/A
+DTXSID90974761,DSSTox_Substance_Id,DTXSID90974761,"4,5-Diamino-2-methoxybenzoic acid",59338-91-9,N/A,N/A,N/A
+DTXSID90974903,DSSTox_Substance_Id,DTXSID90974903,"3-[(6-Deoxy-3-O-methylhexopyranosyl)oxy]-14,16-dihydroxycard-20(22)-enolide",595-21-1,N/A,N/A,N/A
+DTXSID90975152,DSSTox_Substance_Id,DTXSID90975152,6-Methyl-4-(4-methylpent-3-en-1-yl)cyclohex-3-ene-1-carbaldehyde,59742-20-0,N/A,N/A,N/A
+DTXSID90975157,DSSTox_Substance_Id,DTXSID90975157,"10-Methoxy-4-(1-methylpiperidin-4-yl)-4H-benzo[4,5]cyclohepta[1,2-b]thiophene-4-ol",59743-88-3,N/A,N/A,N/A
+DTXSID90975238,DSSTox_Substance_Id,DTXSID90975238,"1-[6-{2-Hydroxy-3-[(propan-2-yl)amino]propoxy}-7-methoxy-3,4-dihydroisoquinolin-2(1H)-yl]ethan-1-one",59839-39-3,N/A,N/A,N/A
+DTXSID90975278,DSSTox_Substance_Id,DTXSID90975278,"Disodium 2-methyl-4-(phosphonooxy)-3-(3,7,11,15-tetramethylhexadecyl)naphthalen-1-yl phosphate",5988-22-7,N/A,N/A,N/A
+DTXSID90975359,DSSTox_Substance_Id,DTXSID90975359,"Tetracosane-8,17-diamine",59936-53-7,N/A,N/A,N/A
+DTXSID90975435,DSSTox_Substance_Id,DTXSID90975435,2-(2-Chloroethyl)piperidine--hydrogen chloride (1/1),60012-49-9,N/A,N/A,N/A
+DTXSID90975551,DSSTox_Substance_Id,DTXSID90975551,"7-Hydroxy-2',3',5',6'-tetramethyl-2H-spiro[acridine-9,1'-cyclohepta[2,5]diene]-2,4'-dione",60120-71-0,N/A,N/A,N/A
+DTXSID90975571,DSSTox_Substance_Id,DTXSID90975571,Ethyl 6-(2-hydroxycyclopentyl)hexanoate,60145-67-7,N/A,N/A,N/A
+DTXSID90975637,DSSTox_Substance_Id,DTXSID90975637,3-[(6-Deoxy-4-O-hexopyranosyl-3-O-methylhexopyranosyl)oxy]-16-(formyloxy)-14-hydroxycard-20(22)-enolide,6022-99-7,N/A,N/A,N/A
+DTXSID90975692,DSSTox_Substance_Id,DTXSID90975692,"1-Methyl-2,3,4,9-tetrahydro-7H-pyrido[3,4-b]indol-7-one",6028-00-8,N/A,N/A,N/A
+DTXSID90975834,DSSTox_Substance_Id,DTXSID90975834,"1-Methyl-2-[3-(3-methyl-1,3-benzothiazol-2(3H)-ylidene)prop-1-en-1-yl]quinolin-1-ium iodide",60435-31-6,N/A,N/A,N/A
+DTXSID90975874,DSSTox_Substance_Id,DTXSID90975874,Bis[(oxiran-2-yl)methyl] propanedioate,60468-48-6,N/A,N/A,N/A
+DTXSID90975915,DSSTox_Substance_Id,DTXSID90975915,N-(5-Carbamimidamido-1-oxopentan-2-yl)-1-phenylalanylpyrrolidine-2-carboximidic acid,60503-05-1,N/A,N/A,N/A
+DTXSID90975930,DSSTox_Substance_Id,DTXSID90975930,"4,4'-(2,3-Diethyloxirane-2,3-diyl)diphenol",6052-82-0,N/A,N/A,N/A
+DTXSID90975950,DSSTox_Substance_Id,DTXSID90975950,"3-{[Hydroxy(phenyl)acetyl]oxy}-8,8-dimethyl-8-azabicyclo[3.2.1]octan-8-ium nitrate",60539-03-9,N/A,N/A,N/A
+DTXSID90976043,DSSTox_Substance_Id,DTXSID90976043,3-{[(2-Aminoethoxy)(hydroxy)phosphoryl]oxy}-2-(hexanoyloxy)propyl hexanoate,6060-30-6,N/A,N/A,N/A
+DTXSID90976048,DSSTox_Substance_Id,DTXSID90976048,2-Methylbutyl 2-methylprop-2-enoate,60608-94-8,N/A,N/A,N/A
+DTXSID90976088,DSSTox_Substance_Id,DTXSID90976088,"3,3'-(Octadecylazanediyl)di(propane-1,2-diol)",60659-43-0,N/A,N/A,N/A
+DTXSID90976149,DSSTox_Substance_Id,DTXSID90976149,10-[(1-Methylpiperidin-2-yl)methyl]-10H-phenothiazine,60706-52-7,N/A,N/A,N/A
+DTXSID90976245,DSSTox_Substance_Id,DTXSID90976245,"N-(3-Methylidene-2-{[(4-nitrophenyl)methoxy]carbonyl}-5,8-dioxo-5lambda~4~-thia-1-azabicyclo[4.2.0]octan-7-yl)-2-phenoxyethanimidic acid",60771-27-9,N/A,N/A,N/A
+DTXSID90976260,DSSTox_Substance_Id,DTXSID90976260,"3,7-Dimethyloctyl ethyl ethanedioate",60788-24-1,N/A,N/A,N/A
+DTXSID90976306,DSSTox_Substance_Id,DTXSID90976306,"2,4-Di(propan-2-yl)-5,6,7,8-tetrahydronaphthalen-1-ol",60834-81-3,N/A,N/A,N/A
+DTXSID90976341,DSSTox_Substance_Id,DTXSID90976341,"2-Bromo-6-fluoro-17-hydroxy-3,20-dioxopregna-1,4,9(11)-trien-21-yl acetate",60864-66-6,N/A,N/A,N/A
+DTXSID90976361,DSSTox_Substance_Id,DTXSID90976361,"(3beta,17beta)-17-Methyl-androst-5-ene-3,17-diol 3-propanoate",60883-73-0,N/A,N/A,N/A
+DTXSID90976462,DSSTox_Substance_Id,DTXSID90976462,"1-tert-Butyl-2-methoxy-3,5-dinitrobenzene",6099-80-5,N/A,N/A,N/A
+DTXSID90976780,DSSTox_Substance_Id,DTXSID90976780,3-[(2-Methylfuran-3-yl)sulfanyl]butan-2-one,61295-44-1,N/A,N/A,N/A
+DTXSID90976846,DSSTox_Substance_Id,DTXSID90976846,"17-Bromo-9-fluoro-11-hydroxy-16-methyl-3,20-dioxopregna-1,4-dien-21-yl acetate",61339-35-3,N/A,N/A,N/A
+DTXSID90976962,DSSTox_Substance_Id,DTXSID90976962,Tributyl[(4-nitrophenyl)methyl]phosphanium bromide,6140-98-3,N/A,N/A,N/A
+DTXSID90977010,DSSTox_Substance_Id,DTXSID90977010,2-[(4-Aminophenyl)methyl]butanedioic acid,61445-53-2,N/A,N/A,N/A
+DTXSID90977176,DSSTox_Substance_Id,DTXSID90977176,"2,4-Dimethyl-4,5-dihydro-1,3-oxazole",6159-23-5,N/A,N/A,N/A
+DTXSID90977217,DSSTox_Substance_Id,DTXSID90977217,"6,9-Difluoro-11-hydroxy-16-methyl-3,20-dioxopregna-1,4-dien-21-yl hexanoate",61618-92-6,N/A,N/A,N/A
+DTXSID90977297,DSSTox_Substance_Id,DTXSID90977297,Ethyl N'-butyl-N-(4-methylbenzene-1-sulfonyl)carbamimidate,6171-02-4,N/A,N/A,N/A
+DTXSID90977378,DSSTox_Substance_Id,DTXSID90977378,(Dibromomethyl)benzene,618-31-5,N/A,N/A,N/A
+DTXSID90977459,DSSTox_Substance_Id,DTXSID90977459,"1-{2-[Diethyl(methyl)azaniumyl]ethyl}-5-ethyl-2,6-dioxo-5-phenyl-1,2,5,6-tetrahydropyrimidin-4-olate--hydrogen iodide (1/1)",6191-48-6,N/A,N/A,N/A
+DTXSID90977479,DSSTox_Substance_Id,DTXSID90977479,"2,3,4,5-Tetrabromopyranthrene-8,16-dione",61931-61-1,N/A,N/A,N/A
+DTXSID90977590,DSSTox_Substance_Id,DTXSID90977590,1-Methylpiperidin-3-yl 2-methylprop-2-enoate,62037-83-6,N/A,N/A,N/A
+DTXSID90977696,DSSTox_Substance_Id,DTXSID90977696,3-(2-Aminoethyl)-6-fluoro-1H-indol-5-ol,62105-96-8,N/A,N/A,N/A
+DTXSID90977813,DSSTox_Substance_Id,DTXSID90977813,"2-(4-{[(Hydroxy{4-methyl-2-[4-(trifluoromethyl)phenyl]-1,3-thiazol-5-yl}methylidene)amino]methyl}phenoxy)-2-methylpropanoic acid",343321-96-0,N/A,N/A,N/A
+DTXSID90977833,DSSTox_Substance_Id,DTXSID90977833,"6-Bromo-1,3-benzothiazol-2-ol",62266-82-4,N/A,N/A,N/A
+DTXSID90977873,DSSTox_Substance_Id,DTXSID90977873,Cyanoalanine,6232-19-5,N/A,N/A,N/A
+DTXSID90978183,DSSTox_Substance_Id,DTXSID90978183,"(4-Methyl-1,3-phenylene)dimethanimidic acid",6262-23-3,N/A,N/A,N/A
+DTXSID90978446,DSSTox_Substance_Id,DTXSID90978446,"1-(3-Chloropropyl)-3-(prop-1-en-2-yl)-1,3-dihydro-2H-benzimidazol-2-one",62780-84-1,N/A,N/A,N/A
+DTXSID90978461,DSSTox_Substance_Id,DTXSID90978461,Heptane-2-thiol,628-00-2,N/A,N/A,N/A
+DTXSID90978825,DSSTox_Substance_Id,DTXSID90978825,Turofexorate isopropyl,629664-81-9,N/A,N/A,N/A
+DTXSID90979155,DSSTox_Substance_Id,DTXSID90979155,Sodium 2-(2-octylphenoxy)ethyl sulfate,63175-99-5,N/A,N/A,N/A
+DTXSID90979271,DSSTox_Substance_Id,DTXSID90979271,Pyrrolidin-1-amine--hydrogen chloride (1/1),63234-71-9,N/A,N/A,N/A
+DTXSID90979317,DSSTox_Substance_Id,DTXSID90979317,N-(4-Chlorophenyl)-1-(propan-2-yl)piperidin-4-amine,63260-78-6,N/A,N/A,N/A
+DTXSID90979498,DSSTox_Substance_Id,DTXSID90979498,2-(2-{2-[2-(2-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethyl hydrogen sulfate--ammonia (1/1),63351-73-5,N/A,N/A,N/A
+DTXSID90979675,DSSTox_Substance_Id,DTXSID90979675,4-Hexyloxolan-2-one,63450-32-8,N/A,N/A,N/A
+DTXSID90979690,DSSTox_Substance_Id,DTXSID90979690,3-Sulfanylheptan-4-one,63458-78-6,N/A,N/A,N/A
+DTXSID90979796,DSSTox_Substance_Id,DTXSID90979796,1-(4-Methylcyclohexyl)ethyl acetate,63573-88-6,N/A,N/A,N/A
+DTXSID90980483,DSSTox_Substance_Id,DTXSID90980483,"N-{[(3-{[Hydroxy(phenyl)methylidene]amino}phenyl)imino](sulfanyl)methyl}-3,4,5-trimethoxybenzene-1-carboximidic acid",6384-24-3,N/A,N/A,N/A
+DTXSID90980640,DSSTox_Substance_Id,DTXSID90980640,5-Amino-3-chloro-2-methylbenzene-1-sulfonic acid,6387-22-0,N/A,N/A,N/A
+DTXSID90980781,DSSTox_Substance_Id,DTXSID90980781,N-[Cyclohexyl(dimethylamino)methyl]benzenecarboximidic acid,63886-94-2,N/A,N/A,N/A
+DTXSID90981172,DSSTox_Substance_Id,DTXSID90981172,"2,5-Dihydroxy-5-methyl-3-[(morpholin-4-yl)amino]cyclopent-2-en-1-one",63937-28-0,N/A,N/A,N/A
+DTXSID90981379,DSSTox_Substance_Id,DTXSID90981379,"2-Chloro-N-[4-(2-fluorobenzoyl)-1,3-dimethyl-1H-pyrazol-5-yl]-N-methylacetamide",63960-71-4,N/A,N/A,N/A
+DTXSID9098141,DSSTox_Substance_Id,DTXSID9098141,"Methanol, 1,1',1'',1''',1'''',1'''''-(1,3,5-triazine-2,4,6-triyltrinitrilo)hexakis-, Me stearyl ethers",68412-27-1,N/A,N/A,N/A
+DTXSID90981773,DSSTox_Substance_Id,DTXSID90981773,"[2,4-Di(pentan-2-yl)phenoxy]acetyl chloride",63990-57-8,N/A,N/A,N/A
+DTXSID90981910,DSSTox_Substance_Id,DTXSID90981910,"17-Hydroxy-3,20-dioxopregn-4-en-21-yl acetate",640-87-9,N/A,N/A,N/A
+DTXSID90982583,DSSTox_Substance_Id,DTXSID90982583,"2,5-Diamino-4-methoxybenzene-1-sulfonic acid",6409-55-8,N/A,N/A,N/A
+DTXSID90982609,DSSTox_Substance_Id,DTXSID90982609,"2,3,4,6-Tetranitrophenol",641-16-7,N/A,N/A,N/A
+DTXSID90982760,DSSTox_Substance_Id,DTXSID90982760,N-[Hydroxy(pyrrolidin-2-yl)methylidene]alanine,6422-36-2,N/A,N/A,N/A
+DTXSID90982801,DSSTox_Substance_Id,DTXSID90982801,C.I. Direct Brown 58,6426-59-1,N/A,N/A,N/A
+DTXSID90982861,DSSTox_Substance_Id,DTXSID90982861,"6-(Dipropylamino)-5,6,7,8-tetrahydronaphthalene-1,2-diol",64309-39-3,N/A,N/A,N/A
+DTXSID90982987,DSSTox_Substance_Id,DTXSID90982987,7-(Trifluoromethyl)quinoline-4(1H)-thione,64415-07-2,N/A,N/A,N/A
+DTXSID90983015,DSSTox_Substance_Id,DTXSID90983015,(Oxiran-2-yl)methyl 3-[(oxiran-2-yl)methoxy]propanoate,64445-72-3,N/A,N/A,N/A
+DTXSID90983050,DSSTox_Substance_Id,DTXSID90983050,C.I. Direct Red 22,6448-80-2,N/A,N/A,N/A
+DTXSID90983156,DSSTox_Substance_Id,DTXSID90983156,N-[3-(Diethylamino)propyl]-2-methylpropanimidamide,64527-57-7,N/A,N/A,N/A
+DTXSID90983272,DSSTox_Substance_Id,DTXSID90983272,"3-Ethenyl-5,6,10,10b-tetrahydroxy-3,4a,7,7,10a-pentamethyldodecahydro-1H-naphtho[2,1-b]pyran-1-one",64657-20-1,N/A,N/A,N/A
+DTXSID90983313,DSSTox_Substance_Id,DTXSID90983313,N-Octylpyridin-4(1H)-imine,64690-19-3,N/A,N/A,N/A
+DTXSID90983338,DSSTox_Substance_Id,DTXSID90983338,"N,N'-(9,10-Dioxo-9,10-dihydroanthracene-2,6-diyl)dibenzenecarboximidic acid",6470-90-2,N/A,N/A,N/A
+DTXSID90983353,DSSTox_Substance_Id,DTXSID90983353,Sodium 2-[(undec-10-enoyl)oxy]ethane-1-sulfonate,64716-81-0,N/A,N/A,N/A
+DTXSID90983373,DSSTox_Substance_Id,DTXSID90983373,3-(4-Methylcyclohex-3-en-1-yl)butanoic acid,64740-38-1,N/A,N/A,N/A
+DTXSID90983439,DSSTox_Substance_Id,DTXSID90983439,Tri(propan-2-yl)silane,6485-79-6,N/A,N/A,N/A
+DTXSID90983570,DSSTox_Substance_Id,DTXSID90983570,"3,3,4-Trimethyl-2,3-dihydro-1H-inden-5-ol",65021-24-1,N/A,N/A,N/A
+DTXSID90983636,DSSTox_Substance_Id,DTXSID90983636,"Diphenyl [carbonylbis(azanediyl-4,1-phenylenemethylene-4,1-phenylene)]biscarbamate",65086-89-7,N/A,N/A,N/A
+DTXSID90983757,DSSTox_Substance_Id,DTXSID90983757,2-(2-Chloroethanesulfonyl)-N-[2-(2-chloroethanesulfonyl)ethyl]ethan-1-amine--hydrogen chloride (1/1),65180-91-8,N/A,N/A,N/A
+DTXSID90983994,DSSTox_Substance_Id,DTXSID90983994,N-Icosylprop-2-enimidic acid,65379-34-2,N/A,N/A,N/A
+DTXSID90983999,DSSTox_Substance_Id,DTXSID90983999,3-Ethoxy-4-methoxyphenol,65383-57-5,N/A,N/A,N/A
+DTXSID90984047,DSSTox_Substance_Id,DTXSID90984047,(4-Ethyl-5-oxooxolan-3-yl)acetic acid,6544-33-8,N/A,N/A,N/A
+DTXSID90984067,DSSTox_Substance_Id,DTXSID90984067,2-Hydroxy-3-(hydroxymethyl)-5-methylbenzaldehyde,65448-72-8,N/A,N/A,N/A
+DTXSID90984103,DSSTox_Substance_Id,DTXSID90984103,"6-Methyl-3-[(5-phenylpentan-2-yl)oxy]-5,6,6a,7,8,9,10,10a-octahydrophenanthridine-1,9-diol",65511-54-8,N/A,N/A,N/A
+DTXSID90984128,DSSTox_Substance_Id,DTXSID90984128,Butan-2-yl cyclohexanecarboxylate,6553-82-8,N/A,N/A,N/A
+DTXSID90984163,DSSTox_Substance_Id,DTXSID90984163,"{(Propane-2,2-diyl)bis[(2-bromo-4,1-phenylene)oxy]ethane-2,1-diyl} bis[2-(aziridin-1-yl)butanoate]",65581-12-6,N/A,N/A,N/A
+DTXSID90984168,DSSTox_Substance_Id,DTXSID90984168,N-(2-Aminoethyl)-N-(2-hydroxyethyl)tetradecanamide,65588-70-7,N/A,N/A,N/A
+DTXSID90984224,DSSTox_Substance_Id,DTXSID90984224,Cyclododecyl carbonochloridate,65676-18-8,N/A,N/A,N/A
+DTXSID90984249,DSSTox_Substance_Id,DTXSID90984249,Diethyl 2-aminononanedioate,65705-50-2,N/A,N/A,N/A
+DTXSID90984305,DSSTox_Substance_Id,DTXSID90984305,2-Methoxyoxane,6581-66-4,N/A,N/A,N/A
+DTXSID90984380,DSSTox_Substance_Id,DTXSID90984380,"Ethyl 4-butoxy-5-fluoro-2,6-dihydroxy-4,5-dihydropyrimidine-5-carboxylate",65906-75-4,N/A,N/A,N/A
+DTXSID90984481,DSSTox_Substance_Id,DTXSID90984481,"(2-Chloro[1,1'-biphenyl]-4-yl)(phenyl)methanol",66016-77-1,N/A,N/A,N/A
+DTXSID90984486,DSSTox_Substance_Id,DTXSID90984486,"N,N-Dimethyl-2-{2-[2-methyl-4,6-bis(2-methylpropyl)phenoxy]ethoxy}ethan-1-amine",66027-97-2,N/A,N/A,N/A
+DTXSID90984603,DSSTox_Substance_Id,DTXSID90984603,"3-O-[1-({1-[(4-Carboxy-1-hydroxy-1-iminobutan-2-yl)imino]-1,3-dihydroxybutan-2-yl}imino)-1-hydroxypropan-2-yl]-2-deoxy-2-[(1-hydroxyethylidene)amino]hexopyranose",66112-59-2,N/A,N/A,N/A
+DTXSID90984663,DSSTox_Substance_Id,DTXSID90984663,"26-(2,6-Dinonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol",66172-85-8,N/A,N/A,N/A
+DTXSID90984668,DSSTox_Substance_Id,DTXSID90984668,"5-Methyl-3,8-dinitro-6-phenylphenanthridin-5-ium bromide",66180-22-1,N/A,N/A,N/A
+DTXSID90984688,DSSTox_Substance_Id,DTXSID90984688,"N-(2-Amino-1,3-dihydroxypropylidene)serine",6620-95-7,N/A,N/A,N/A
+DTXSID90984724,DSSTox_Substance_Id,DTXSID90984724,1-Butoxy-4-(4-pentylcyclohexyl)benzene,66227-21-2,N/A,N/A,N/A
+DTXSID90984789,DSSTox_Substance_Id,DTXSID90984789,1-[4-Hydroxy-3-(methylsulfanyl)phenyl]ethan-1-one,66264-56-0,N/A,N/A,N/A
+DTXSID90984966,DSSTox_Substance_Id,DTXSID90984966,"2-[(6-Hydroxy-2-imino-2,3-dihydro-9H-purin-9-yl)methoxy]ethyl dihydrogen phosphate",66341-16-0,N/A,N/A,N/A
+DTXSID90985110,DSSTox_Substance_Id,DTXSID90985110,"2,7-Dimethyloct-6-en-4-one",66471-49-6,N/A,N/A,N/A
+DTXSID90985190,DSSTox_Substance_Id,DTXSID90985190,Methyl 3-sulfanylpropanimidate,66592-92-5,N/A,N/A,N/A
+DTXSID90985236,DSSTox_Substance_Id,DTXSID90985236,{2-[(1-Hydroxyhexadecylidene)amino]ethoxy}acetic acid,66654-00-0,N/A,N/A,N/A
+DTXSID90985271,DSSTox_Substance_Id,DTXSID90985271,Proteinase inhibitor E 64,66701-25-5,N/A,N/A,N/A
+DTXSID90985352,DSSTox_Substance_Id,DTXSID90985352,"Methyl 2-ethyl-2,5,7-trihydroxy-6,11-dioxo-4-({2,3,6-trideoxy-4-O-[2,6-dideoxy-4-O-(6-methyl-5-oxo-5,6-dihydro-2H-pyran-2-yl)hexopyranosyl]-3-(dimethylamino)hexopyranosyl}oxy)-1,2,3,4,6,11-hexahydrotetracene-1-carboxylate",66789-14-8,N/A,N/A,N/A
+DTXSID90985357,DSSTox_Substance_Id,DTXSID90985357,"3,4,4-Trimethylhexan-1-ol",66793-73-5,N/A,N/A,N/A
+DTXSID90985791,DSSTox_Substance_Id,DTXSID90985791,"11-Amino-3-chloro-6-methyl-6,11-dihydro-5H-5lambda~6~-dibenzo[c,f][1,2]thiazepine-5,5-dione",66981-75-7,N/A,N/A,N/A
+DTXSID90986187,DSSTox_Substance_Id,DTXSID90986187,"4-{1-Hydroxy-2-[(1-phenoxypropan-2-yl)amino]propyl}phenyl 2,2-dimethylpropanoate",67160-74-1,N/A,N/A,N/A
+DTXSID90986460,DSSTox_Substance_Id,DTXSID90986460,2-Chloro-3-oxobutanimidic acid,67271-66-3,N/A,N/A,N/A
+DTXSID90986566,DSSTox_Substance_Id,DTXSID90986566,Ethyl methylphosphonofluoridate,673-97-2,N/A,N/A,N/A
+DTXSID90986607,DSSTox_Substance_Id,DTXSID90986607,Ethyl 3-oxododecanoate,67342-99-8,N/A,N/A,N/A
+DTXSID90986667,DSSTox_Substance_Id,DTXSID90986667,"2-Chloro-5,8,9,10-tetrahydro-5,9-methanobenzo[8]annulen-8-amine--hydrogen chloride (1/1)",67384-24-1,N/A,N/A,N/A
+DTXSID90986940,DSSTox_Substance_Id,DTXSID90986940,"Sodium 9,10-dimethoxyanthracene-2-sulfonate",67580-39-6,N/A,N/A,N/A
+DTXSID90986965,DSSTox_Substance_Id,DTXSID90986965,4-(Propoxycarbonyl)phenyl 3-amino-4-methylbenzoate,67603-68-3,N/A,N/A,N/A
+DTXSID90987073,DSSTox_Substance_Id,DTXSID90987073,"5-(2-Fluorophenyl)-3-hydroxy-1-methyl-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one",67739-71-3,N/A,N/A,N/A
+DTXSID90987078,DSSTox_Substance_Id,DTXSID90987078,"Ethyl 6-diazo-5-oxo-5,6-dihydronaphthalene-1-sulfonate",67749-14-8,N/A,N/A,N/A
+DTXSID90987174,DSSTox_Substance_Id,DTXSID90987174,Decyl (4-chloro-2-methylphenoxy)acetate,67829-81-6,N/A,N/A,N/A
+DTXSID90987215,DSSTox_Substance_Id,DTXSID90987215,N~2~-[(1-Glycylpyrrolidin-2-yl)(hydroxy)methylidene]arginylproline,67869-62-9,N/A,N/A,N/A
+DTXSID90987255,DSSTox_Substance_Id,DTXSID90987255,"N,N''-(2-Methyl-1,3-phenylene)bis(N'-pentadecan-2-ylcarbamimidic acid)",67892-53-9,N/A,N/A,N/A
+DTXSID90987270,DSSTox_Substance_Id,DTXSID90987270,"2-Hydroxyhexane-1,6-diyl diprop-2-enoate",67905-48-0,N/A,N/A,N/A
+DTXSID90987295,DSSTox_Substance_Id,DTXSID90987295,"{2-(2,4-Dichlorophenyl)-2-[(1H-1,2,4-triazol-1-yl)methyl]-1,3-dioxolan-4-yl}methyl methanesulfonate",67914-86-7,N/A,N/A,N/A
+DTXSID90987331,DSSTox_Substance_Id,DTXSID90987331,Tetrakis(2-ethylhexanoyl) orthosilicate,67939-81-5,N/A,N/A,N/A
+DTXSID90987437,DSSTox_Substance_Id,DTXSID90987437,"2-Amino-N-(3,4-dimethylphenyl)-2-oxoethanimidic acid",68015-71-4,N/A,N/A,N/A
+DTXSID90987513,DSSTox_Substance_Id,DTXSID90987513,2-Methylbutyl decanoate,68067-33-4,N/A,N/A,N/A
+DTXSID90987538,DSSTox_Substance_Id,DTXSID90987538,"Ethane-1,2-diyl bis{hydrogen [3-(isocyanatomethyl)phenyl]carbonimidate}",68092-73-9,N/A,N/A,N/A
+DTXSID90987593,DSSTox_Substance_Id,DTXSID90987593,"2,4,4,4-Tetrachlorobutanoyl chloride",68121-36-8,N/A,N/A,N/A
+DTXSID90987598,DSSTox_Substance_Id,DTXSID90987598,"(2-Pentadecyl-1,3-dioxolan-4-yl)methyl 2-(trimethylazaniumyl)ethyl phosphate",68124-68-5,N/A,N/A,N/A
+DTXSID90987614,DSSTox_Substance_Id,DTXSID90987614,"Sodium 2-(2-{2-[2,3-bis(2-methylpropyl)phenoxy]ethoxy}ethoxy)ethane-1-sulfonate",68132-81-0,N/A,N/A,N/A
+DTXSID90987679,DSSTox_Substance_Id,DTXSID90987679,4-Ethyloctanedioyl dichloride,68171-36-8,N/A,N/A,N/A
+DTXSID90987699,DSSTox_Substance_Id,DTXSID90987699,Hydroxyacetic acid--N-{2-[(2-hydroxyethyl)amino]ethyl}-16-methylheptadecanimidic acid (1/1),68189-10-6,N/A,N/A,N/A
+DTXSID90987917,DSSTox_Substance_Id,DTXSID90987917,"10-(2,4-Dimethylphenyl)-8-imino-N,N,6,9-tetramethyl-8,10-dihydrophenazin-2-amine--hydrogen chloride (1/1)",6837-45-2,N/A,N/A,N/A
+DTXSID90987997,DSSTox_Substance_Id,DTXSID90987997,"2-Furancarboxaldehyde, reaction products with heptanal, hydrogenated",68411-59-6,N/A,N/A,N/A
+DTXSID90988040,DSSTox_Substance_Id,DTXSID90988040,Sodium 1-oxo-1-propoxyoctadecane-9-sulfonate,68425-62-7,N/A,N/A,N/A
+DTXSID90988161,DSSTox_Substance_Id,DTXSID90988161,N-Butyl-5-nitro-2-[(prop-2-yn-1-yl)oxy]benzene-1-carboximidic acid,68505-93-1,N/A,N/A,N/A
+DTXSID90988186,DSSTox_Substance_Id,DTXSID90988186,"1,4,6-Tribromopyrene",68519-97-1,N/A,N/A,N/A
+DTXSID90988242,DSSTox_Substance_Id,DTXSID90988242,(+/-)-Halostachine,6589-55-5,N/A,N/A,N/A
+DTXSID90988262,DSSTox_Substance_Id,DTXSID90988262,"2-[(3a,4,7,7a-Tetrahydro-1H-4,7-methanoinden-3-yl)oxy]ethan-1-ol",68586-17-4,N/A,N/A,N/A
+DTXSID90988348,DSSTox_Substance_Id,DTXSID90988348,2-Deoxy-2-[(1-hydroxyethylidene)amino]-1-O-phosphonohexopyranose,6866-69-9,N/A,N/A,N/A
+DTXSID90988363,DSSTox_Substance_Id,DTXSID90988363,"1,1'-[(2,3-Dimethyl-1,4-phenylene)di(ethane-1,1-diyl)]dibenzene",68678-76-2,N/A,N/A,N/A
+DTXSID90988383,DSSTox_Substance_Id,DTXSID90988383,Stigmast-7-en-3-ol,6869-99-4,N/A,N/A,N/A
+DTXSID90988429,DSSTox_Substance_Id,DTXSID90988429,"2,3-Bis[(octadec-9-enoyl)oxy]propyl 2-(trimethylazaniumyl)ethyl phosphate",68737-67-7,N/A,N/A,N/A
+DTXSID90988469,DSSTox_Substance_Id,DTXSID90988469,"2-Hydroxy-11,15-dioxo-12,20-epoxypregn-5-en-3-yl 2,6-dideoxy-3-O-methylhexopyranoside",6877-39-0,N/A,N/A,N/A
+DTXSID90988505,DSSTox_Substance_Id,DTXSID90988505,"2-{1-[2-(2-Chlorophenyl)ethyl]-4-hydroxypiperidin-4-yl}-N-cyclohexyl-N,2-dimethylpropanamide",68797-29-5,N/A,N/A,N/A
+DTXSID90988560,DSSTox_Substance_Id,DTXSID90988560,"[(Ethane-1,2-diyl)bis(oxy)-2-hydroxypropane-3,1-diyl] bis(2-methylprop-2-enoate)",68856-43-9,N/A,N/A,N/A
+DTXSID90988565,DSSTox_Substance_Id,DTXSID90988565,"3-(Dimethoxymethyl)-1,1-dimethoxypentane",68860-51-5,N/A,N/A,N/A
+DTXSID90988681,DSSTox_Substance_Id,DTXSID90988681,"1,3-Dimethyl-2,3,3a,4,9,9a-hexahydro-1H-cyclopenta[b]naphthalene",68954-04-1,N/A,N/A,N/A
+DTXSID90988707,DSSTox_Substance_Id,DTXSID90988707,"4-{4-[(4-Iminocyclohexa-2,5-dien-1-yl)(4-methylphenyl)methyl]anilino}benzene-1-sulfonic acid",68966-37-0,N/A,N/A,N/A
+DTXSID90988747,DSSTox_Substance_Id,DTXSID90988747,"Butyl tridecyl benzene-1,2-dicarboxylate",256481-48-8,N/A,N/A,N/A
+DTXSID90988803,DSSTox_Substance_Id,DTXSID90988803,"4-(4-{[4-(3-Carboxypropoxy)phenyl][4-(dimethyliminio)cyclohexa-2,5-dien-1-ylidene]methyl}phenoxy)butanoate",69087-42-9,N/A,N/A,N/A
+DTXSID90988843,DSSTox_Substance_Id,DTXSID90988843,2-Methylpropyl 2-bromopropanoate,69122-46-9,N/A,N/A,N/A
+DTXSID90988904,DSSTox_Substance_Id,DTXSID90988904,Mugineic_acid,69199-37-7,N/A,N/A,N/A
+DTXSID90988949,DSSTox_Substance_Id,DTXSID90988949,2-(Dodec-11-en-1-yl)oxirane,69227-94-7,N/A,N/A,N/A
+DTXSID90989512,DSSTox_Substance_Id,DTXSID90989512,Lithium N-(2-sulfoethyl)ethanimidate,69538-62-1,N/A,N/A,N/A
+DTXSID90989592,DSSTox_Substance_Id,DTXSID90989592,2-[(4-Aminopentyl)(ethyl)amino]ethan-1-ol,69559-11-1,N/A,N/A,N/A
+DTXSID90989618,DSSTox_Substance_Id,DTXSID90989618,"2,2'-(Hydrazinediylidenedimethanylylidene)dipyridine",6957-24-0,N/A,N/A,N/A
+DTXSID90989678,DSSTox_Substance_Id,DTXSID90989678,"5-Fluoro-5,6-dihydropyrimidine-2,4-diol",696-06-0,N/A,N/A,N/A
+DTXSID90989739,DSSTox_Substance_Id,DTXSID90989739,2-Ethoxyethyl 3-oxobutanoate,6963-40-2,N/A,N/A,N/A
+DTXSID90989830,DSSTox_Substance_Id,DTXSID90989830,N-(1-Hydroxy-2-{[hydroxy(phenyl)methylidene]amino}-3-phenylpropylidene)alanylproline,69677-91-4,N/A,N/A,N/A
+DTXSID90990042,DSSTox_Substance_Id,DTXSID90990042,"5,6,7-Trimethoxynaphthalene-2-carboxylic acid",69791-81-7,N/A,N/A,N/A
+DTXSID90990123,DSSTox_Substance_Id,DTXSID90990123,"4-Nonyl-1,1'-biphenyl",69856-11-7,N/A,N/A,N/A
+DTXSID90990300,DSSTox_Substance_Id,DTXSID90990300,"3,3,6,7-Tetramethyl-2,3-dihydro-1H-inden-5-ol",70057-25-9,N/A,N/A,N/A
+DTXSID90990345,DSSTox_Substance_Id,DTXSID90990345,3-Hydroxybutyl 2-methylprop-2-enoate,70103-32-1,N/A,N/A,N/A
+DTXSID90990466,DSSTox_Substance_Id,DTXSID90990466,"3-Amino-N-(8-hydroxy-4,6-disulfonaphthalen-1-yl)benzene-1-carboximidic acid",70239-77-9,N/A,N/A,N/A
+DTXSID90990628,DSSTox_Substance_Id,DTXSID90990628,"2',3',5,6-Tetramethyl[1,1'-biphenyl]-2,4'-diol",70421-89-5,N/A,N/A,N/A
+DTXSID90990840,DSSTox_Substance_Id,DTXSID90990840,1-Chloro-3-[3-(2-methylpropyl)phenoxy]benzene,70624-13-4,N/A,N/A,N/A
+DTXSID90990906,DSSTox_Substance_Id,DTXSID90990906,Pimavanserin,706779-91-1,N/A,N/A,N/A
+DTXSID90991211,DSSTox_Substance_Id,DTXSID90991211,N~2~-[6-Amino-2-({2-[(2-amino-1-hydroxyethylidene)amino]-1-hydroxyethylidene}amino)-1-hydroxyhexylidene]arginine,70921-63-0,N/A,N/A,N/A
+DTXSID90991216,DSSTox_Substance_Id,DTXSID90991216,"2-{4-[3-Fluoro-8-(propan-2-yl)-10,11-dihydrodibenzo[b,f]thiepin-10-yl]piperazin-1-yl}ethan-1-ol",70931-18-9,N/A,N/A,N/A
+DTXSID90991296,DSSTox_Substance_Id,DTXSID90991296,"Tris[(1,2,3,4,4a,5,8,8a-octahydro-1,4:5,8-dimethanonaphthalen-2-yl)methyl] phosphite",71002-30-7,N/A,N/A,N/A
+DTXSID90991332,DSSTox_Substance_Id,DTXSID90991332,tert-Butyl (4-aminophenyl)carbamate,71026-66-9,N/A,N/A,N/A
+DTXSID90991413,DSSTox_Substance_Id,DTXSID90991413,"3,6-Dimethylhept-5-enenitrile",71097-32-0,N/A,N/A,N/A
+DTXSID90991433,DSSTox_Substance_Id,DTXSID90991433,Sodium 4-(oxoarsanyl)benzene-1-sulfonate,71130-50-2,N/A,N/A,N/A
+DTXSID90991751,DSSTox_Substance_Id,DTXSID90991751,(4-Aminophenyl)(4-fluorophenyl)acetonitrile--hydrogen chloride (1/1),71411-78-4,N/A,N/A,N/A
+DTXSID90991756,DSSTox_Substance_Id,DTXSID90991756,"4-Amino-N-(4-amino-2,5-diethoxyphenyl)benzamide",71411-89-7,N/A,N/A,N/A
+DTXSID90991872,DSSTox_Substance_Id,DTXSID90991872,Miranol MHT,71463-34-8,N/A,N/A,N/A
+DTXSID90991958,DSSTox_Substance_Id,DTXSID90991958,"2,6-Di(butan-2-yl)cyclohexan-1-one",71501-12-7,N/A,N/A,N/A
+DTXSID90991973,DSSTox_Substance_Id,DTXSID90991973,Bis(2-chlorocyclopentyl)methanone,71501-41-2,N/A,N/A,N/A
+DTXSID90992026,DSSTox_Substance_Id,DTXSID90992026,N-(4-Chloro-2-nitrophenyl)carbamimidic acid,7153-86-8,N/A,N/A,N/A
+DTXSID90992162,DSSTox_Substance_Id,DTXSID90992162,(3-Ethoxy-3-oxopropanoyl)methanimidic acid,71607-36-8,N/A,N/A,N/A
+DTXSID90992182,DSSTox_Substance_Id,DTXSID90992182,1-[2-Methyl-5-(propan-2-yl)cyclohexyl]propan-1-one,71617-13-5,N/A,N/A,N/A
+DTXSID90992208,DSSTox_Substance_Id,DTXSID90992208,"4,5-Dinitroanthracen-9(10H)-one",71630-67-6,N/A,N/A,N/A
+DTXSID90992228,DSSTox_Substance_Id,DTXSID90992228,2-(4-Methylcyclohex-3-en-1-yl)propan-2-yl phenylacetate,71648-36-7,N/A,N/A,N/A
+DTXSID90992243,DSSTox_Substance_Id,DTXSID90992243,"3,7-Dimethyloct-6-en-1-yl 4-methylpentanoate",71662-18-5,N/A,N/A,N/A
+DTXSID90992248,DSSTox_Substance_Id,DTXSID90992248,"3,7-Dimethyloctyl 3-methylbutanoate",71662-26-5,N/A,N/A,N/A
+DTXSID90992268,DSSTox_Substance_Id,DTXSID90992268,"2,2,6-Trichloro-7-oxabicyclo[4.1.0]heptane-1-carboximidic acid",71672-80-5,N/A,N/A,N/A
+DTXSID90992329,DSSTox_Substance_Id,DTXSID90992329,2-Methoxy-4-nitroaniline--hydrogen chloride (1/1),71720-49-5,N/A,N/A,N/A
+DTXSID90992344,DSSTox_Substance_Id,DTXSID90992344,"N~2~-{2-[(2-Amino-1,3-dihydroxybutylidene)amino]-1,3-dihydroxypropylidene}lysine",71730-64-8,N/A,N/A,N/A
+DTXSID90992364,DSSTox_Substance_Id,DTXSID90992364,"2,6-Diimino-5-methyl-1,2,3,6-tetrahydropyrimidin-4-amine",71735-34-7,N/A,N/A,N/A
+DTXSID90992369,DSSTox_Substance_Id,DTXSID90992369,"5,5'-Oxybis(N,N,N-trimethylpentan-1-aminium) dichloride",7174-23-4,N/A,N/A,N/A
+DTXSID90992384,DSSTox_Substance_Id,DTXSID90992384,"3,4-Dichloro-2-(methylsulfanyl)phenol",71750-46-4,N/A,N/A,N/A
+DTXSID90992445,DSSTox_Substance_Id,DTXSID90992445,1-(2-Methyloxolan-2-yl)methanamine,7179-94-4,N/A,N/A,N/A
+DTXSID90992546,DSSTox_Substance_Id,DTXSID90992546,"1,2,4-Trimethylcyclohex-3-ene-1-carbaldehyde",71832-78-5,N/A,N/A,N/A
+DTXSID90992581,DSSTox_Substance_Id,DTXSID90992581,2-[2-(Piperidin-2-yl)ethoxy]ethan-1-ol,71872-99-6,N/A,N/A,N/A
+DTXSID90992622,DSSTox_Substance_Id,DTXSID90992622,"4-(4-Fluorophenyl)-5-[2-(4-phenylpiperazin-1-yl)ethyl]-2H-1,3-dioxol-2-one--hydrogen chloride (1/2)",71922-95-7,N/A,N/A,N/A
+DTXSID90992667,DSSTox_Substance_Id,DTXSID90992667,"N-Benzyl-N,N-dimethyl-2-[2-(2-methyloctyl)phenoxy]ethan-1-aminium chloride",71975-57-0,N/A,N/A,N/A
+DTXSID90992687,DSSTox_Substance_Id,DTXSID90992687,2-Amino-4-(2-amino-5-hydroxyphenyl)-4-oxobutanoato(4-),720-00-3,N/A,N/A,N/A
+DTXSID90992728,DSSTox_Substance_Id,DTXSID90992728,"N-{6-[(2,5-Dioxopyrrolidin-1-yl)oxy]-6-oxohexyl}-5-(2-hydroxy-3a,4,6,6a-tetrahydro-1H-thieno[3,4-d]imidazol-6-yl)pentanimidic acid",72040-63-2,N/A,N/A,N/A
+DTXSID90992925,DSSTox_Substance_Id,DTXSID90992925,(3-Chloro-4-hydroxyphenyl)(hydroxy)acetic acid,72198-15-3,N/A,N/A,N/A
+DTXSID90992980,DSSTox_Substance_Id,DTXSID90992980,2-Butoxyethyl 4-nitrobenzoate,72241-40-8,N/A,N/A,N/A
+DTXSID90992985,DSSTox_Substance_Id,DTXSID90992985,"N~1~-(2,2,6,6-Tetramethylpiperidin-4-yl)hexane-1,6-diamine",72245-37-5,N/A,N/A,N/A
+DTXSID90993038,DSSTox_Substance_Id,DTXSID90993038,"5-Amino-1,8-dihydroxy-4-[(hydroxymethyl)amino]-4a,9a-dihydroanthracene-9,10-dione",72275-97-9,N/A,N/A,N/A
+DTXSID90993114,DSSTox_Substance_Id,DTXSID90993114,2-(4-Ethylpiperazin-1-yl)-4-phenylquinoline,72320-59-3,N/A,N/A,N/A
+DTXSID90993174,DSSTox_Substance_Id,DTXSID90993174,"Tris(3,5,5-trimethylhexyl) phosphate",72386-53-9,N/A,N/A,N/A
+DTXSID90993235,DSSTox_Substance_Id,DTXSID90993235,"16-(Acetyloxy)-3-{[2,6-dideoxyhexopyranosyl-(1->4)-2,6-dideoxyhexopyranosyl-(1->4)-2,6-dideoxyhexopyranosyl]oxy}-14-hydroxycard-20(22)-enolide",7242-07-1,N/A,N/A,N/A
+DTXSID90993255,DSSTox_Substance_Id,DTXSID90993255,1-Nitro-4-propoxybenzene,7244-77-1,N/A,N/A,N/A
+DTXSID90993437,DSSTox_Substance_Id,DTXSID90993437,"1-(5-Nitro-1,3-thiazol-2-yl)-4,5-dihydro-1H-imidazole-2,4-diol",72589-86-7,N/A,N/A,N/A
+DTXSID90993518,DSSTox_Substance_Id,DTXSID90993518,"2,3-Dideoxy-3-methylpentitol",72692-98-9,N/A,N/A,N/A
+DTXSID90993533,DSSTox_Substance_Id,DTXSID90993533,"2-[(2-{[(Furan-2-yl)methyl]sulfanyl}ethyl)imino]-5-[(6-methylpyridin-3-yl)methyl]-1,2-dihydropyrimidin-4-ol",72717-05-6,N/A,N/A,N/A
+DTXSID90993634,DSSTox_Substance_Id,DTXSID90993634,"1,3,6-Tri-O-acetyl-2-deoxy-2-[(1-hydroxyethylidene)amino]-4-O-{3,4,6-tri-O-acetyl-2-deoxy-2-[(1-hydroxyethylidene)amino]hexopyranosyl}hexopyranose",7284-18-6,N/A,N/A,N/A
+DTXSID90993715,DSSTox_Substance_Id,DTXSID90993715,3-Anilinopropane-1-sulfonic acid,72943-20-5,N/A,N/A,N/A
+DTXSID90993735,DSSTox_Substance_Id,DTXSID90993735,"1-[Bis(2,4-dinitrophenyl)methyl]-4-tert-butylpyridin-1-ium chloride",72964-78-4,N/A,N/A,N/A
+DTXSID90993831,DSSTox_Substance_Id,DTXSID90993831,"N~1~,N~5~-Bis[3-(dimethylamino)propyl]-2-[(1-hydroxydodecylidene)amino]pentanediimidic acid",73067-87-5,N/A,N/A,N/A
+DTXSID90993896,DSSTox_Substance_Id,DTXSID90993896,Bis(1-chloropropan-2-yl) (1-chloropropan-2-yl)phosphonate,7316-55-4,N/A,N/A,N/A
+DTXSID90993917,DSSTox_Substance_Id,DTXSID90993917,Cobalt(3+) sodium 2-({2-azanidyl-6-[(2-hydroxypropyl)sulfamoyl]naphthalen-1-yl}diazenyl)-6-nitrophenolate 1-[(5-chloro-2-oxidophenyl)diazenyl]naphthalen-2-olate (1/1/1/1),73195-17-2,N/A,N/A,N/A
+DTXSID90994146,DSSTox_Substance_Id,DTXSID90994146,"5-(Hydroxymethyl)-3-(4-hydroxyphenyl)-1,3-oxazolidin-2-one",73422-72-7,N/A,N/A,N/A
+DTXSID90994242,DSSTox_Substance_Id,DTXSID90994242,"N-(2-{[(3,3,5-Trimethylcyclohexyl)oxy]carbonyl}phenyl)ethanimidic acid",73486-91-6,N/A,N/A,N/A
+DTXSID90994343,DSSTox_Substance_Id,DTXSID90994343,"10,10,12,12,15b,15c-Hexamethyl-2-(prop-1-en-2-yl)-2,3,5,6,6a,7,9,9a,10,12,15,15b,15c,16,17,17a-hexadecahydro-4bH-[1]benzopyrano[5',6':6,7]indeno[1,2-b]pyrano[4',3':3,4]cyclopenta[1,2-f]indole-3,4b,9-triol",73561-90-7,N/A,N/A,N/A
+DTXSID90994368,DSSTox_Substance_Id,DTXSID90994368,"N,1-Dimethylpiperidin-4-amine",73579-08-5,N/A,N/A,N/A
+DTXSID90994464,DSSTox_Substance_Id,DTXSID90994464,"Cyclopropyl-N,N,N-trimethylmethanaminium iodide",73664-02-5,N/A,N/A,N/A
+DTXSID90994545,DSSTox_Substance_Id,DTXSID90994545,1-Ethyl-2-methyl-1H-benzimidazol-5-amine--hydrogen chloride (1/1),73688-69-4,N/A,N/A,N/A
+DTXSID90994606,DSSTox_Substance_Id,DTXSID90994606,1-(1-Methylcyclopropyl)-1-(4-methylphenyl)ethan-1-ol,73728-61-7,N/A,N/A,N/A
+DTXSID90994646,DSSTox_Substance_Id,DTXSID90994646,2-Tetradecyloctadecanoic acid,73756-39-5,N/A,N/A,N/A
+DTXSID90995012,DSSTox_Substance_Id,DTXSID90995012,Cyclodecyl acetate,7386-24-5,N/A,N/A,N/A
+DTXSID90995037,DSSTox_Substance_Id,DTXSID90995037,"3-Hydroxyandrostane-11,17-dione",739-27-5,N/A,N/A,N/A
+DTXSID90995193,DSSTox_Substance_Id,DTXSID90995193,"3-[4-(4-Phenyl-3,4-dihydropyridin-1(2H)-yl)butyl]-1H-indole--hydrogen chloride (1/1)",73966-59-3,N/A,N/A,N/A
+DTXSID90995279,DSSTox_Substance_Id,DTXSID90995279,2-Amino-N-(naphthalen-2-yl)-3-phenylpropanimidic acid,740-57-8,N/A,N/A,N/A
+DTXSID90995698,DSSTox_Substance_Id,DTXSID90995698,4-[(4-Chlorobutane-1-sulfonyl)amino]benzene-1-sulfonamide,74220-53-4,N/A,N/A,N/A
+DTXSID90995719,DSSTox_Substance_Id,DTXSID90995719,2-Amino-3-(1H-imidazol-5-yl)-N-(naphthalen-2-yl)propanimidic acid,7424-15-9,N/A,N/A,N/A
+DTXSID90996004,DSSTox_Substance_Id,DTXSID90996004,Prop-2-en-1-yl chloro(oxo)acetate,74503-07-4,N/A,N/A,N/A
+DTXSID90996069,DSSTox_Substance_Id,DTXSID90996069,"2,2,2-Trichloro-1-(diphenoxyphosphoryl)ethyl acetate",74548-80-4,N/A,N/A,N/A
+DTXSID90996100,DSSTox_Substance_Id,DTXSID90996100,"3,5,5-Trimethylhexyl (2,4,5-trichlorophenoxy)acetate",74592-66-8,N/A,N/A,N/A
+DTXSID90996165,DSSTox_Substance_Id,DTXSID90996165,"5-(Chlorosulfonyl)-2,3-dimethoxybenzoic acid",74651-62-0,N/A,N/A,N/A
+DTXSID90996605,DSSTox_Substance_Id,DTXSID90996605,"N~2~-[14-Amino-5-benzyl-1,4,7,10,13-pentahydroxy-15-(4-hydroxyphenyl)-2-(2-methylpropyl)-3,6,9,12-tetraazapentadeca-3,6,9,12-tetraen-1-ylidene]arginine",75106-70-6,N/A,N/A,N/A
+DTXSID90996625,DSSTox_Substance_Id,DTXSID90996625,"4-[Chloro(phenyl)methyl]-1,1'-biphenyl",7515-73-3,N/A,N/A,N/A
+DTXSID90996721,DSSTox_Substance_Id,DTXSID90996721,"Potassium 2-chloro-N-({2-[(2-{[4-(cyclohexylamino)-9,10-dioxo-9,10-dihydroanthracen-1-yl]amino}cyclohexyl)methyl]-3-sulfophenyl}methyl)ethanimidate",75247-19-7,N/A,N/A,N/A
+DTXSID90996842,DSSTox_Substance_Id,DTXSID90996842,"3-(Prop-2-en-1-yl)oxolane-2,5-dione",7539-12-0,N/A,N/A,N/A
+DTXSID90996862,DSSTox_Substance_Id,DTXSID90996862,"6-tert-Butyl-1,2,3,4-tetrahydroquinoline",75413-98-8,N/A,N/A,N/A
+DTXSID90996903,DSSTox_Substance_Id,DTXSID90996903,1-Chloro-1-methylcyclododecane,75458-20-7,N/A,N/A,N/A
+DTXSID90997132,DSSTox_Substance_Id,DTXSID90997132,"9-Hydroxy-1',1',4,4,12'-pentamethyl-6',7',8',9',10',10'a-hexahydro-1'H,3'H,4H,4'H-spiro[1,4-dioxepino[2,3-g]indole-8,2'-[3a,9a](epiminomethano)cyclopenta[b]quinolizin]-11'-one",75731-43-0,N/A,N/A,N/A
+DTXSID90997334,DSSTox_Substance_Id,DTXSID90997334,"1-[(4-Fluorophenyl)methyl]-N-(piperidin-4-yl)-1,3-dihydro-2H-benzimidazol-2-imine--hydrogen bromide (1/2)",75970-64-8,N/A,N/A,N/A
+DTXSID90997359,DSSTox_Substance_Id,DTXSID90997359,"3-[4-(2-{4-[(Oxiran-2-yl)methoxy]phenyl}propan-2-yl)phenoxy]propane-1,2-diol",76002-91-0,N/A,N/A,N/A
+DTXSID90997516,DSSTox_Substance_Id,DTXSID90997516,"3-(4-Methoxyphenyl)-1-(2,4,6-trihydroxyphenyl)propan-1-one",76172-68-4,N/A,N/A,N/A
+DTXSID90997657,DSSTox_Substance_Id,DTXSID90997657,"N,N'-Dibutylsulfuric diamide",763-11-1,N/A,N/A,N/A
+DTXSID90997834,DSSTox_Substance_Id,DTXSID90997834,"4-(Hydroxymethyl)-4-methyl-1-(4-methylphenyl)-4,5-dihydro-1H-pyrazol-3-ol",76444-94-5,N/A,N/A,N/A
+DTXSID90997910,DSSTox_Substance_Id,DTXSID90997910,7-Fluoro-3-(methanesulfonyl)-1-methylquinolin-4(1H)-one,76568-68-8,N/A,N/A,N/A
+DTXSID90997950,DSSTox_Substance_Id,DTXSID90997950,"3,3-Dichloro-5-phenyloxolan-2-one",76617-38-4,N/A,N/A,N/A
+DTXSID90997990,DSSTox_Substance_Id,DTXSID90997990,"1,1-Bis(4-fluorophenyl)-2-(1H-1,2,4-triazol-1-yl)ethan-1-ol",76674-12-9,N/A,N/A,N/A
+DTXSID90998104,DSSTox_Substance_Id,DTXSID90998104,"1-[2,5-Bis(2,2,2-trifluoroethoxy)phenyl]-2,2,2-trichloroethan-1-one",76784-42-4,N/A,N/A,N/A
+DTXSID90998164,DSSTox_Substance_Id,DTXSID90998164,N-[(2-Nitrophenyl)sulfanyl]serine,7685-69-0,N/A,N/A,N/A
+DTXSID90998169,DSSTox_Substance_Id,DTXSID90998169,"Diethyl 2-ethenylcyclopropane-1,1-dicarboxylate",7686-78-4,N/A,N/A,N/A
+DTXSID90998280,DSSTox_Substance_Id,DTXSID90998280,"N~1~,N~6~-Bis[3-(ethoxycarbonyl)-2,4,6-triiodophenyl]hexanediimidic acid",76994-60-0,N/A,N/A,N/A
+DTXSID90998301,DSSTox_Substance_Id,DTXSID90998301,"16,17-Dihydroxy-3,20-dioxopregna-1,4,9(11)-trien-21-yl acetate",77017-20-0,N/A,N/A,N/A
+DTXSID90998346,DSSTox_Substance_Id,DTXSID90998346,N-[N'-Methyl-N-(2-{[(4-methyl-1H-imidazol-5-yl)methyl]sulfanyl}ethyl)carbamimidoyl]carbamimidic acid,77076-18-7,N/A,N/A,N/A
+DTXSID90998482,DSSTox_Substance_Id,DTXSID90998482,N-Decylprop-2-enimidic acid,77237-89-9,N/A,N/A,N/A
+DTXSID90998523,DSSTox_Substance_Id,DTXSID90998523,"2-(1H-1,2,4-Triazol-3-yl)ethan-1-amine",7728-75-8,N/A,N/A,N/A
+DTXSID90998705,DSSTox_Substance_Id,DTXSID90998705,"4-(1-Aminopropyl)-N,N,3-trimethylaniline",77502-96-6,N/A,N/A,N/A
+DTXSID90998962,DSSTox_Substance_Id,DTXSID90998962,"(8-Hydroxy-3,4-dihydroquinolin-1(2H)-yl)(pyridin-3-yl)methanone",77771-22-3,N/A,N/A,N/A
+DTXSID90999257,DSSTox_Substance_Id,DTXSID90999257,"3,6-Dimethyloctane-3,6-diol",78-65-9,N/A,N/A,N/A
+DTXSID90999590,DSSTox_Substance_Id,DTXSID90999590,3-Bromo-4-fluorobenzoyl bromide,78239-66-4,N/A,N/A,N/A
+DTXSID90999833,DSSTox_Substance_Id,DTXSID90999833,(4-Methylphenyl)(pyridin-2-yl)methanone,78539-88-5,N/A,N/A,N/A
+DTXSID90999954,DSSTox_Substance_Id,DTXSID90999954,9-[2-Deoxy-5-O-(9-phenyl-9H-xanthen-9-yl)pentofuranosyl]-6-{[hydroxy(phenyl)methylidene]amino}-9H-purine,78699-78-2,N/A,N/A,N/A
