@@ -7,3 +7,5 @@ This study set out to “ENRICH” chemical analyses of human biological samples
 **Experiment_1**- Dataset aggregation, filtering, and ranking to identify set of 1,827 chemicals for further examination, including 250 priority “ENRICH” chemicals.
 
 **Experiment_2**- High-throughput toxicokinetic analysis of chemicals identified in **Experiment_1** to investigate which substances reach urine. Additionally, an empirical decision tree of toxicokinetic parameters is generated to bin chemicals based on an estimated fraction of the parent compound excreted.
+
+**Experiment_3**- Investigation into human use profiles of the 250 ENRICH chemicals.
